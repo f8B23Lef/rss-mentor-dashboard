@@ -8,7 +8,10 @@
     "start": "webpack-dev-server --open",
     "build": "webpack --mode production",
     "lint": "eslint ./src/**/*.js",
-    "lint-fix": "eslint ./src/**/*.js --fix"
+    "lint-fix": "eslint ./src/**/*.js --fix",
+    "tasks": "node ./src/components/jsonGenerator/tasks.js",
+    "mentors": "node ./src/components/jsonGenerator/mentors.js",
+    "students": "node ./src/components/jsonGenerator/students.js"
   },
   "keywords": [],
   "author": "MalashIM",
@@ -31,6 +34,8 @@
   },
   "dependencies": {
     "babel-eslint": "^10.0.1",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "xlsx": "^0.14.1"
