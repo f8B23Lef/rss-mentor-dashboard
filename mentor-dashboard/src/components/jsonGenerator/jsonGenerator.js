@@ -1,18 +1,37 @@
-// const fs = require('fs');
+// const _ = require('lodash');
+const fs = require('fs');
+const mkdirp = require('mkdirp');
 const XLSX = require('xlsx');
-// if (typeof require !== 'undefined') XLSX = require('xlsx');
 
-console.log('---json generate---');
+const constants = require('./constants/constants');
 
-const mentorWorkbook = XLSX.readFile('./src/components/jsonGenerator/resources/Mentor-students pairs.xlsx');
-const pairsSheet = mentorWorkbook.Sheets.pairs;
-const pairsSheetJson = XLSX.utils.sheet_to_json(pairsSheet);
-const pairsLength = pairsSheetJson.length;
-console.log('pairsSheetJson', pairsSheetJson, pairsLength);
-const uniqueArray = pairsSheetJson.reduce((a, d) => {
-  if (a.indexOf(d.interviewer) === -1) {
-    a.push(d.interviewer);
-  }
-  return a;
-}, []);
-console.log('uniqueArray', uniqueArray, uniqueArray.length);
+const tasks = require('./tasks');
+const students = require('./students');
+const mentors = require('./mentors');
+
+console.log('---json generate---', Object.keys(tasks).length, Object.keys(students).length, Object.keys(mentors).length);
+
+const data = {
+  tasks,
+  students,
+  mentors,
+};
+
+const writeFile = (str) => {
+  /* eslint-disable no-console */
+  mkdirp(constants.JSON_PATH, (errDir) => {
+    if (errDir) {
+      console.error(errDir);
+    } else {
+      fs.writeFile(`${constants.JSON_PATH}${constants.JSON_FILE}`, JSON.stringify(str, null, 2), 'utf8', (errFile) => {
+        if (errFile) {
+          console.error(errFile);
+        } else {
+          console.log(`--- json is generated: ${constants.JSON_PATH}${constants.JSON_FILE} ---`);
+        }
+      });
+    }
+  });
+};
+
+writeFile(data);

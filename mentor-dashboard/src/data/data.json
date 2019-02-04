@@ -1,0 +1,4082 @@
+{
+  "tasks": {
+    "codejam\"cv\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+      "status": "checked"
+    },
+    "codejam\"corejs\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+      "status": "checked"
+    },
+    "codejam\"dom,domevents\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+      "status": "checked"
+    },
+    "markup#1": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+      "status": "checking"
+    },
+    "rsactivist": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+      "status": "in progress"
+    },
+    "youtube": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+      "status": "checking"
+    },
+    "codejam\"scoreboard\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+      "status": "checking"
+    },
+    "game": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+      "status": "in progress"
+    },
+    "coursework": {
+      "status": "todo"
+    },
+    "presentation": {
+      "status": "checked"
+    }
+  },
+  "students": {
+    "803142": {
+      "githubLink": "https://github.com/803142"
+    },
+    "grenbork": {
+      "githubLink": "https://github.com/grenbork"
+    },
+    "bananovblu": {
+      "githubLink": "https://github.com/bananovblu"
+    },
+    "bmvmarc": {
+      "githubLink": "https://github.com/bmvmarc"
+    },
+    "taukitianin": {
+      "githubLink": "https://github.com/taukitianin"
+    },
+    "deepenguin": {
+      "githubLink": "https://github.com/deepenguin"
+    },
+    "agentumbrella": {
+      "githubLink": "https://github.com/agentumbrella"
+    },
+    "justforwebcoding": {
+      "githubLink": "https://github.com/justforwebcoding"
+    },
+    "anastasiaburlo": {
+      "githubLink": "https://github.com/anastasiaburlo"
+    },
+    "devandscorp": {
+      "githubLink": "https://github.com/devandscorp"
+    },
+    "qucca": {
+      "githubLink": "https://github.com/qucca"
+    },
+    "lexbogos": {
+      "githubLink": "https://github.com/lexbogos"
+    },
+    "zebabrat": {
+      "githubLink": "https://github.com/zebabrat"
+    },
+    "devildummy": {
+      "githubLink": "https://github.com/devildummy"
+    },
+    "dzmitry-karachun-1987": {
+      "githubLink": "https://github.com/dzmitry-karachun-1987"
+    },
+    "serg8": {
+      "githubLink": "https://github.com/serg8"
+    },
+    "nik-av": {
+      "githubLink": "https://github.com/nik-av"
+    },
+    "kishkun": {
+      "githubLink": "https://github.com/kishkun"
+    },
+    "tsygancova": {
+      "githubLink": "https://github.com/tsygancova"
+    },
+    "dmitryduk3": {
+      "githubLink": "https://github.com/dmitryduk3"
+    },
+    "nikola2390": {
+      "githubLink": "https://github.com/nikola2390"
+    },
+    "sashajohnson": {
+      "githubLink": "https://github.com/sashajohnson"
+    },
+    "yagorka1": {
+      "githubLink": "https://github.com/yagorka1"
+    },
+    "prudnikov888": {
+      "githubLink": "https://github.com/prudnikov888"
+    },
+    "sergeyskakun": {
+      "githubLink": "https://github.com/sergeyskakun"
+    },
+    "petersonby": {
+      "githubLink": "https://github.com/petersonby"
+    },
+    "aliaksandrposakh": {
+      "githubLink": "https://github.com/aliaksandrposakh"
+    },
+    "formalinfigs": {
+      "githubLink": "https://github.com/formalinfigs"
+    },
+    "sxe2255": {
+      "githubLink": "https://github.com/sxe2255"
+    },
+    "vovair": {
+      "githubLink": "https://github.com/vovair"
+    },
+    "ingvaroldd": {
+      "githubLink": "https://github.com/ingvaroldd"
+    },
+    "bragodin": {
+      "githubLink": "https://github.com/bragodin"
+    },
+    "fantom141": {
+      "githubLink": "https://github.com/fantom141"
+    },
+    "samo-war": {
+      "githubLink": "https://github.com/samo-war"
+    },
+    "vitalur": {
+      "githubLink": "https://github.com/vitalur"
+    },
+    "jrzlve": {
+      "githubLink": "https://github.com/jrzlve"
+    },
+    "panikutysh": {
+      "githubLink": "https://github.com/panikutysh"
+    },
+    "vlukyane": {
+      "githubLink": "https://github.com/vlukyane"
+    },
+    "vladimirdobrik": {
+      "githubLink": "https://github.com/vladimirdobrik"
+    },
+    "frol8612": {
+      "githubLink": "https://github.com/frol8612"
+    },
+    "tvorchud": {
+      "githubLink": "https://github.com/tvorchud"
+    },
+    "iharvypau": {
+      "githubLink": "https://github.com/iharvypau"
+    },
+    "vitalijsk": {
+      "githubLink": "https://github.com/vitalijsk"
+    },
+    "burach0k": {
+      "githubLink": "https://github.com/burach0k"
+    },
+    "denyingthetruth": {
+      "githubLink": "https://github.com/denyingthetruth"
+    },
+    "invikto": {
+      "githubLink": "https://github.com/invikto"
+    },
+    "khaliulinroman": {
+      "githubLink": "https://github.com/khaliulinroman"
+    },
+    "slayer110": {
+      "githubLink": "https://github.com/slayer110"
+    },
+    "kvinto1986": {
+      "githubLink": "https://github.com/kvinto1986"
+    },
+    "quiquek007": {
+      "githubLink": "https://github.com/quiquek007"
+    },
+    "mohax-13": {
+      "githubLink": "https://github.com/mohax-13"
+    },
+    "ksenia-ok": {
+      "githubLink": "https://github.com/ksenia-ok"
+    },
+    "noviceblunderer": {
+      "githubLink": "https://github.com/noviceblunderer"
+    },
+    "kristalys": {
+      "githubLink": "https://github.com/kristalys"
+    },
+    "splin-shady": {
+      "githubLink": "https://github.com/splin-shady"
+    },
+    "katrin-kot": {
+      "githubLink": "https://github.com/katrin-kot"
+    },
+    "gattygamaun": {
+      "githubLink": "https://github.com/gattygamaun"
+    },
+    "mariyapolt": {
+      "githubLink": "https://github.com/mariyapolt"
+    },
+    "0riac": {
+      "githubLink": "https://github.com/0riac"
+    },
+    "terstuyahmaksim": {
+      "githubLink": "https://github.com/terstuyahmaksim"
+    },
+    "nickitasolovei": {
+      "githubLink": "https://github.com/nickitasolovei"
+    },
+    "saint-artiom": {
+      "githubLink": "https://github.com/saint-artiom"
+    },
+    "andrey-lobach": {
+      "githubLink": "https://github.com/andrey-lobach"
+    },
+    "pitergtx": {
+      "githubLink": "https://github.com/pitergtx"
+    },
+    "alexandravlasenko": {
+      "githubLink": "https://github.com/alexandravlasenko"
+    },
+    "painincoming": {
+      "githubLink": "https://github.com/painincoming"
+    },
+    "apivovarchik": {
+      "githubLink": "https://github.com/apivovarchik"
+    },
+    "ruslandimitriuk": {
+      "githubLink": "https://github.com/ruslandimitriuk"
+    },
+    "temachkin11": {
+      "githubLink": "https://github.com/temachkin11"
+    },
+    "iamhappy2day": {
+      "githubLink": "https://github.com/iamhappy2day"
+    },
+    "katiekruchko": {
+      "githubLink": "https://github.com/katiekruchko"
+    },
+    "artser97": {
+      "githubLink": "https://github.com/artser97"
+    },
+    "stasnegreev": {
+      "githubLink": "https://github.com/stasnegreev"
+    },
+    "moluram": {
+      "githubLink": "https://github.com/moluram"
+    },
+    "cheeska": {
+      "githubLink": "https://github.com/cheeska"
+    },
+    "nesteklo": {
+      "githubLink": "https://github.com/nesteklo"
+    },
+    "dasnein": {
+      "githubLink": "https://github.com/dasnein"
+    },
+    "xlopec23": {
+      "githubLink": "https://github.com/xlopec23"
+    },
+    "odinrossy": {
+      "githubLink": "https://github.com/odinrossy"
+    },
+    "vlad0mag0": {
+      "githubLink": "https://github.com/vlad0mag0"
+    },
+    "kir-22": {
+      "githubLink": "https://github.com/kir-22"
+    },
+    "snaiperlod": {
+      "githubLink": "https://github.com/snaiperlod"
+    },
+    "llitrixkod": {
+      "githubLink": "https://github.com/llitrixkod"
+    },
+    "kvatoferma": {
+      "githubLink": "https://github.com/kvatoferma"
+    },
+    "vladagaravaya": {
+      "githubLink": "https://github.com/vladagaravaya"
+    },
+    "chernyshovaalexandra": {
+      "githubLink": "https://github.com/chernyshovaalexandra"
+    },
+    "jacksonbr87": {
+      "githubLink": "https://github.com/jacksonbr87"
+    },
+    "mrchester": {
+      "githubLink": "https://github.com/mrchester"
+    },
+    "mxwoodie": {
+      "githubLink": "https://github.com/mxwoodie"
+    },
+    "psevkin": {
+      "githubLink": "https://github.com/psevkin"
+    },
+    "alexeevadaria": {
+      "githubLink": "https://github.com/alexeevadaria"
+    },
+    "spiritforest": {
+      "githubLink": "https://github.com/spiritforest"
+    },
+    "chekni": {
+      "githubLink": "https://github.com/chekni"
+    },
+    "shymaxer": {
+      "githubLink": "https://github.com/shymaxer"
+    },
+    "leshich": {
+      "githubLink": "https://github.com/leshich"
+    },
+    "tamefreak": {
+      "githubLink": "https://github.com/tamefreak"
+    },
+    "shutya": {
+      "githubLink": "https://github.com/shutya"
+    },
+    "dgekaa": {
+      "githubLink": "https://github.com/dgekaa"
+    },
+    "leontyevatatyana": {
+      "githubLink": "https://github.com/leontyevatatyana"
+    },
+    "19alexandr90": {
+      "githubLink": "https://github.com/19alexandr90"
+    },
+    "uniorunr": {
+      "githubLink": "https://github.com/uniorunr"
+    },
+    "alexeydavydov": {
+      "githubLink": "https://github.com/alexeydavydov"
+    },
+    "melllivoracapensis": {
+      "githubLink": "https://github.com/melllivoracapensis"
+    },
+    "soulshaker": {
+      "githubLink": "https://github.com/soulshaker"
+    },
+    "bezchekera": {
+      "githubLink": "https://github.com/bezchekera"
+    },
+    "nadinaaa": {
+      "githubLink": "https://github.com/nadinaaa"
+    },
+    "volunyshka": {
+      "githubLink": "https://github.com/volunyshka"
+    },
+    "grnkvch": {
+      "githubLink": "https://github.com/grnkvch"
+    },
+    "driliad": {
+      "githubLink": "https://github.com/driliad"
+    },
+    "yanamina": {
+      "githubLink": "https://github.com/yanamina"
+    },
+    "katepavlovich": {
+      "githubLink": "https://github.com/katepavlovich"
+    },
+    "youngbrick": {
+      "githubLink": "https://github.com/youngbrick"
+    },
+    "alekengineer": {
+      "githubLink": "https://github.com/alekengineer"
+    },
+    "kottt4": {
+      "githubLink": "https://github.com/kottt4"
+    },
+    "walkunderrain": {
+      "githubLink": "https://github.com/walkunderrain"
+    },
+    "latiertiw": {
+      "githubLink": "https://github.com/latiertiw"
+    },
+    "sined1": {
+      "githubLink": "https://github.com/sined1"
+    },
+    "vladzuev": {
+      "githubLink": "https://github.com/vladzuev"
+    },
+    "christinaalimova": {
+      "githubLink": "https://github.com/christinaalimova"
+    },
+    "vireah": {
+      "githubLink": "https://github.com/vireah"
+    },
+    "yarobei": {
+      "githubLink": "https://github.com/yarobei"
+    },
+    "alexandrtichon": {
+      "githubLink": "https://github.com/alexandrtichon"
+    },
+    "yanyan155": {
+      "githubLink": "https://github.com/yanyan155"
+    },
+    "pkutsilina": {
+      "githubLink": "https://github.com/pkutsilina"
+    },
+    "kozyritskiy": {
+      "githubLink": "https://github.com/kozyritskiy"
+    },
+    "artyom123": {
+      "githubLink": "https://github.com/artyom123"
+    },
+    "evamaster": {
+      "githubLink": "https://github.com/evamaster"
+    },
+    "elenakhamitsevich": {
+      "githubLink": "https://github.com/elenakhamitsevich"
+    },
+    "nastyalo": {
+      "githubLink": "https://github.com/nastyalo"
+    },
+    "lveliarl": {
+      "githubLink": "https://github.com/lveliarl"
+    },
+    "spinagrblzzz": {
+      "githubLink": "https://github.com/spinagrblzzz"
+    },
+    "sergaunt": {
+      "githubLink": "https://github.com/sergaunt"
+    },
+    "brateckrolikstudent": {
+      "githubLink": "https://github.com/brateckrolikstudent"
+    },
+    "venomamd": {
+      "githubLink": "https://github.com/venomamd"
+    },
+    "vetal11": {
+      "githubLink": "https://github.com/vetal11"
+    },
+    "ishelest": {
+      "githubLink": "https://github.com/ishelest"
+    },
+    "yakgjen": {
+      "githubLink": "https://github.com/yakgjen"
+    },
+    "alexandrshlyaeu": {
+      "githubLink": "https://github.com/alexandrshlyaeu"
+    },
+    "inanutshell86": {
+      "githubLink": "https://github.com/inanutshell86"
+    },
+    "sffirm": {
+      "githubLink": "https://github.com/sffirm"
+    },
+    "zetrox-x": {
+      "githubLink": "https://github.com/zetrox-x"
+    },
+    "juliasnoww": {
+      "githubLink": "https://github.com/juliasnoww"
+    },
+    "goner52": {
+      "githubLink": "https://github.com/goner52"
+    },
+    "poyuki": {
+      "githubLink": "https://github.com/poyuki"
+    },
+    "elmavis": {
+      "githubLink": "https://github.com/elmavis"
+    },
+    "rafchillons": {
+      "githubLink": "https://github.com/rafchillons"
+    },
+    "kirylalexandrovich": {
+      "githubLink": "https://github.com/kirylalexandrovich"
+    },
+    "vlad9719": {
+      "githubLink": "https://github.com/vlad9719"
+    },
+    "mg3442": {
+      "githubLink": "https://github.com/mg3442"
+    },
+    "dimasquared": {
+      "githubLink": "https://github.com/dimasquared"
+    },
+    "smetaninpavel": {
+      "githubLink": "https://github.com/smetaninpavel"
+    },
+    "ol4ash": {
+      "githubLink": "https://github.com/ol4ash"
+    },
+    "kasper1999": {
+      "githubLink": "https://github.com/kasper1999"
+    },
+    "ivanmikhailenka1": {
+      "githubLink": "https://github.com/ivanmikhailenka1"
+    },
+    "ener9ettt": {
+      "githubLink": "https://github.com/ener9ettt"
+    },
+    "petromath77": {
+      "githubLink": "https://github.com/petromath77"
+    },
+    "barsolet": {
+      "githubLink": "https://github.com/barsolet"
+    },
+    "yanrishbe": {
+      "githubLink": "https://github.com/yanrishbe"
+    },
+    "juliamv": {
+      "githubLink": "https://github.com/juliamv"
+    },
+    "icebergnevercries": {
+      "githubLink": "https://github.com/icebergnevercries"
+    },
+    "tamarashautsova": {
+      "githubLink": "https://github.com/tamarashautsova"
+    },
+    "vladyaremeko": {
+      "githubLink": "https://github.com/vladyaremeko"
+    },
+    "ton9q": {
+      "githubLink": "https://github.com/ton9q"
+    },
+    "nktvlkvch": {
+      "githubLink": "https://github.com/nktvlkvch"
+    },
+    "valentinlipai": {
+      "githubLink": "https://github.com/valentinlipai"
+    },
+    "mazhoranta": {
+      "githubLink": "https://github.com/mazhoranta"
+    },
+    "smajlichak": {
+      "githubLink": "https://github.com/smajlichak"
+    },
+    "zm1try": {
+      "githubLink": "https://github.com/zm1try"
+    },
+    "jstrr": {
+      "githubLink": "https://github.com/jstrr"
+    },
+    "kirill82": {
+      "githubLink": "https://github.com/kirill82"
+    },
+    "blackcat1397": {
+      "githubLink": "https://github.com/blackcat1397"
+    },
+    "olegkizz": {
+      "githubLink": "https://github.com/olegkizz"
+    },
+    "lazouskikiryl": {
+      "githubLink": "https://github.com/lazouskikiryl"
+    },
+    "dimabog22": {
+      "githubLink": "https://github.com/dimabog22"
+    },
+    "bigshaqmnh": {
+      "githubLink": "https://github.com/bigshaqmnh"
+    },
+    "antonnaumchik": {
+      "githubLink": "https://github.com/antonnaumchik"
+    },
+    "torchik-slava": {
+      "githubLink": "https://github.com/torchik-slava"
+    },
+    "antihero": {
+      "githubLink": "https://github.com/antihero"
+    },
+    "karpiyeniamv": {
+      "githubLink": "https://github.com/karpiyeniamv"
+    },
+    "kirillzavorotni": {
+      "githubLink": "https://github.com/kirillzavorotni"
+    },
+    "makar1227": {
+      "githubLink": "https://github.com/makar1227"
+    },
+    "mudreuski": {
+      "githubLink": "https://github.com/mudreuski"
+    },
+    "artkon": {
+      "githubLink": "https://github.com/artkon"
+    },
+    "yaroslav-mig": {
+      "githubLink": "https://github.com/yaroslav-mig"
+    },
+    "novikovantony": {
+      "githubLink": "https://github.com/novikovantony"
+    },
+    "mayblackwood": {
+      "githubLink": "https://github.com/mayblackwood"
+    },
+    "anastminsk": {
+      "githubLink": "https://github.com/anastminsk"
+    },
+    "28halavach": {
+      "githubLink": "https://github.com/28halavach"
+    },
+    "40grivenprog": {
+      "githubLink": "https://github.com/40grivenprog"
+    },
+    "igordive": {
+      "githubLink": "https://github.com/igordive"
+    },
+    "nataliamotuz": {
+      "githubLink": "https://github.com/nataliamotuz"
+    },
+    "arkhipenka": {
+      "githubLink": "https://github.com/arkhipenka"
+    },
+    "abespolov": {
+      "githubLink": "https://github.com/abespolov"
+    },
+    "zzhiharevich": {
+      "githubLink": "https://github.com/zzhiharevich"
+    },
+    "dimaspivas": {
+      "githubLink": "https://github.com/dimaspivas"
+    },
+    "maxkonopelko": {
+      "githubLink": "https://github.com/maxkonopelko"
+    },
+    "mentos2805": {
+      "githubLink": "https://github.com/mentos2805"
+    },
+    "sergeybandar": {
+      "githubLink": "https://github.com/sergeybandar"
+    },
+    "alexanderkononok": {
+      "githubLink": "https://github.com/alexanderkononok"
+    },
+    "mrmars20": {
+      "githubLink": "https://github.com/mrmars20"
+    },
+    "metalhammer4": {
+      "githubLink": "https://github.com/metalhammer4"
+    },
+    "rudlevsky": {
+      "githubLink": "https://github.com/rudlevsky"
+    },
+    "ostik266": {
+      "githubLink": "https://github.com/ostik266"
+    },
+    "katekosushkina": {
+      "githubLink": "https://github.com/katekosushkina"
+    },
+    "viki-klipp": {
+      "githubLink": "https://github.com/viki-klipp"
+    },
+    "anyalenko": {
+      "githubLink": "https://github.com/anyalenko"
+    },
+    "northingvar": {
+      "githubLink": "https://github.com/northingvar"
+    },
+    "mrdreaml": {
+      "githubLink": "https://github.com/mrdreaml"
+    },
+    "tsypolina": {
+      "githubLink": "https://github.com/tsypolina"
+    },
+    "evgeniy121": {
+      "githubLink": "https://github.com/evgeniy121"
+    },
+    "jadgptw": {
+      "githubLink": "https://github.com/jadgptw"
+    },
+    "sobolevyuri": {
+      "githubLink": "https://github.com/sobolevyuri"
+    },
+    "credov": {
+      "githubLink": "https://github.com/credov"
+    },
+    "clericus": {
+      "githubLink": "https://github.com/clericus"
+    },
+    "dbaceko": {
+      "githubLink": "https://github.com/dbaceko"
+    },
+    "frontsideman": {
+      "githubLink": "https://github.com/frontsideman"
+    },
+    "nastya-ropot": {
+      "githubLink": "https://github.com/nastya-ropot"
+    },
+    "mozgoen": {
+      "githubLink": "https://github.com/mozgoen"
+    },
+    "hellsingi": {
+      "githubLink": "https://github.com/hellsingi"
+    },
+    "yeilya": {
+      "githubLink": "https://github.com/yeilya"
+    },
+    "polotenchik": {
+      "githubLink": "https://github.com/polotenchik"
+    },
+    "tshkursk": {
+      "githubLink": "https://github.com/tshkursk"
+    },
+    "olgaluk": {
+      "githubLink": "https://github.com/olgaluk"
+    },
+    "groamed": {
+      "githubLink": "https://github.com/groamed"
+    },
+    "grapeperson": {
+      "githubLink": "https://github.com/grapeperson"
+    },
+    "rbarakhvostov": {
+      "githubLink": "https://github.com/rbarakhvostov"
+    },
+    "silichstudent": {
+      "githubLink": "https://github.com/silichstudent"
+    },
+    "vvikota": {
+      "githubLink": "https://github.com/vvikota"
+    },
+    "leonard1k": {
+      "githubLink": "https://github.com/leonard1k"
+    },
+    "mariakisel": {
+      "githubLink": "https://github.com/mariakisel"
+    },
+    "qxfisher": {
+      "githubLink": "https://github.com/qxfisher"
+    },
+    "bulbazubr": {
+      "githubLink": "https://github.com/bulbazubr"
+    },
+    "sergeiobolevich": {
+      "githubLink": "https://github.com/sergeiobolevich"
+    },
+    "dimashcherbakov": {
+      "githubLink": "https://github.com/dimashcherbakov"
+    },
+    "feulia": {
+      "githubLink": "https://github.com/feulia"
+    },
+    "magi-a": {
+      "githubLink": "https://github.com/magi-a"
+    },
+    "andrewyanushkevich": {
+      "githubLink": "https://github.com/andrewyanushkevich"
+    },
+    "glebhleb": {
+      "githubLink": "https://github.com/glebhleb"
+    },
+    "segrey1989": {
+      "githubLink": "https://github.com/segrey1989"
+    },
+    "kotukjubotuk": {
+      "githubLink": "https://github.com/kotukjubotuk"
+    },
+    "nikkola07": {
+      "githubLink": "https://github.com/nikkola07"
+    },
+    "alexandershaternik": {
+      "githubLink": "https://github.com/alexandershaternik"
+    },
+    "okband": {
+      "githubLink": "https://github.com/okband"
+    },
+    "sunrisekovalevski": {
+      "githubLink": "https://github.com/sunrisekovalevski"
+    },
+    "spacebrains": {
+      "githubLink": "https://github.com/spacebrains"
+    },
+    "pincherinka": {
+      "githubLink": "https://github.com/pincherinka"
+    },
+    "victoriathebrave": {
+      "githubLink": "https://github.com/victoriathebrave"
+    },
+    "ivanmatsur": {
+      "githubLink": "https://github.com/ivanmatsur"
+    },
+    "usermeme": {
+      "githubLink": "https://github.com/usermeme"
+    },
+    "virusss": {
+      "githubLink": "https://github.com/virusss"
+    },
+    "nikaz123": {
+      "githubLink": "https://github.com/nikaz123"
+    },
+    "a-lika": {
+      "githubLink": "https://github.com/a-lika"
+    },
+    "uniqkue": {
+      "githubLink": "https://github.com/uniqkue"
+    },
+    "sqwezzy": {
+      "githubLink": "https://github.com/sqwezzy"
+    },
+    "nikaneider": {
+      "githubLink": "https://github.com/nikaneider"
+    },
+    "rebellix": {
+      "githubLink": "https://github.com/rebellix"
+    },
+    "litwin90": {
+      "githubLink": "https://github.com/litwin90"
+    },
+    "dzmitrybabak": {
+      "githubLink": "https://github.com/dzmitrybabak"
+    },
+    "systemghost": {
+      "githubLink": "https://github.com/systemghost"
+    },
+    "eugenetime": {
+      "githubLink": "https://github.com/eugenetime"
+    },
+    "alexnaidovich": {
+      "githubLink": "https://github.com/alexnaidovich"
+    },
+    "ivanchikovvalentin": {
+      "githubLink": "https://github.com/ivanchikovvalentin"
+    },
+    "ewelai": {
+      "githubLink": "https://github.com/ewelai"
+    },
+    "denhock": {
+      "githubLink": "https://github.com/denhock"
+    },
+    "kirillgalimov": {
+      "githubLink": "https://github.com/kirillgalimov"
+    },
+    "igor-provotorov": {
+      "githubLink": "https://github.com/igor-provotorov"
+    },
+    "kamatozzzik": {
+      "githubLink": "https://github.com/kamatozzzik"
+    },
+    "heaveek": {
+      "githubLink": "https://github.com/heaveek"
+    },
+    "olegsabodash": {
+      "githubLink": "https://github.com/olegsabodash"
+    },
+    "andriva": {
+      "githubLink": "https://github.com/andriva"
+    },
+    "meearlyam": {
+      "githubLink": "https://github.com/meearlyam"
+    },
+    "veronikavasilchikova": {
+      "githubLink": "https://github.com/veronikavasilchikova"
+    },
+    "aleks210219": {
+      "githubLink": "https://github.com/aleks210219"
+    },
+    "krlktv": {
+      "githubLink": "https://github.com/krlktv"
+    },
+    "dsv-sergey": {
+      "githubLink": "https://github.com/dsv-sergey"
+    },
+    "nadezhda-kotova": {
+      "githubLink": "https://github.com/nadezhda-kotova"
+    },
+    "alexalizurchik": {
+      "githubLink": "https://github.com/alexalizurchik"
+    },
+    "pavellyolya": {
+      "githubLink": "https://github.com/pavellyolya"
+    },
+    "mailikey": {
+      "githubLink": "https://github.com/mailikey"
+    },
+    "vladesco": {
+      "githubLink": "https://github.com/vladesco"
+    },
+    "drdiman": {
+      "githubLink": "https://github.com/drdiman"
+    },
+    "dzmitrymashuk": {
+      "githubLink": "https://github.com/dzmitrymashuk"
+    },
+    "ipixby": {
+      "githubLink": "https://github.com/ipixby"
+    },
+    "nickprudnik": {
+      "githubLink": "https://github.com/nickprudnik"
+    },
+    "vitalitybo": {
+      "githubLink": "https://github.com/vitalitybo"
+    },
+    "kirillfilipp": {
+      "githubLink": "https://github.com/kirillfilipp"
+    },
+    "gemsgame": {
+      "githubLink": "https://github.com/gemsgame"
+    },
+    "axissixa57": {
+      "githubLink": "https://github.com/axissixa57"
+    },
+    "maxstarovoitov": {
+      "githubLink": "https://github.com/maxstarovoitov"
+    },
+    "nemkev": {
+      "githubLink": "https://github.com/nemkev"
+    },
+    "dianatsevan": {
+      "githubLink": "https://github.com/dianatsevan"
+    },
+    "christopher-0118": {
+      "githubLink": "https://github.com/christopher-0118"
+    },
+    "happy-mary": {
+      "githubLink": "https://github.com/happy-mary"
+    },
+    "onaker": {
+      "githubLink": "https://github.com/onaker"
+    },
+    "igorbyl": {
+      "githubLink": "https://github.com/igorbyl"
+    },
+    "maksyermak": {
+      "githubLink": "https://github.com/maksyermak"
+    },
+    "riba0017": {
+      "githubLink": "https://github.com/riba0017"
+    },
+    "maksimaliakhnovich": {
+      "githubLink": "https://github.com/maksimaliakhnovich"
+    },
+    "superorange": {
+      "githubLink": "https://github.com/superorange"
+    },
+    "artsiom-zhuk": {
+      "githubLink": "https://github.com/artsiom-zhuk"
+    },
+    "yauheni23": {
+      "githubLink": "https://github.com/yauheni23"
+    },
+    "yevganytyurin": {
+      "githubLink": "https://github.com/yevganytyurin"
+    },
+    "pofs": {
+      "githubLink": "https://github.com/pofs"
+    },
+    "alexeykuril0": {
+      "githubLink": "https://github.com/alexeykuril0"
+    },
+    "kragov": {
+      "githubLink": "https://github.com/kragov"
+    },
+    "gruzinskiiartem": {
+      "githubLink": "https://github.com/gruzinskiiartem"
+    },
+    "pivchenkosv": {
+      "githubLink": "https://github.com/pivchenkosv"
+    },
+    "andreisavelyev": {
+      "githubLink": "https://github.com/andreisavelyev"
+    },
+    "kira2023": {
+      "githubLink": "https://github.com/kira2023"
+    },
+    "vvsvintsitsky": {
+      "githubLink": "https://github.com/vvsvintsitsky"
+    },
+    "molestador": {
+      "githubLink": "https://github.com/molestador"
+    },
+    "kiryllapouski": {
+      "githubLink": "https://github.com/kiryllapouski"
+    },
+    "eugene3112": {
+      "githubLink": "https://github.com/eugene3112"
+    },
+    "heat98": {
+      "githubLink": "https://github.com/heat98"
+    },
+    "tanyamatesha": {
+      "githubLink": "https://github.com/tanyamatesha"
+    },
+    "egorgorbik": {
+      "githubLink": "https://github.com/egorgorbik"
+    },
+    "vicrodzko": {
+      "githubLink": "https://github.com/vicrodzko"
+    },
+    "ilyatrat": {
+      "githubLink": "https://github.com/ilyatrat"
+    },
+    "unbelievablysmart": {
+      "githubLink": "https://github.com/unbelievablysmart"
+    },
+    "viktoryia-hrechykha": {
+      "githubLink": "https://github.com/viktoryia-hrechykha"
+    },
+    "pavalescoba": {
+      "githubLink": "https://github.com/pavalescoba"
+    },
+    "kashapov": {
+      "githubLink": "https://github.com/kashapov"
+    },
+    "michaeldaineka": {
+      "githubLink": "https://github.com/michaeldaineka"
+    },
+    "lesechka": {
+      "githubLink": "https://github.com/lesechka"
+    },
+    "vasiliyrepin": {
+      "githubLink": "https://github.com/vasiliyrepin"
+    },
+    "mike80by": {
+      "githubLink": "https://github.com/mike80by"
+    },
+    "sergeyshestak": {
+      "githubLink": "https://github.com/sergeyshestak"
+    },
+    "victorbelikov": {
+      "githubLink": "https://github.com/victorbelikov"
+    },
+    "auseika": {
+      "githubLink": "https://github.com/auseika"
+    },
+    "iharpadbiarezski": {
+      "githubLink": "https://github.com/iharpadbiarezski"
+    },
+    "kirillstarlight": {
+      "githubLink": "https://github.com/kirillstarlight"
+    },
+    "waldemar999": {
+      "githubLink": "https://github.com/waldemar999"
+    },
+    "kushnerevich": {
+      "githubLink": "https://github.com/kushnerevich"
+    },
+    "igarok91": {
+      "githubLink": "https://github.com/igarok91"
+    },
+    "aliakseibabko": {
+      "githubLink": "https://github.com/aliakseibabko"
+    },
+    "gleb7raul": {
+      "githubLink": "https://github.com/gleb7raul"
+    },
+    "zhekaprb": {
+      "githubLink": "https://github.com/zhekaprb"
+    },
+    "nightman20104": {
+      "githubLink": "https://github.com/nightman20104"
+    },
+    "irin-ka": {
+      "githubLink": "https://github.com/irin-ka"
+    },
+    "daniil-loban": {
+      "githubLink": "https://github.com/daniil-loban"
+    },
+    "misharsweb": {
+      "githubLink": "https://github.com/misharsweb"
+    },
+    "devbarden": {
+      "githubLink": "https://github.com/devbarden"
+    },
+    "nicklevkovich": {
+      "githubLink": "https://github.com/nicklevkovich"
+    },
+    "poiskull": {
+      "githubLink": "https://github.com/poiskull"
+    },
+    "mrio1": {
+      "githubLink": "https://github.com/mrio1"
+    },
+    "alexkashpor": {
+      "githubLink": "https://github.com/alexkashpor"
+    },
+    "dmsomov": {
+      "githubLink": "https://github.com/dmsomov"
+    },
+    "aspowerr": {
+      "githubLink": "https://github.com/aspowerr"
+    },
+    "shchelkunchik": {
+      "githubLink": "https://github.com/shchelkunchik"
+    },
+    "thatcherrr": {
+      "githubLink": "https://github.com/thatcherrr"
+    },
+    "torioyoshiko": {
+      "githubLink": "https://github.com/torioyoshiko"
+    },
+    "julialar4enko": {
+      "githubLink": "https://github.com/julialar4enko"
+    },
+    "yasell": {
+      "githubLink": "https://github.com/yasell"
+    },
+    "aleksandrmedvedev9000": {
+      "githubLink": "https://github.com/aleksandrmedvedev9000"
+    },
+    "modrix": {
+      "githubLink": "https://github.com/modrix"
+    },
+    "scarletcamomile": {
+      "githubLink": "https://github.com/scarletcamomile"
+    },
+    "tani4ik": {
+      "githubLink": "https://github.com/tani4ik"
+    },
+    "bespodobno": {
+      "githubLink": "https://github.com/bespodobno"
+    },
+    "anastasia1627": {
+      "githubLink": "https://github.com/anastasia1627"
+    },
+    "basch1727": {
+      "githubLink": "https://github.com/basch1727"
+    },
+    "lizabredberry": {
+      "githubLink": "https://github.com/lizabredberry"
+    },
+    "zartaich": {
+      "githubLink": "https://github.com/zartaich"
+    },
+    "estel1591": {
+      "githubLink": "https://github.com/estel1591"
+    },
+    "alekseymishuk": {
+      "githubLink": "https://github.com/alekseymishuk"
+    },
+    "sergeybaranovichi": {
+      "githubLink": "https://github.com/sergeybaranovichi"
+    },
+    "karina198": {
+      "githubLink": "https://github.com/karina198"
+    },
+    "arturkudlo": {
+      "githubLink": "https://github.com/arturkudlo"
+    },
+    "dimasofff": {
+      "githubLink": "https://github.com/dimasofff"
+    },
+    "6alex6kash6": {
+      "githubLink": "https://github.com/6alex6kash6"
+    },
+    "stas4it": {
+      "githubLink": "https://github.com/stas4it"
+    },
+    "vladislavmakarevich": {
+      "githubLink": "https://github.com/vladislavmakarevich"
+    },
+    "juliankov": {
+      "githubLink": "https://github.com/juliankov"
+    },
+    "niksrakevich": {
+      "githubLink": "https://github.com/niksrakevich"
+    },
+    "leshka98": {
+      "githubLink": "https://github.com/leshka98"
+    },
+    "siarheikresik": {
+      "githubLink": "https://github.com/siarheikresik"
+    },
+    "dianakay": {
+      "githubLink": "https://github.com/dianakay"
+    },
+    "tvj888": {
+      "githubLink": "https://github.com/tvj888"
+    },
+    "alexkov90": {
+      "githubLink": "https://github.com/alexkov90"
+    },
+    "mpot7": {
+      "githubLink": "https://github.com/mpot7"
+    },
+    "charmant": {
+      "githubLink": "https://github.com/charmant"
+    },
+    "andreikrivets": {
+      "githubLink": "https://github.com/andreikrivets"
+    },
+    "lavazzakate": {
+      "githubLink": "https://github.com/lavazzakate"
+    },
+    "2kevink": {
+      "githubLink": "https://github.com/2kevink"
+    },
+    "vladislavrebko": {
+      "githubLink": "https://github.com/vladislavrebko"
+    },
+    "amoyt": {
+      "githubLink": "https://github.com/amoyt"
+    },
+    "sches": {
+      "githubLink": "https://github.com/sches"
+    },
+    "simaxa7": {
+      "githubLink": "https://github.com/simaxa7"
+    },
+    "polinamoiseyenko": {
+      "githubLink": "https://github.com/polinamoiseyenko"
+    },
+    "sashakaralchuk": {
+      "githubLink": "https://github.com/sashakaralchuk"
+    },
+    "kyleshovbb": {
+      "githubLink": "https://github.com/kyleshovbb"
+    },
+    "yabeda79": {
+      "githubLink": "https://github.com/yabeda79"
+    },
+    "sergmi": {
+      "githubLink": "https://github.com/sergmi"
+    },
+    "disa0808": {
+      "githubLink": "https://github.com/disa0808"
+    },
+    "pulya10c": {
+      "githubLink": "https://github.com/pulya10c"
+    },
+    "andreiyasinski": {
+      "githubLink": "https://github.com/andreiyasinski"
+    },
+    "duza": {
+      "githubLink": "https://github.com/duza"
+    },
+    "anton23kirienko": {
+      "githubLink": "https://github.com/anton23kirienko"
+    },
+    "gandigap": {
+      "githubLink": "https://github.com/gandigap"
+    },
+    "aborisenok": {
+      "githubLink": "https://github.com/aborisenok"
+    },
+    "valiantsinlopan": {
+      "githubLink": "https://github.com/valiantsinlopan"
+    },
+    "egormiwa1": {
+      "githubLink": "https://github.com/egormiwa1"
+    },
+    "foxygirl44": {
+      "githubLink": "https://github.com/foxygirl44"
+    },
+    "stationtostation": {
+      "githubLink": "https://github.com/stationtostation"
+    },
+    "tatsianacs": {
+      "githubLink": "https://github.com/tatsianacs"
+    },
+    "kharuk": {
+      "githubLink": "https://github.com/kharuk"
+    },
+    "wald3": {
+      "githubLink": "https://github.com/wald3"
+    },
+    "yuliyahlukhatarenka": {
+      "githubLink": "https://github.com/yuliyahlukhatarenka"
+    },
+    "lapa17": {
+      "githubLink": "https://github.com/lapa17"
+    },
+    "dmitrylutskovich": {
+      "githubLink": "https://github.com/dmitrylutskovich"
+    },
+    "vladst90": {
+      "githubLink": "https://github.com/vladst90"
+    },
+    "atryomparfenenkov": {
+      "githubLink": "https://github.com/atryomparfenenkov"
+    },
+    "horoshaya": {
+      "githubLink": "https://github.com/horoshaya"
+    },
+    "martinkevichyana": {
+      "githubLink": "https://github.com/martinkevichyana"
+    },
+    "montik-pc": {
+      "githubLink": "https://github.com/montik-pc"
+    },
+    "jeka98": {
+      "githubLink": "https://github.com/jeka98"
+    },
+    "renardby": {
+      "githubLink": "https://github.com/renardby"
+    },
+    "sergeyguchok": {
+      "githubLink": "https://github.com/sergeyguchok"
+    },
+    "aytsan": {
+      "githubLink": "https://github.com/aytsan"
+    },
+    "metre-ray": {
+      "githubLink": "https://github.com/metre-ray"
+    },
+    "napro23": {
+      "githubLink": "https://github.com/napro23"
+    },
+    "artur-alexandrov": {
+      "githubLink": "https://github.com/artur-alexandrov"
+    },
+    "overkektus": {
+      "githubLink": "https://github.com/overkektus"
+    },
+    "zhekix": {
+      "githubLink": "https://github.com/zhekix"
+    },
+    "meller96": {
+      "githubLink": "https://github.com/meller96"
+    },
+    "ogurez": {
+      "githubLink": "https://github.com/ogurez"
+    },
+    "mrlapka": {
+      "githubLink": "https://github.com/mrlapka"
+    },
+    "olexxxey": {
+      "githubLink": "https://github.com/olexxxey"
+    },
+    "xelson": {
+      "githubLink": "https://github.com/xelson"
+    },
+    "amoebiusss": {
+      "githubLink": "https://github.com/amoebiusss"
+    },
+    "megustafather": {
+      "githubLink": "https://github.com/megustafather"
+    },
+    "tebeskashi": {
+      "githubLink": "https://github.com/tebeskashi"
+    },
+    "pinkrefugee": {
+      "githubLink": "https://github.com/pinkrefugee"
+    },
+    "daqueze21": {
+      "githubLink": "https://github.com/daqueze21"
+    },
+    "beetle23": {
+      "githubLink": "https://github.com/beetle23"
+    },
+    "lynyx": {
+      "githubLink": "https://github.com/lynyx"
+    },
+    "tomsssm": {
+      "githubLink": "https://github.com/tomsssm"
+    },
+    "colambus13": {
+      "githubLink": "https://github.com/colambus13"
+    },
+    "vergonini": {
+      "githubLink": "https://github.com/vergonini"
+    },
+    "katiar": {
+      "githubLink": "https://github.com/katiar"
+    },
+    "anaumovich": {
+      "githubLink": "https://github.com/anaumovich"
+    },
+    "kirillkolesnik123": {
+      "githubLink": "https://github.com/kirillkolesnik123"
+    },
+    "kozelkoff": {
+      "githubLink": "https://github.com/kozelkoff"
+    },
+    "vladislavshyian": {
+      "githubLink": "https://github.com/vladislavshyian"
+    },
+    "gleb-kukobnikov": {
+      "githubLink": "https://github.com/gleb-kukobnikov"
+    },
+    "sokol147": {
+      "githubLink": "https://github.com/sokol147"
+    },
+    "dantewitcher": {
+      "githubLink": "https://github.com/dantewitcher"
+    },
+    "natiedei": {
+      "githubLink": "https://github.com/natiedei"
+    },
+    "aliaksandrarybak": {
+      "githubLink": "https://github.com/aliaksandrarybak"
+    },
+    "kaleniksasha": {
+      "githubLink": "https://github.com/kaleniksasha"
+    },
+    "ue4prog": {
+      "githubLink": "https://github.com/ue4prog"
+    },
+    "sk1ngr0s": {
+      "githubLink": "https://github.com/sk1ngr0s"
+    },
+    "alexshumansky": {
+      "githubLink": "https://github.com/alexshumansky"
+    },
+    "margoshulpina": {
+      "githubLink": "https://github.com/margoshulpina"
+    },
+    "helpthewalrus": {
+      "githubLink": "https://github.com/helpthewalrus"
+    },
+    "aliaksandrlosich": {
+      "githubLink": "https://github.com/aliaksandrlosich"
+    },
+    "dmsolov": {
+      "githubLink": "https://github.com/dmsolov"
+    },
+    "bogdanka": {
+      "githubLink": "https://github.com/bogdanka"
+    },
+    "srjkaa": {
+      "githubLink": "https://github.com/srjkaa"
+    },
+    "godofnoobs": {
+      "githubLink": "https://github.com/godofnoobs"
+    },
+    "uivgray": {
+      "githubLink": "https://github.com/uivgray"
+    },
+    "sergeyakzhik": {
+      "githubLink": "https://github.com/sergeyakzhik"
+    },
+    "kulinar310": {
+      "githubLink": "https://github.com/kulinar310"
+    },
+    "cropotan": {
+      "githubLink": "https://github.com/cropotan"
+    },
+    "vitalydmitriev": {
+      "githubLink": "https://github.com/vitalydmitriev"
+    },
+    "philipsh": {
+      "githubLink": "https://github.com/philipsh"
+    },
+    "vero-nika": {
+      "githubLink": "https://github.com/vero-nika"
+    },
+    "vladsemenik": {
+      "githubLink": "https://github.com/vladsemenik"
+    },
+    "thesheepman": {
+      "githubLink": "https://github.com/thesheepman"
+    },
+    "brokorenko": {
+      "githubLink": "https://github.com/brokorenko"
+    },
+    "vovakor1": {
+      "githubLink": "https://github.com/vovakor1"
+    },
+    "hentmire": {
+      "githubLink": "https://github.com/hentmire"
+    },
+    "rubahaguy": {
+      "githubLink": "https://github.com/rubahaguy"
+    },
+    "egorbudnik": {
+      "githubLink": "https://github.com/egorbudnik"
+    },
+    "dmlaziuk": {
+      "githubLink": "https://github.com/dmlaziuk"
+    },
+    "vladqqqqoo": {
+      "githubLink": "https://github.com/vladqqqqoo"
+    },
+    "globalbobone": {
+      "githubLink": "https://github.com/globalbobone"
+    },
+    "wushukms": {
+      "githubLink": "https://github.com/wushukms"
+    },
+    "belkacraft": {
+      "githubLink": "https://github.com/belkacraft"
+    },
+    "kasatka660": {
+      "githubLink": "https://github.com/kasatka660"
+    },
+    "warryr": {
+      "githubLink": "https://github.com/warryr"
+    },
+    "alexandrapozniak": {
+      "githubLink": "https://github.com/alexandrapozniak"
+    },
+    "yuliabakhar": {
+      "githubLink": "https://github.com/yuliabakhar"
+    },
+    "ltcolumbo": {
+      "githubLink": "https://github.com/ltcolumbo"
+    },
+    "veterkam": {
+      "githubLink": "https://github.com/veterkam"
+    },
+    "yurychajkou": {
+      "githubLink": "https://github.com/yurychajkou"
+    },
+    "catrieona": {
+      "githubLink": "https://github.com/catrieona"
+    },
+    "ankorbay": {
+      "githubLink": "https://github.com/ankorbay"
+    },
+    "loori-r": {
+      "githubLink": "https://github.com/loori-r"
+    },
+    "nicalas93": {
+      "githubLink": "https://github.com/nicalas93"
+    },
+    "vldmr1": {
+      "githubLink": "https://github.com/vldmr1"
+    },
+    "shinoby85": {
+      "githubLink": "https://github.com/shinoby85"
+    },
+    "crypto-kittensseller": {
+      "githubLink": "https://github.com/crypto-kittensseller"
+    },
+    "dyadinmax": {
+      "githubLink": "https://github.com/dyadinmax"
+    },
+    "alexeynovomlinets": {
+      "githubLink": "https://github.com/alexeynovomlinets"
+    },
+    "antonysawyer": {
+      "githubLink": "https://github.com/antonysawyer"
+    },
+    "sburnt": {
+      "githubLink": "https://github.com/sburnt"
+    },
+    "tserekhivan": {
+      "githubLink": "https://github.com/tserekhivan"
+    },
+    "presidentsboyfriend": {
+      "githubLink": "https://github.com/presidentsboyfriend"
+    },
+    "eugenekhristo": {
+      "githubLink": "https://github.com/eugenekhristo"
+    },
+    "artichoks": {
+      "githubLink": "https://github.com/artichoks"
+    },
+    "anastasiyanovikovag": {
+      "githubLink": "https://github.com/anastasiyanovikovag"
+    },
+    "margaretmint": {
+      "githubLink": "https://github.com/margaretmint"
+    },
+    "anastasiyamazura": {
+      "githubLink": "https://github.com/anastasiyamazura"
+    },
+    "dezman66": {
+      "githubLink": "https://github.com/dezman66"
+    },
+    "exedystyle": {
+      "githubLink": "https://github.com/exedystyle"
+    },
+    "gaddyya": {
+      "githubLink": "https://github.com/gaddyya"
+    },
+    "tanya98": {
+      "githubLink": "https://github.com/tanya98"
+    },
+    "mixniuk": {
+      "githubLink": "https://github.com/mixniuk"
+    },
+    "xseniia": {
+      "githubLink": "https://github.com/xseniia"
+    },
+    "nataligleb": {
+      "githubLink": "https://github.com/nataligleb"
+    },
+    "valeriyager": {
+      "githubLink": "https://github.com/valeriyager"
+    },
+    "f8b23lef": {
+      "githubLink": "https://github.com/f8b23lef"
+    },
+    "yrapank": {
+      "githubLink": "https://github.com/yrapank"
+    },
+    "jenia-shibkova": {
+      "githubLink": "https://github.com/jenia-shibkova"
+    },
+    "magerrrr": {
+      "githubLink": "https://github.com/magerrrr"
+    },
+    "danila211": {
+      "githubLink": "https://github.com/danila211"
+    },
+    "juliazakharik": {
+      "githubLink": "https://github.com/juliazakharik"
+    },
+    "elusiveway": {
+      "githubLink": "https://github.com/elusiveway"
+    },
+    "cirillius": {
+      "githubLink": "https://github.com/cirillius"
+    },
+    "eugenepochenkov": {
+      "githubLink": "https://github.com/eugenepochenkov"
+    },
+    "lx-931203": {
+      "githubLink": "https://github.com/lx-931203"
+    },
+    "astravukh": {
+      "githubLink": "https://github.com/astravukh"
+    },
+    "zetorby": {
+      "githubLink": "https://github.com/zetorby"
+    },
+    "sad4itananda": {
+      "githubLink": "https://github.com/sad4itananda"
+    },
+    "kalitamih": {
+      "githubLink": "https://github.com/kalitamih"
+    },
+    "evgenprushk": {
+      "githubLink": "https://github.com/evgenprushk"
+    },
+    "mrstalon": {
+      "githubLink": "https://github.com/mrstalon"
+    },
+    "avaprin": {
+      "githubLink": "https://github.com/avaprin"
+    },
+    "haspadarz-padmensku": {
+      "githubLink": "https://github.com/haspadarz-padmensku"
+    },
+    "svoboda-rabstvo": {
+      "githubLink": "https://github.com/svoboda-rabstvo"
+    },
+    "eughene-cherepov": {
+      "githubLink": "https://github.com/eughene-cherepov"
+    },
+    "moraviin": {
+      "githubLink": "https://github.com/moraviin"
+    },
+    "petriken": {
+      "githubLink": "https://github.com/petriken"
+    },
+    "luzko": {
+      "githubLink": "https://github.com/luzko"
+    },
+    "finnibyh": {
+      "githubLink": "https://github.com/finnibyh"
+    },
+    "aglayasv": {
+      "githubLink": "https://github.com/aglayasv"
+    },
+    "tonykosmos": {
+      "githubLink": "https://github.com/tonykosmos"
+    },
+    "vanyatsar": {
+      "githubLink": "https://github.com/vanyatsar"
+    },
+    "lordshtein": {
+      "githubLink": "https://github.com/lordshtein"
+    },
+    "ekoniuh": {
+      "githubLink": "https://github.com/ekoniuh"
+    },
+    "evpodrezenko": {
+      "githubLink": "https://github.com/evpodrezenko"
+    },
+    "cruecer": {
+      "githubLink": "https://github.com/cruecer"
+    },
+    "annchapon": {
+      "githubLink": "https://github.com/annchapon"
+    },
+    "felalag": {
+      "githubLink": "https://github.com/felalag"
+    },
+    "xixex": {
+      "githubLink": "https://github.com/xixex"
+    },
+    "bumble-bee83": {
+      "githubLink": "https://github.com/bumble-bee83"
+    },
+    "mikhama": {
+      "githubLink": "https://github.com/mikhama"
+    },
+    "angryivan": {
+      "githubLink": "https://github.com/angryivan"
+    },
+    "alexandr-savkov": {
+      "githubLink": "https://github.com/alexandr-savkov"
+    },
+    "dimalinnik": {
+      "githubLink": "https://github.com/dimalinnik"
+    },
+    "garnich": {
+      "githubLink": "https://github.com/garnich"
+    },
+    "altobeyk": {
+      "githubLink": "https://github.com/altobeyk"
+    },
+    "stigmatory15": {
+      "githubLink": "https://github.com/stigmatory15"
+    },
+    "kmetkokate": {
+      "githubLink": "https://github.com/kmetkokate"
+    },
+    "wladimirmihalev": {
+      "githubLink": "https://github.com/wladimirmihalev"
+    },
+    "antoprokopovich": {
+      "githubLink": "https://github.com/antoprokopovich"
+    },
+    "iharpashkevich": {
+      "githubLink": "https://github.com/iharpashkevich"
+    },
+    "375291601334": {
+      "githubLink": "https://github.com/375291601334"
+    },
+    "shanhinpavel": {
+      "githubLink": "https://github.com/shanhinpavel"
+    },
+    "igor82bv": {
+      "githubLink": "https://github.com/igor82bv"
+    },
+    "klimenkomaksim": {
+      "githubLink": "https://github.com/klimenkomaksim"
+    },
+    "uladzimir-yeudakimovich": {
+      "githubLink": "https://github.com/uladzimir-yeudakimovich"
+    },
+    "wowprojeck": {
+      "githubLink": "https://github.com/wowprojeck"
+    },
+    "andvikvin": {
+      "githubLink": "https://github.com/andvikvin"
+    },
+    "alinkalu": {
+      "githubLink": "https://github.com/alinkalu"
+    },
+    "marry705": {
+      "githubLink": "https://github.com/marry705"
+    },
+    "fursaleksey": {
+      "githubLink": "https://github.com/fursaleksey"
+    },
+    "hursevichsergey": {
+      "githubLink": "https://github.com/hursevichsergey"
+    },
+    "oaliona": {
+      "githubLink": "https://github.com/oaliona"
+    },
+    "feodorius": {
+      "githubLink": "https://github.com/feodorius"
+    },
+    "ihar777": {
+      "githubLink": "https://github.com/ihar777"
+    },
+    "dzianiskavalionak": {
+      "githubLink": "https://github.com/dzianiskavalionak"
+    },
+    "alexsmyk1992": {
+      "githubLink": "https://github.com/alexsmyk1992"
+    },
+    "vbkoshak": {
+      "githubLink": "https://github.com/vbkoshak"
+    },
+    "maxbrainygame": {
+      "githubLink": "https://github.com/maxbrainygame"
+    },
+    "oliver337": {
+      "githubLink": "https://github.com/oliver337"
+    },
+    "kotiknalune42": {
+      "githubLink": "https://github.com/kotiknalune42"
+    },
+    "akselatom": {
+      "githubLink": "https://github.com/akselatom"
+    },
+    "maryiasiamenava": {
+      "githubLink": "https://github.com/maryiasiamenava"
+    },
+    "kotcher1": {
+      "githubLink": "https://github.com/kotcher1"
+    },
+    "kirilltovpinets": {
+      "githubLink": "https://github.com/kirilltovpinets"
+    },
+    "kasiama": {
+      "githubLink": "https://github.com/kasiama"
+    },
+    "magiccurlyhair": {
+      "githubLink": "https://github.com/magiccurlyhair"
+    },
+    "iryna-markovich": {
+      "githubLink": "https://github.com/iryna-markovich"
+    },
+    "ivankirsd": {
+      "githubLink": "https://github.com/ivankirsd"
+    },
+    "argaitt": {
+      "githubLink": "https://github.com/argaitt"
+    },
+    "danteboom": {
+      "githubLink": "https://github.com/danteboom"
+    },
+    "passhub": {
+      "githubLink": "https://github.com/passhub"
+    },
+    "andddrews": {
+      "githubLink": "https://github.com/andddrews"
+    },
+    "bref987": {
+      "githubLink": "https://github.com/bref987"
+    },
+    "sergey496": {
+      "githubLink": "https://github.com/sergey496"
+    },
+    "anna-sh": {
+      "githubLink": "https://github.com/anna-sh"
+    },
+    "ilyaryabchinski": {
+      "githubLink": "https://github.com/ilyaryabchinski"
+    },
+    "snowwe": {
+      "githubLink": "https://github.com/snowwe"
+    },
+    "fcsm-andrei": {
+      "githubLink": "https://github.com/fcsm-andrei"
+    },
+    "dongor7": {
+      "githubLink": "https://github.com/dongor7"
+    },
+    "zettrix": {
+      "githubLink": "https://github.com/zettrix"
+    },
+    "innazl": {
+      "githubLink": "https://github.com/innazl"
+    },
+    "mrdemonrush": {
+      "githubLink": "https://github.com/mrdemonrush"
+    },
+    "h0qw010xz": {
+      "githubLink": "https://github.com/h0qw010xz"
+    },
+    "nikitaklepanosov": {
+      "githubLink": "https://github.com/nikitaklepanosov"
+    },
+    "provedenceva": {
+      "githubLink": "https://github.com/provedenceva"
+    },
+    "daryz": {
+      "githubLink": "https://github.com/daryz"
+    },
+    "pavelsab": {
+      "githubLink": "https://github.com/pavelsab"
+    },
+    "ihartsykaka": {
+      "githubLink": "https://github.com/ihartsykaka"
+    },
+    "vldshch": {
+      "githubLink": "https://github.com/vldshch"
+    },
+    "naijelo": {
+      "githubLink": "https://github.com/naijelo"
+    },
+    "tridenet": {
+      "githubLink": "https://github.com/tridenet"
+    },
+    "darinalitvin": {
+      "githubLink": "https://github.com/darinalitvin"
+    },
+    "zhechka": {
+      "githubLink": "https://github.com/zhechka"
+    },
+    "andrei-oksentyk": {
+      "githubLink": "https://github.com/andrei-oksentyk"
+    },
+    "wertybsd": {
+      "githubLink": "https://github.com/wertybsd"
+    },
+    "halaveika": {
+      "githubLink": "https://github.com/halaveika"
+    },
+    "liodama": {
+      "githubLink": "https://github.com/liodama"
+    },
+    "alexey-1991": {
+      "githubLink": "https://github.com/alexey-1991"
+    },
+    "fyr-fyrrr": {
+      "githubLink": "https://github.com/fyr-fyrrr"
+    },
+    "redgektor": {
+      "githubLink": "https://github.com/redgektor"
+    },
+    "alexdejko": {
+      "githubLink": "https://github.com/alexdejko"
+    },
+    "alenashkr": {
+      "githubLink": "https://github.com/alenashkr"
+    },
+    "uniapi": {
+      "githubLink": "https://github.com/uniapi"
+    },
+    "cuppake": {
+      "githubLink": "https://github.com/cuppake"
+    },
+    "pirsfrommi6": {
+      "githubLink": "https://github.com/pirsfrommi6"
+    },
+    "luffi2539": {
+      "githubLink": "https://github.com/luffi2539"
+    },
+    "kirilltk": {
+      "githubLink": "https://github.com/kirilltk"
+    },
+    "gegorov": {
+      "githubLink": "https://github.com/gegorov"
+    },
+    "ilyakabanov": {
+      "githubLink": "https://github.com/ilyakabanov"
+    },
+    "yurec0gurec": {
+      "githubLink": "https://github.com/yurec0gurec"
+    },
+    "gubnich": {
+      "githubLink": "https://github.com/gubnich"
+    },
+    "jamadamur": {
+      "githubLink": "https://github.com/jamadamur"
+    },
+    "tsvetlanak": {
+      "githubLink": "https://github.com/tsvetlanak"
+    },
+    "alehdzmitrenka": {
+      "githubLink": "https://github.com/alehdzmitrenka"
+    },
+    "dzhudzhi": {
+      "githubLink": "https://github.com/dzhudzhi"
+    },
+    "fogfug1": {
+      "githubLink": "https://github.com/fogfug1"
+    },
+    "yauhenilyin": {
+      "githubLink": "https://github.com/yauhenilyin"
+    },
+    "dmitrigorchanin": {
+      "githubLink": "https://github.com/dmitrigorchanin"
+    },
+    "soundmafi": {
+      "githubLink": "https://github.com/soundmafi"
+    },
+    "makouskiyan": {
+      "githubLink": "https://github.com/makouskiyan"
+    },
+    "shest28": {
+      "githubLink": "https://github.com/shest28"
+    },
+    "max-violent": {
+      "githubLink": "https://github.com/max-violent"
+    },
+    "rick42morty": {
+      "githubLink": "https://github.com/rick42morty"
+    },
+    "dloz": {
+      "githubLink": "https://github.com/dloz"
+    },
+    "scifsyh": {
+      "githubLink": "https://github.com/scifsyh"
+    },
+    "tgfrey": {
+      "githubLink": "https://github.com/tgfrey"
+    },
+    "aalexsoloveiko": {
+      "githubLink": "https://github.com/aalexsoloveiko"
+    },
+    "sergeibel": {
+      "githubLink": "https://github.com/sergeibel"
+    },
+    "do100han": {
+      "githubLink": "https://github.com/do100han"
+    },
+    "zhecha": {
+      "githubLink": "https://github.com/zhecha"
+    },
+    "odegay": {
+      "githubLink": "https://github.com/odegay"
+    },
+    "mill9r": {
+      "githubLink": "https://github.com/mill9r"
+    },
+    "egoncharov": {
+      "githubLink": "https://github.com/egoncharov"
+    },
+    "elostryy": {
+      "githubLink": "https://github.com/elostryy"
+    },
+    "eauheni": {
+      "githubLink": "https://github.com/eauheni"
+    },
+    "mikhailnakanechny": {
+      "githubLink": "https://github.com/mikhailnakanechny"
+    },
+    "maringoka": {
+      "githubLink": "https://github.com/maringoka"
+    },
+    "aleksei-bulgak-study": {
+      "githubLink": "https://github.com/aleksei-bulgak-study"
+    },
+    "margharita": {
+      "githubLink": "https://github.com/margharita"
+    },
+    "lazovskyigor": {
+      "githubLink": "https://github.com/lazovskyigor"
+    },
+    "dyatelvudu": {
+      "githubLink": "https://github.com/dyatelvudu"
+    },
+    "ivandubrouski": {
+      "githubLink": "https://github.com/ivandubrouski"
+    },
+    "mrforsyte": {
+      "githubLink": "https://github.com/mrforsyte"
+    },
+    "krisstets": {
+      "githubLink": "https://github.com/krisstets"
+    },
+    "yuriy17": {
+      "githubLink": "https://github.com/yuriy17"
+    },
+    "olgakuksa": {
+      "githubLink": "https://github.com/olgakuksa"
+    },
+    "eliznovo": {
+      "githubLink": "https://github.com/eliznovo"
+    },
+    "vitalij21": {
+      "githubLink": "https://github.com/vitalij21"
+    },
+    "annakolesnikova": {
+      "githubLink": "https://github.com/annakolesnikova"
+    },
+    "eliendil": {
+      "githubLink": "https://github.com/eliendil"
+    },
+    "a11mo": {
+      "githubLink": "https://github.com/a11mo"
+    },
+    "thecobolt": {
+      "githubLink": "https://github.com/thecobolt"
+    },
+    "alexandrasitnikova": {
+      "githubLink": "https://github.com/alexandrasitnikova"
+    },
+    "vitalibrych333": {
+      "githubLink": "https://github.com/vitalibrych333"
+    },
+    "pavelkiru": {
+      "githubLink": "https://github.com/pavelkiru"
+    },
+    "shestakoff1441": {
+      "githubLink": "https://github.com/shestakoff1441"
+    },
+    "katezhukel": {
+      "githubLink": "https://github.com/katezhukel"
+    },
+    "bardashevich-matvei": {
+      "githubLink": "https://github.com/bardashevich-matvei"
+    },
+    "korbann": {
+      "githubLink": "https://github.com/korbann"
+    },
+    "yevgeniypy": {
+      "githubLink": "https://github.com/yevgeniypy"
+    },
+    "tatyana-andreichyk": {
+      "githubLink": "https://github.com/tatyana-andreichyk"
+    },
+    "supersmf": {
+      "githubLink": "https://github.com/supersmf"
+    },
+    "toxandreev": {
+      "githubLink": "https://github.com/toxandreev"
+    },
+    "evgeniyaverbiczkaya": {
+      "githubLink": "https://github.com/evgeniyaverbiczkaya"
+    },
+    "martikoscoder": {
+      "githubLink": "https://github.com/martikoscoder"
+    },
+    "mayinmarch": {
+      "githubLink": "https://github.com/mayinmarch"
+    },
+    "christina-ilyushonok": {
+      "githubLink": "https://github.com/christina-ilyushonok"
+    },
+    "kottanakor": {
+      "githubLink": "https://github.com/kottanakor"
+    },
+    "daryazel": {
+      "githubLink": "https://github.com/daryazel"
+    },
+    "alenakharytonchyk": {
+      "githubLink": "https://github.com/alenakharytonchyk"
+    },
+    "drizzlman": {
+      "githubLink": "https://github.com/drizzlman"
+    },
+    "yonguksaram": {
+      "githubLink": "https://github.com/yonguksaram"
+    },
+    "palessie": {
+      "githubLink": "https://github.com/palessie"
+    },
+    "ustilushka": {
+      "githubLink": "https://github.com/ustilushka"
+    },
+    "zzvipz": {
+      "githubLink": "https://github.com/zzvipz"
+    },
+    "dmitrylenko": {
+      "githubLink": "https://github.com/dmitrylenko"
+    },
+    "underdoglzd": {
+      "githubLink": "https://github.com/underdoglzd"
+    },
+    "psychotheus": {
+      "githubLink": "https://github.com/psychotheus"
+    },
+    "lowershotower": {
+      "githubLink": "https://github.com/lowershotower"
+    },
+    "bn1knb": {
+      "githubLink": "https://github.com/bn1knb"
+    },
+    "zerovers": {
+      "githubLink": "https://github.com/zerovers"
+    },
+    "25kopek": {
+      "githubLink": "https://github.com/25kopek"
+    },
+    "robertiqk": {
+      "githubLink": "https://github.com/robertiqk"
+    },
+    "pozharitskiy": {
+      "githubLink": "https://github.com/pozharitskiy"
+    },
+    "aliakseik19": {
+      "githubLink": "https://github.com/aliakseik19"
+    },
+    "tarsupon": {
+      "githubLink": "https://github.com/tarsupon"
+    },
+    "roman-nareiko": {
+      "githubLink": "https://github.com/roman-nareiko"
+    },
+    "evilamany": {
+      "githubLink": "https://github.com/evilamany"
+    },
+    "xvorob": {
+      "githubLink": "https://github.com/xvorob"
+    },
+    "pelya98": {
+      "githubLink": "https://github.com/pelya98"
+    },
+    "vladsanko": {
+      "githubLink": "https://github.com/vladsanko"
+    },
+    "serzhanhelena": {
+      "githubLink": "https://github.com/serzhanhelena"
+    },
+    "georgyminsk": {
+      "githubLink": "https://github.com/georgyminsk"
+    },
+    "greg1996": {
+      "githubLink": "https://github.com/greg1996"
+    },
+    "goldenkit": {
+      "githubLink": "https://github.com/goldenkit"
+    },
+    "shet1990": {
+      "githubLink": "https://github.com/shet1990"
+    },
+    "maksagit": {
+      "githubLink": "https://github.com/maksagit"
+    },
+    "melk0sha": {
+      "githubLink": "https://github.com/melk0sha"
+    },
+    "tanyasamal": {
+      "githubLink": "https://github.com/tanyasamal"
+    },
+    "karsash": {
+      "githubLink": "https://github.com/karsash"
+    },
+    "dimadk24": {
+      "githubLink": "https://github.com/dimadk24"
+    },
+    "eveshad": {
+      "githubLink": "https://github.com/eveshad"
+    },
+    "mbulldozer": {
+      "githubLink": "https://github.com/mbulldozer"
+    },
+    "starkary": {
+      "githubLink": "https://github.com/starkary"
+    },
+    "olgalazarevich": {
+      "githubLink": "https://github.com/olgalazarevich"
+    },
+    "holeil": {
+      "githubLink": "https://github.com/holeil"
+    },
+    "bsiropchik": {
+      "githubLink": "https://github.com/bsiropchik"
+    },
+    "scratchor": {
+      "githubLink": "https://github.com/scratchor"
+    },
+    "montes5": {
+      "githubLink": "https://github.com/montes5"
+    },
+    "mrspunki": {
+      "githubLink": "https://github.com/mrspunki"
+    },
+    "maksstef": {
+      "githubLink": "https://github.com/maksstef"
+    },
+    "ilyay95": {
+      "githubLink": "https://github.com/ilyay95"
+    },
+    "allexblaze": {
+      "githubLink": "https://github.com/allexblaze"
+    },
+    "dekim12": {
+      "githubLink": "https://github.com/dekim12"
+    },
+    "dimamavrin": {
+      "githubLink": "https://github.com/dimamavrin"
+    },
+    "vitalmizevich": {
+      "githubLink": "https://github.com/vitalmizevich"
+    },
+    "mikhailmaniuk": {
+      "githubLink": "https://github.com/mikhailmaniuk"
+    },
+    "shakhnovapolina": {
+      "githubLink": "https://github.com/shakhnovapolina"
+    },
+    "yana-bashtyk": {
+      "githubLink": "https://github.com/yana-bashtyk"
+    },
+    "olganaranovich": {
+      "githubLink": "https://github.com/olganaranovich"
+    },
+    "ivchenkopavel": {
+      "githubLink": "https://github.com/ivchenkopavel"
+    },
+    "ruboscope": {
+      "githubLink": "https://github.com/ruboscope"
+    },
+    "alesya-polovets": {
+      "githubLink": "https://github.com/alesya-polovets"
+    },
+    "geek10010": {
+      "githubLink": "https://github.com/geek10010"
+    },
+    "antonykor": {
+      "githubLink": "https://github.com/antonykor"
+    },
+    "saniok017": {
+      "githubLink": "https://github.com/saniok017"
+    },
+    "dzmitryalfer": {
+      "githubLink": "https://github.com/dzmitryalfer"
+    },
+    "antonprotas": {
+      "githubLink": "https://github.com/antonprotas"
+    },
+    "mickbetch": {
+      "githubLink": "https://github.com/mickbetch"
+    },
+    "oconely": {
+      "githubLink": "https://github.com/oconely"
+    },
+    "natalianekrashevich": {
+      "githubLink": "https://github.com/natalianekrashevich"
+    },
+    "iryna-mazura": {
+      "githubLink": "https://github.com/iryna-mazura"
+    },
+    "kamenkoalexandr": {
+      "githubLink": "https://github.com/kamenkoalexandr"
+    },
+    "garin87": {
+      "githubLink": "https://github.com/garin87"
+    },
+    "evgenijkorob": {
+      "githubLink": "https://github.com/evgenijkorob"
+    },
+    "anxair": {
+      "githubLink": "https://github.com/anxair"
+    },
+    "siarohin": {
+      "githubLink": "https://github.com/siarohin"
+    },
+    "svyatlo": {
+      "githubLink": "https://github.com/svyatlo"
+    },
+    "shurpelevas": {
+      "githubLink": "https://github.com/shurpelevas"
+    },
+    "yanachchchka": {
+      "githubLink": "https://github.com/yanachchchka"
+    },
+    "yalovikea": {
+      "githubLink": "https://github.com/yalovikea"
+    },
+    "volhashy": {
+      "githubLink": "https://github.com/volhashy"
+    },
+    "crunkagator": {
+      "githubLink": "https://github.com/crunkagator"
+    },
+    "alenabde": {
+      "githubLink": "https://github.com/alenabde"
+    },
+    "maksimyakush": {
+      "githubLink": "https://github.com/maksimyakush"
+    },
+    "boobaley": {
+      "githubLink": "https://github.com/boobaley"
+    },
+    "anna-pronovich": {
+      "githubLink": "https://github.com/anna-pronovich"
+    },
+    "artemiusv": {
+      "githubLink": "https://github.com/artemiusv"
+    },
+    "nataliakazakevich": {
+      "githubLink": "https://github.com/nataliakazakevich"
+    },
+    "kseniyasokolovskaya": {
+      "githubLink": "https://github.com/kseniyasokolovskaya"
+    },
+    "zmichgen": {
+      "githubLink": "https://github.com/zmichgen"
+    },
+    "hecateenitharmon": {
+      "githubLink": "https://github.com/hecateenitharmon"
+    },
+    "mdgh": {
+      "githubLink": "https://github.com/mdgh"
+    },
+    "mggeroff": {
+      "githubLink": "https://github.com/mggeroff"
+    },
+    "soulos410": {
+      "githubLink": "https://github.com/soulos410"
+    },
+    "boshka0": {
+      "githubLink": "https://github.com/boshka0"
+    },
+    "mariannagarbuzova": {
+      "githubLink": "https://github.com/mariannagarbuzova"
+    },
+    "pytniza": {
+      "githubLink": "https://github.com/pytniza"
+    },
+    "ronavea": {
+      "githubLink": "https://github.com/ronavea"
+    },
+    "ahrechushkin": {
+      "githubLink": "https://github.com/ahrechushkin"
+    },
+    "huriosity": {
+      "githubLink": "https://github.com/huriosity"
+    },
+    "artyommakarov": {
+      "githubLink": "https://github.com/artyommakarov"
+    },
+    "levsha87": {
+      "githubLink": "https://github.com/levsha87"
+    },
+    "hottab9595": {
+      "githubLink": "https://github.com/hottab9595"
+    },
+    "achyrych": {
+      "githubLink": "https://github.com/achyrych"
+    },
+    "arkadz": {
+      "githubLink": "https://github.com/arkadz"
+    },
+    "maniuska": {
+      "githubLink": "https://github.com/maniuska"
+    },
+    "sachoks": {
+      "githubLink": "https://github.com/sachoks"
+    },
+    "prometei299": {
+      "githubLink": "https://github.com/prometei299"
+    },
+    "sergeypunko": {
+      "githubLink": "https://github.com/sergeypunko"
+    },
+    "zurzur": {
+      "githubLink": "https://github.com/zurzur"
+    },
+    "edaineko": {
+      "githubLink": "https://github.com/edaineko"
+    },
+    "seidou99": {
+      "githubLink": "https://github.com/seidou99"
+    }
+  },
+  "mentors": {
+    "maximuk": {
+      "githubLink": "https://github.com/maximuk",
+      "name": "sergeymaksimuk",
+      "students": [
+        "andrei-oksentyk",
+        "wertybsd",
+        "halaveika",
+        "liodama",
+        "alexey-1991",
+        "fyr-fyrrr",
+        "redgektor",
+        "alexdejko",
+        "alenashkr",
+        "uniapi"
+      ]
+    },
+    "alex-zayats": {
+      "githubLink": "https://github.com/alex-zayats",
+      "name": "aliaksandrzayats",
+      "students": [
+        "uniorunr",
+        "alexeydavydov",
+        "melllivoracapensis",
+        "soulshaker"
+      ]
+    },
+    "aliaksandrzahorski": {
+      "githubLink": "https://github.com/aliaksandrzahorski",
+      "name": "akiaksandrzahorski",
+      "students": [
+        "grenbork",
+        "bananovblu",
+        "bmvmarc",
+        "taukitianin",
+        "deepenguin"
+      ]
+    },
+    "pristavka": {
+      "githubLink": "https://github.com/pristavka",
+      "name": "siarheiprystauka",
+      "students": [
+        "jamadamur",
+        "tsvetlanak",
+        "alehdzmitrenka",
+        "dzhudzhi"
+      ]
+    },
+    "dpryshchep": {
+      "githubLink": "https://github.com/dpryshchep",
+      "name": "dzianispryshchep",
+      "students": [
+        "kira2023",
+        "vvsvintsitsky",
+        "molestador",
+        "kiryllapouski"
+      ]
+    },
+    "quantum-noise": {
+      "githubLink": "https://github.com/quantum-noise",
+      "name": "aliaksandrklimau",
+      "students": [
+        "0riac",
+        "terstuyahmaksim",
+        803142,
+        "nickitasolovei",
+        "saint-artiom"
+      ]
+    },
+    "ahaurylin": {
+      "githubLink": "https://github.com/ahaurylin",
+      "name": "artsiomhaurylin",
+      "students": [
+        "olgaluk",
+        "groamed",
+        "grapeperson",
+        "rbarakhvostov"
+      ]
+    },
+    "elgrebenchuk": {
+      "githubLink": "https://github.com/elgrebenchuk",
+      "name": "elenagrebenchuk",
+      "students": [
+        "andreiyasinski",
+        "duza",
+        "anton23kirienko",
+        "gandigap"
+      ]
+    },
+    "yganda": {
+      "githubLink": "https://github.com/yganda",
+      "name": "andreifurs",
+      "students": [
+        "ishelest",
+        "yakgjen",
+        "inanutshell86",
+        "sffirm",
+        "zetrox-x",
+        "juliasnoww",
+        "loori-r"
+      ]
+    },
+    "denisbun": {
+      "githubLink": "https://github.com/denisbun",
+      "name": "dzianisbunchanka",
+      "students": [
+        "kvinto1986",
+        "maksimaliakhnovich",
+        "superorange",
+        "yauheni23"
+      ]
+    },
+    "remapasov": {
+      "githubLink": "https://github.com/remapasov",
+      "name": "remapasov",
+      "students": [
+        "frol8612",
+        "snowwe",
+        "dongor7",
+        "zettrix",
+        "innazl"
+      ]
+    },
+    "tatsianakhinevich-epam": {
+      "githubLink": "https://github.com/tatsianakhinevich-epam",
+      "name": "tatsianakhinevich",
+      "students": [
+        "makouskiyan",
+        "shest28"
+      ]
+    },
+    "andrei-zhuk": {
+      "githubLink": "https://github.com/andrei-zhuk",
+      "name": "andreizhuk",
+      "students": [
+        "torchik-slava",
+        "antihero",
+        "karpiyeniamv",
+        "kirillzavorotni",
+        "makar1227",
+        "mudreuski",
+        "artkon"
+      ]
+    },
+    "nikitzu": {
+      "githubLink": "https://github.com/nikitzu",
+      "name": "mikitazhuikou",
+      "students": [
+        "felalag",
+        "xixex",
+        "bumble-bee83",
+        "mikhama",
+        "angryivan",
+        "alexandr-savkov",
+        "dimalinnik"
+      ]
+    },
+    "alex-mnsk": {
+      "githubLink": "https://github.com/alex-mnsk",
+      "name": "aliakseizayats",
+      "students": [
+        "kozyritskiy",
+        "artyom123",
+        "evamaster",
+        "elenakhamitsevich",
+        "nastyalo",
+        "lveliarl",
+        "spinagrblzzz"
+      ]
+    },
+    "pavelzaletski": {
+      "githubLink": "https://github.com/pavelzaletski",
+      "name": "pavelzaletski",
+      "students": [
+        "andddrews",
+        "bref987",
+        "sergey496",
+        "anna-sh",
+        "ilyaryabchinski"
+      ]
+    },
+    "yana95": {
+      "githubLink": "https://github.com/yana95",
+      "name": "yanazaitsava",
+      "students": [
+        "mikhailmaniuk",
+        "shakhnovapolina",
+        "yana-bashtyk",
+        "olganaranovich"
+      ]
+    },
+    "tibmt": {
+      "githubLink": "https://github.com/tibmt",
+      "name": "pavelyukhnevich",
+      "students": [
+        "kasiama",
+        "magiccurlyhair",
+        "iryna-markovich",
+        "ivankirsd",
+        "argaitt",
+        "danteboom",
+        "passhub"
+      ]
+    },
+    "a-yatskevich": {
+      "githubLink": "https://github.com/a-yatskevich",
+      "name": "antonyatskevich",
+      "students": [
+        "mrdreaml",
+        "tsypolina",
+        "evgeniy121",
+        "jadgptw"
+      ]
+    },
+    "viktoriyavorozhun": {
+      "githubLink": "https://github.com/viktoriyavorozhun",
+      "name": "viktoriyavorozhun",
+      "students": [
+        "toxandreev",
+        "evgeniyaverbiczkaya",
+        "martikoscoder",
+        "mayinmarch",
+        "christina-ilyushonok"
+      ]
+    },
+    "nikolaiverbitskii": {
+      "githubLink": "https://github.com/nikolaiverbitskii",
+      "name": "nikolaiverbitskii",
+      "students": [
+        "shanhinpavel",
+        "igor82bv",
+        "klimenkomaksim",
+        "uladzimir-yeudakimovich"
+      ]
+    },
+    "sijlver": {
+      "githubLink": "https://github.com/sijlver",
+      "name": "igortsialiuk",
+      "students": [
+        "metre-ray",
+        "napro23",
+        "artur-alexandrov",
+        "overkektus",
+        "zhekix"
+      ]
+    },
+    "ntrukhanovets": {
+      "githubLink": "https://github.com/ntrukhanovets",
+      "name": "mikitatrukhanavets",
+      "students": [
+        "vanyatsar",
+        "lordshtein",
+        "ekoniuh",
+        "evpodrezenko",
+        "cruecer",
+        "annchapon"
+      ]
+    },
+    "kvtofan": {
+      "githubLink": "https://github.com/kvtofan",
+      "name": "kiryltofan",
+      "students": [
+        "thesheepman",
+        "brokorenko",
+        "vovakor1",
+        "hentmire",
+        "rubahaguy",
+        "egorbudnik"
+      ]
+    },
+    "etatarinovich18": {
+      "githubLink": "https://github.com/etatarinovich18",
+      "name": "katsiarynatatarynovich",
+      "students": [
+        "kaleniksasha",
+        "ue4prog",
+        "sk1ngr0s",
+        "alexshumansky",
+        "margoshulpina"
+      ]
+    },
+    "einfachvlad": {
+      "githubLink": "https://github.com/einfachvlad",
+      "name": "uladzislautarasenka",
+      "students": [
+        "aleksei-bulgak-study",
+        "margharita",
+        "lazovskyigor",
+        "dyatelvudu"
+      ]
+    },
+    "aliaksandrt": {
+      "githubLink": "https://github.com/aliaksandrt",
+      "name": "aliaksandrtachko",
+      "students": [
+        "leshich",
+        "tamefreak",
+        "shutya",
+        "dgekaa",
+        "leontyevatatyana",
+        "19alexandr90"
+      ]
+    },
+    "sushchenja": {
+      "githubLink": "https://github.com/sushchenja",
+      "name": "dzianissushchenya",
+      "students": [
+        "nightman20104",
+        "irin-ka",
+        "daniil-loban",
+        "misharsweb"
+      ]
+    },
+    "sulemanof": {
+      "githubLink": "https://github.com/sulemanof",
+      "name": "daniilsuleiman",
+      "students": [
+        "heaveek",
+        "olegsabodash",
+        "andriva",
+        "meearlyam",
+        "veronikavasilchikova"
+      ]
+    },
+    "nsubbot": {
+      "githubLink": "https://github.com/nsubbot",
+      "name": "mikitasubbot",
+      "students": [
+        "eughene-cherepov",
+        "moraviin",
+        "petriken",
+        "luzko",
+        "finnibyh",
+        "aglayasv",
+        "tonykosmos"
+      ]
+    },
+    "stpnvntn": {
+      "githubLink": "https://github.com/stpnvntn",
+      "name": "antonstsiapanau",
+      "students": [
+        "metalhammer4",
+        "rudlevsky",
+        "ostik266",
+        "katekosushkina",
+        "viki-klipp",
+        "anyalenko",
+        "northingvar"
+      ]
+    },
+    "shuspes": {
+      "githubLink": "https://github.com/shuspes",
+      "name": "alexanderspesivtsev",
+      "students": [
+        "prudnikov888",
+        "sergeyskakun",
+        "petersonby",
+        "aliaksandrposakh",
+        "formalinfigs"
+      ]
+    },
+    "mikalai-sokarau": {
+      "githubLink": "https://github.com/mikalai-sokarau",
+      "name": "mikalaisokarau",
+      "students": [
+        "f8b23lef",
+        "yrapank",
+        "jenia-shibkova",
+        "magerrrr",
+        "danila211",
+        "juliazakharik"
+      ]
+    },
+    "kseniyasmorshchek": {
+      "githubLink": "https://github.com/kseniyasmorshchek",
+      "name": "kseniyasmorshchek",
+      "students": [
+        "ltcolumbo",
+        "veterkam",
+        "yurychajkou",
+        "catrieona",
+        "ankorbay"
+      ]
+    },
+    "arhigod": {
+      "githubLink": "https://github.com/arhigod",
+      "name": "arsenishynkarenka",
+      "students": [
+        "nastya-ropot",
+        "mozgoen",
+        "hellsingi",
+        "yeilya",
+        "polotenchik",
+        "tshkursk"
+      ]
+    },
+    "atzkdeff": {
+      "githubLink": "https://github.com/atzkdeff",
+      "name": "andreishyliahin",
+      "students": [
+        "olegkizz",
+        "lazouskikiryl",
+        "dimabog22",
+        "bigshaqmnh",
+        "antonnaumchik"
+      ]
+    },
+    "shutya": {
+      "githubLink": "https://github.com/shutya",
+      "name": "dzianisshutsikau",
+      "students": [
+        "kirillstarlight",
+        "waldemar999",
+        "kushnerevich",
+        "igarok91",
+        "aliakseibabko",
+        "gleb7raul",
+        "zhekaprb"
+      ]
+    },
+    "klim711": {
+      "githubLink": "https://github.com/klim711",
+      "name": "klimshuplenkou",
+      "students": [
+        "dmlaziuk",
+        "vladqqqqoo",
+        "globalbobone",
+        "wushukms"
+      ]
+    },
+    "elenashokhanepam": {
+      "githubLink": "https://github.com/elenashokhanepam",
+      "name": "elenashokhan",
+      "students": [
+        "aborisenok",
+        "valiantsinlopan",
+        "egormiwa1",
+        "foxygirl44"
+      ]
+    },
+    "manuminsk": {
+      "githubLink": "https://github.com/manuminsk",
+      "name": "andreishelenhouski",
+      "students": [
+        "smajlichak",
+        "zm1try",
+        "jstrr",
+        "kirill82",
+        "blackcat1397"
+      ]
+    },
+    "davojta": {
+      "githubLink": "https://github.com/davojta",
+      "name": "dzianissheka",
+      "students": [
+        "pavalescoba",
+        "kashapov",
+        "michaeldaineka",
+        "lesechka",
+        "vasiliyrepin",
+        "mike80by",
+        "sergeyshestak",
+        "victorbelikov",
+        "auseika",
+        "iharpadbiarezski"
+      ]
+    },
+    "naooki": {
+      "githubLink": "https://github.com/naooki",
+      "name": "yahorsheinikau",
+      "students": [
+        "eveshad",
+        "mbulldozer",
+        "starkary",
+        "olgalazarevich",
+        "holeil"
+      ]
+    },
+    "forkollaider": {
+      "githubLink": "https://github.com/forkollaider",
+      "name": "tsikhanshcharbakou",
+      "students": [
+        "aalexsoloveiko",
+        "sergeibel",
+        "do100han",
+        "zhecha",
+        "odegay",
+        "mill9r"
+      ]
+    },
+    "hirurgo": {
+      "githubLink": "https://github.com/hirurgo",
+      "name": "mikalaishchakatsikhin",
+      "students": [
+        "tanya98",
+        "mixniuk",
+        "xseniia",
+        "nataligleb",
+        "valeriyager"
+      ]
+    },
+    "asharapa": {
+      "githubLink": "https://github.com/asharapa",
+      "name": "antonsharapa",
+      "students": [
+        "mentos2805",
+        "sergeybandar",
+        "alexanderkononok",
+        "mrmars20"
+      ]
+    },
+    "cyrilshalyapin": {
+      "githubLink": "https://github.com/cyrilshalyapin",
+      "name": "kirylshaliapin",
+      "students": [
+        "sergeyakzhik",
+        "kulinar310",
+        "cropotan",
+        "vitalydmitriev",
+        "philipsh",
+        "vero-nika",
+        "vladsemenik"
+      ]
+    },
+    "ilyalisitsin": {
+      "githubLink": "https://github.com/ilyalisitsin",
+      "name": "illiasauchuk",
+      "students": [
+        "meller96",
+        "ogurez",
+        "mrlapka",
+        "olexxxey",
+        "xelson",
+        "amoebiusss",
+        "megustafather"
+      ]
+    },
+    "katya-sanko": {
+      "githubLink": "https://github.com/katya-sanko",
+      "name": "ekaterinasanko",
+      "students": [
+        "kyleshovbb",
+        "yabeda79",
+        "sergmi",
+        "disa0808",
+        "pulya10c"
+      ]
+    },
+    "yulia9": {
+      "githubLink": "https://github.com/yulia9",
+      "name": "yuliyasamuilik",
+      "students": [
+        "prometei299",
+        "sergeypunko",
+        "zurzur",
+        "edaineko",
+        "seidou99"
+      ]
+    },
+    "sambl4": {
+      "githubLink": "https://github.com/sambl4",
+      "name": "dzmitrysamuilik",
+      "students": [
+        "sches",
+        "simaxa7",
+        "polinamoiseyenko",
+        "sashakaralchuk"
+      ]
+    },
+    "erutkovsky": {
+      "githubLink": "https://github.com/erutkovsky",
+      "name": "yauhenirutkouski",
+      "students": [
+        "hecateenitharmon",
+        "mdgh",
+        "mggeroff",
+        "soulos410",
+        "boshka0"
+      ]
+    },
+    "rudikaleksandr": {
+      "githubLink": "https://github.com/rudikaleksandr",
+      "name": "aliaksandrrudzin",
+      "students": [
+        "mrchester",
+        "mxwoodie",
+        "psevkin",
+        "alexeevadaria",
+        "spiritforest",
+        "chekni",
+        "shymaxer"
+      ]
+    },
+    "nikitarudy": {
+      "githubLink": "https://github.com/nikitarudy",
+      "name": "mikitarudy",
+      "students": [
+        "sad4itananda",
+        "kalitamih",
+        "evgenprushk",
+        "mrstalon",
+        "avaprin",
+        "haspadarz-padmensku",
+        "svoboda-rabstvo"
+      ]
+    },
+    "rianby64": {
+      "githubLink": "https://github.com/rianby64",
+      "name": "andresrios",
+      "students": [
+        "yaroslav-mig",
+        "novikovantony",
+        "mayblackwood",
+        "anastminsk",
+        "28halavach",
+        "40grivenprog",
+        "igordive",
+        "nataliamotuz"
+      ]
+    },
+    "dzianisreznik": {
+      "githubLink": "https://github.com/dzianisreznik",
+      "name": "dzianisreznik",
+      "students": [
+        "eugene3112",
+        "heat98",
+        "tanyamatesha",
+        "egorgorbik",
+        "vicrodzko",
+        "ilyatrat",
+        "unbelievablysmart",
+        "viktoryia-hrechykha"
+      ]
+    },
+    "xelsoid": {
+      "githubLink": "https://github.com/xelsoid",
+      "name": "artsiomreutovich",
+      "students": [
+        "ivanmatsur",
+        "usermeme",
+        "virusss",
+        "nikaz123"
+      ]
+    },
+    "razumovich": {
+      "githubLink": "https://github.com/razumovich",
+      "name": "aliaksandrrazumovich",
+      "students": [
+        "kvatoferma",
+        "vladagaravaya",
+        "chernyshovaalexandra",
+        "jacksonbr87"
+      ]
+    },
+    "dmitryromaniuk": {
+      "githubLink": "https://github.com/dmitryromaniuk",
+      "name": "dzmitryramaniuk",
+      "students": [
+        "andreikrivets",
+        "lavazzakate",
+        "2kevink",
+        "vladislavrebko",
+        "amoyt"
+      ]
+    },
+    "yralko": {
+      "githubLink": "https://github.com/yralko",
+      "name": "yauheniralko",
+      "students": [
+        "anna-pronovich",
+        "artemiusv",
+        "nataliakazakevich",
+        "kseniyasokolovskaya",
+        "zmichgen"
+      ]
+    },
+    "anastasiaprivalova": {
+      "githubLink": "https://github.com/anastasiaprivalova",
+      "name": "anastasiyapryvalava",
+      "students": [
+        "sergaunt",
+        "brateckrolikstudent",
+        "venomamd",
+        "vetal11"
+      ]
+    },
+    "diprudnikov": {
+      "githubLink": "https://github.com/diprudnikov",
+      "name": "dzmitryprudnikau",
+      "students": [
+        "leshka98",
+        "siarheikresik",
+        "dianakay",
+        "tvj888",
+        "alexkov90",
+        "mpot7",
+        "charmant"
+      ]
+    },
+    "anik188": {
+      "githubLink": "https://github.com/anik188",
+      "name": "hannapratasevich",
+      "students": [
+        "horoshaya",
+        "martinkevichyana",
+        "montik-pc",
+        "jeka98",
+        "renardby",
+        "sergeyguchok",
+        "aytsan"
+      ]
+    },
+    "lithiumfallen": {
+      "githubLink": "https://github.com/lithiumfallen",
+      "name": "artsiompiakhota",
+      "students": [
+        "sunrisekovalevski",
+        "spacebrains",
+        "pincherinka",
+        "victoriathebrave"
+      ]
+    },
+    "pasyukevich": {
+      "githubLink": "https://github.com/pasyukevich",
+      "name": "yauhenipasiukevich",
+      "students": [
+        "yanachchchka",
+        "yalovikea",
+        "volhashy",
+        "crunkagator",
+        "alenabde",
+        "maksimyakush",
+        "boobaley"
+      ]
+    },
+    "kirillpanov": {
+      "githubLink": "https://github.com/kirillpanov",
+      "name": "kirylpanou",
+      "students": [
+        "helpthewalrus",
+        "aliaksandrlosich",
+        "dmsolov",
+        "bogdanka",
+        "srjkaa",
+        "godofnoobs",
+        "uivgray"
+      ]
+    },
+    "dzmitrypanamarenka": {
+      "githubLink": "https://github.com/dzmitrypanamarenka",
+      "name": "dzmitrypanamarenka",
+      "students": [
+        "stas4it",
+        "vladislavmakarevich",
+        "juliankov",
+        "niksrakevich"
+      ]
+    },
+    "apalchys": {
+      "githubLink": "https://github.com/apalchys",
+      "name": "andreipalchys",
+      "students": [
+        "vladyaremeko",
+        "ton9q",
+        "nktvlkvch",
+        "valentinlipai",
+        "mazhoranta"
+      ]
+    },
+    "olgapoddubko": {
+      "githubLink": "https://github.com/olgapoddubko",
+      "name": "volhapaddubka",
+      "students": [
+        "shet1990",
+        "maksagit",
+        "melk0sha",
+        "tanyasamal",
+        "karsash",
+        "dimadk24"
+      ]
+    },
+    "alexno": {
+      "githubLink": "https://github.com/alexno",
+      "name": "aliaksandrnovik",
+      "students": [
+        "xlopec23",
+        "odinrossy",
+        "vlad0mag0",
+        "kir-22",
+        "snaiperlod",
+        "llitrixkod"
+      ]
+    },
+    "yananeronskaya": {
+      "githubLink": "https://github.com/yananeronskaya",
+      "name": "yananiaronskaya",
+      "students": [
+        "ilyay95",
+        "allexblaze",
+        "dekim12",
+        "dimamavrin",
+        "vitalmizevich"
+      ]
+    },
+    "natashanekazakova": {
+      "githubLink": "https://github.com/natashanekazakova",
+      "name": "natalyanekazakova",
+      "students": [
+        "wladimirmihalev",
+        "antoprokopovich",
+        "iharpashkevich",
+        375291601334
+      ]
+    },
+    "mikhaillu": {
+      "githubLink": "https://github.com/mikhaillu",
+      "name": "mikhailnaharayeu",
+      "students": [
+        "elusiveway",
+        "cirillius",
+        "eugenepochenkov",
+        "lx-931203",
+        "astravukh",
+        "zetorby"
+      ]
+    },
+    "maryia-n-n": {
+      "githubLink": "https://github.com/maryia-n-n",
+      "name": "maryianabzdorava",
+      "students": [
+        "crypto-kittensseller",
+        "dyadinmax",
+        "alexeynovomlinets",
+        "antonysawyer"
+      ]
+    },
+    "mustafazadear": {
+      "githubLink": "https://github.com/mustafazadear",
+      "name": "arifmustafazade",
+      "students": [
+        "sobolevyuri",
+        "credov",
+        "clericus",
+        "dbaceko",
+        "frontsideman"
+      ]
+    },
+    "barysmarukhin": {
+      "githubLink": "https://github.com/barysmarukhin",
+      "name": "barysmarukhin",
+      "students": [
+        "denhock",
+        "kirillgalimov",
+        "igor-provotorov",
+        "kamatozzzik"
+      ]
+    },
+    "themarkmarrone": {
+      "githubLink": "https://github.com/themarkmarrone",
+      "name": "andreimarkovich",
+      "students": [
+        "ener9ettt",
+        "petromath77",
+        "barsolet",
+        "yanrishbe",
+        "juliamv",
+        "icebergnevercries",
+        "tamarashautsova"
+      ]
+    },
+    "olgamardvilko": {
+      "githubLink": "https://github.com/olgamardvilko",
+      "name": "volhamardvilka",
+      "students": [
+        "vladsanko",
+        "serzhanhelena",
+        "georgyminsk",
+        "greg1996",
+        "goldenkit"
+      ]
+    },
+    "aliaksandrmamonenka": {
+      "githubLink": "https://github.com/aliaksandrmamonenka",
+      "name": "aliaksandrmamonenka",
+      "students": [
+        "moluram",
+        "cheeska",
+        "nesteklo",
+        "dasnein"
+      ]
+    },
+    "muskos": {
+      "githubLink": "https://github.com/muskos",
+      "name": "aliakseimakas",
+      "students": [
+        "vireah",
+        "yarobei",
+        "alexandrtichon",
+        "yanyan155",
+        "pkutsilina"
+      ]
+    },
+    "lykovartem": {
+      "githubLink": "https://github.com/lykovartem",
+      "name": "artsiomlykau",
+      "students": [
+        "glebhleb",
+        "segrey1989",
+        "kotukjubotuk",
+        "nikkola07",
+        "alexandershaternik",
+        "okband"
+      ]
+    },
+    "lipskiy-aleh": {
+      "githubLink": "https://github.com/lipskiy-aleh",
+      "name": "alehlipski",
+      "students": [
+        "agentumbrella",
+        "justforwebcoding",
+        "anastasiaburlo",
+        "devandscorp",
+        "qucca",
+        "lexbogos",
+        "zebabrat"
+      ]
+    },
+    "liaukou": {
+      "githubLink": "https://github.com/liaukou",
+      "name": "andreiliaukou",
+      "students": [
+        "dimasquared",
+        "smetaninpavel",
+        "ol4ash",
+        "kasper1999",
+        "ivanmikhailenka1"
+      ]
+    },
+    "lenkouandrei": {
+      "githubLink": "https://github.com/lenkouandrei",
+      "name": "andreilenkou",
+      "students": [
+        "goner52",
+        "poyuki",
+        "elmavis",
+        "rafchillons",
+        "kirylalexandrovich",
+        "vlad9719",
+        "mg3442"
+      ]
+    },
+    "lavitr": {
+      "githubLink": "https://github.com/lavitr",
+      "name": "ronlavit",
+      "students": [
+        "mrdemonrush",
+        "h0qw010xz",
+        "nikitaklepanosov",
+        "provedenceva",
+        "daryz"
+      ]
+    },
+    "artemlatyshev": {
+      "githubLink": "https://github.com/artemlatyshev",
+      "name": "artsiomlatyshau",
+      "students": [
+        "sergeiobolevich",
+        "dimashcherbakov",
+        "feulia",
+        "magi-a",
+        "andrewyanushkevich"
+      ]
+    },
+    "viachaslau-latushkin": {
+      "githubLink": "https://github.com/viachaslau-latushkin",
+      "name": "viachaslaulatushkin",
+      "students": [
+        "alexandrasitnikova",
+        "vitalibrych333",
+        "pavelkiru",
+        "shestakoff1441",
+        "katezhukel"
+      ]
+    },
+    "aliaksandrkuzniatsou": {
+      "githubLink": "https://github.com/aliaksandrkuzniatsou",
+      "name": "aliaksandrkuzniatsou",
+      "students": [
+        "apivovarchik",
+        "ruslandimitriuk",
+        "temachkin11",
+        "iamhappy2day",
+        "katiekruchko",
+        "artser97",
+        "stasnegreev"
+      ]
+    },
+    "pavelkuzniatsou": {
+      "githubLink": "https://github.com/pavelkuzniatsou",
+      "name": "pavelkuzniatsou",
+      "students": [
+        "maxbrainygame",
+        "oliver337",
+        "kotiknalune42",
+        "akselatom",
+        "maryiasiamenava",
+        "kotcher1",
+        "kirilltovpinets"
+      ]
+    },
+    "agentkb": {
+      "githubLink": "https://github.com/agentkb",
+      "name": "bahdankutas",
+      "students": [
+        "litwin90",
+        "dzmitrybabak",
+        "systemghost",
+        "eugenetime",
+        "alexnaidovich",
+        "ivanchikovvalentin",
+        "ewelai"
+      ]
+    },
+    "woozzone": {
+      "githubLink": "https://github.com/woozzone",
+      "name": "viktarkurbatski",
+      "students": [
+        "bardashevich-matvei",
+        "korbann",
+        "yevgeniypy",
+        "tatyana-andreichyk",
+        "supersmf"
+      ]
+    },
+    "kukolcaalexandra": {
+      "githubLink": "https://github.com/kukolcaalexandra",
+      "name": "alexandrakukolca",
+      "students": [
+        "sxe2255",
+        "vovair",
+        "ingvaroldd",
+        "bragodin",
+        "fantom141",
+        "samo-war"
+      ]
+    },
+    "xeontem": {
+      "githubLink": "https://github.com/xeontem",
+      "name": "artsiomkukharev",
+      "students": [
+        "silichstudent",
+        "vvikota",
+        "leonard1k",
+        "mariakisel",
+        "qxfisher",
+        "bulbazubr"
+      ]
+    },
+    "linus2228": {
+      "githubLink": "https://github.com/linus2228",
+      "name": "dzmitrykudla",
+      "students": [
+        "sergeybaranovichi",
+        "karina198",
+        "arturkudlo",
+        "dimasofff",
+        "6alex6kash6"
+      ]
+    },
+    "shank111": {
+      "githubLink": "https://github.com/shank111",
+      "name": "deniskravchenko",
+      "students": [
+        "kirillfilipp",
+        "gemsgame",
+        "axissixa57",
+        "maxstarovoitov",
+        "nemkev"
+      ]
+    },
+    "aliakseikrauchanka": {
+      "githubLink": "https://github.com/aliakseikrauchanka",
+      "name": "aliakseikrauchanka",
+      "students": [
+        "latiertiw",
+        "sined1",
+        "vladzuev",
+        "christinaalimova"
+      ]
+    },
+    "error404as": {
+      "githubLink": "https://github.com/error404as",
+      "name": "vitalikrasnou",
+      "students": [
+        "robertiqk",
+        "pozharitskiy",
+        "aliakseik19",
+        "tarsupon"
+      ]
+    },
+    "aliaksandrkrasnou": {
+      "githubLink": "https://github.com/aliaksandrkrasnou",
+      "name": "aliaksandrkrasnou",
+      "students": [
+        "andrey-lobach",
+        "pitergtx",
+        "alexandravlasenko",
+        "painincoming"
+      ]
+    },
+    "vladislavkovaliov": {
+      "githubLink": "https://github.com/vladislavkovaliov",
+      "name": "vladislavkovaliov",
+      "students": [
+        "roman-nareiko",
+        "evilamany",
+        "xvorob",
+        "pelya98"
+      ]
+    },
+    "korotkin": {
+      "githubLink": "https://github.com/korotkin",
+      "name": "sergehkorotkin",
+      "students": [
+        "pavelsab",
+        "ihartsykaka",
+        "vldshch",
+        "naijelo",
+        "tridenet",
+        "darinalitvin",
+        "zhechka"
+      ]
+    },
+    "papialoushka": {
+      "githubLink": "https://github.com/papialoushka",
+      "name": "alenakorachkina",
+      "students": [
+        "dmitryduk3",
+        "nikola2390",
+        "sashajohnson",
+        "yagorka1"
+      ]
+    },
+    "candentira": {
+      "githubLink": "https://github.com/candentira",
+      "name": "viktoryiaklimenka",
+      "students": [
+        "palessie",
+        "ustilushka",
+        "zzvipz",
+        "dmitrylenko",
+        "underdoglzd"
+      ]
+    },
+    "sleepwalky": {
+      "githubLink": "https://github.com/sleepwalky",
+      "name": "aliaksandrkleshchukevich",
+      "students": [
+        "noviceblunderer",
+        "kristalys",
+        "splin-shady",
+        "katrin-kot",
+        "gattygamaun",
+        "mariyapolt"
+      ]
+    },
+    "fallenby1": {
+      "githubLink": "https://github.com/fallenby1",
+      "name": "aliakseikhlebnikau",
+      "students": [
+        "katepavlovich",
+        "youngbrick",
+        "alekengineer",
+        "kottt4",
+        "walkunderrain"
+      ]
+    },
+    "arturminsksum": {
+      "githubLink": "https://github.com/arturminsksum",
+      "name": "arturkazlouski",
+      "students": [
+        "a-lika",
+        "uniqkue",
+        "sqwezzy",
+        "nikaneider",
+        "rebellix"
+      ]
+    },
+    "shparkivozhyk": {
+      "githubLink": "https://github.com/shparkivozhyk",
+      "name": "marynakavetskaya",
+      "students": [
+        "sburnt",
+        "tserekhivan",
+        "presidentsboyfriend",
+        "eugenekhristo"
+      ]
+    },
+    "nikkov17": {
+      "githubLink": "https://github.com/nikkov17",
+      "name": "mikalaikavaliou",
+      "students": [
+        "artichoks",
+        "anastasiyanovikovag",
+        "margaretmint",
+        "anastasiyamazura",
+        "dezman66",
+        "exedystyle",
+        "gaddyya"
+      ]
+    },
+    "yanaselin": {
+      "githubLink": "https://github.com/yanaselin",
+      "name": "yanakarotkina",
+      "students": [
+        "bsiropchik",
+        "scratchor",
+        "montes5",
+        "mrspunki",
+        "maksstef"
+      ]
+    },
+    "katekaranets": {
+      "githubLink": "https://github.com/katekaranets",
+      "name": "katsiarynakaranets",
+      "students": [
+        "kozelkoff",
+        "vladislavshyian",
+        "gleb-kukobnikov",
+        "sokol147",
+        "dantewitcher",
+        "natiedei",
+        "aliaksandrarybak"
+      ]
+    },
+    "ivashkovaliza": {
+      "githubLink": "https://github.com/ivashkovaliza",
+      "name": "elizavetaivashkova",
+      "students": [
+        "stationtostation",
+        "tatsianacs",
+        "kharuk",
+        "wald3"
+      ]
+    },
+    "helenegritsuk": {
+      "githubLink": "https://github.com/helenegritsuk",
+      "name": "alenahrytsuk",
+      "students": [
+        "devildummy",
+        "dzmitry-karachun-1987",
+        "serg8",
+        "nik-av",
+        "kishkun",
+        "tsygancova"
+      ]
+    },
+    "falizyer": {
+      "githubLink": "https://github.com/falizyer",
+      "name": "dzmitryhrachou",
+      "students": [
+        "bespodobno",
+        "anastasia1627",
+        "basch1727",
+        "lizabredberry",
+        "zartaich",
+        "estel1591",
+        "alekseymishuk"
+      ]
+    },
+    "annagrebenyuk": {
+      "githubLink": "https://github.com/annagrebenyuk",
+      "name": "hannahrabianiuk",
+      "students": [
+        "yuliyahlukhatarenka",
+        "lapa17",
+        "dmitrylutskovich",
+        "vladst90",
+        "atryomparfenenkov"
+      ]
+    },
+    "evgladkiy": {
+      "githubLink": "https://github.com/evgladkiy",
+      "name": "yauhenihladki",
+      "students": [
+        "evgenijkorob",
+        "anxair",
+        "siarohin",
+        "svyatlo",
+        "shurpelevas"
+      ]
+    },
+    "evgeniigrh": {
+      "githubLink": "https://github.com/evgeniigrh",
+      "name": "yauheniharokh",
+      "students": [
+        "antonprotas",
+        "mickbetch",
+        "oconely",
+        "natalianekrashevich",
+        "iryna-mazura",
+        "kamenkoalexandr",
+        "garin87"
+      ]
+    },
+    "amsterget": {
+      "githubLink": "https://github.com/amsterget",
+      "name": "ilyahancharyk",
+      "students": [
+        "tebeskashi",
+        "pinkrefugee",
+        "daqueze21",
+        "beetle23",
+        "lynyx",
+        "tomsssm",
+        "colambus13"
+      ]
+    },
+    "yuliahope": {
+      "githubLink": "https://github.com/yuliahope",
+      "name": "yuliyahaluza",
+      "students": [
+        "artyommakarov",
+        "levsha87",
+        "hottab9595",
+        "achyrych",
+        "arkadz",
+        "maniuska",
+        "sachoks"
+      ]
+    },
+    "predokmif": {
+      "githubLink": "https://github.com/predokmif",
+      "name": "konstantingrigorchuk",
+      "students": [
+        "belkacraft",
+        "kasatka660",
+        "warryr",
+        "alexandrapozniak",
+        "yuliabakhar"
+      ]
+    },
+    "valeragorobets": {
+      "githubLink": "https://github.com/valeragorobets",
+      "name": "valerigorobets",
+      "students": [
+        "ivandubrouski",
+        "mrforsyte",
+        "krisstets",
+        "yuriy17",
+        "olgakuksa",
+        "eliznovo",
+        "vitalij21"
+      ]
+    },
+    "pavelglebov": {
+      "githubLink": "https://github.com/pavelglebov",
+      "name": "pavelglebov",
+      "students": [
+        "oaliona",
+        "feodorius",
+        "ihar777",
+        "dzianiskavalionak",
+        "alexsmyk1992",
+        "vbkoshak"
+      ]
+    },
+    "aliaksandrfiodarau": {
+      "githubLink": "https://github.com/aliaksandrfiodarau",
+      "name": "aliaksandrfiodarau",
+      "students": [
+        "burach0k",
+        "denyingthetruth",
+        "invikto",
+        "khaliulinroman"
+      ]
+    },
+    "denisdashkevich": {
+      "githubLink": "https://github.com/denisdashkevich",
+      "name": "dzianisdashkevich",
+      "students": [
+        "yevganytyurin",
+        "pofs",
+        "alexeykuril0",
+        "kragov",
+        "gruzinskiiartem",
+        "pivchenkosv",
+        "andreisavelyev"
+      ]
+    },
+    "sergey-churilin": {
+      "githubLink": "https://github.com/sergey-churilin",
+      "name": "siarheichurylin",
+      "students": [
+        "gegorov",
+        "ilyakabanov",
+        "yurec0gurec",
+        "gubnich"
+      ]
+    },
+    "dzmitry-chuchva": {
+      "githubLink": "https://github.com/dzmitry-chuchva",
+      "name": "dzmitrychuchva",
+      "students": [
+        "modrix",
+        "scarletcamomile",
+        "tani4ik"
+      ]
+    },
+    "eugenech": {
+      "githubLink": "https://github.com/eugenech",
+      "name": "yauhenchaika",
+      "students": [
+        "ivchenkopavel",
+        "ruboscope",
+        "alesya-polovets",
+        "geek10010",
+        "antonykor",
+        "saniok017",
+        "dzmitryalfer"
+      ]
+    },
+    "elkinny": {
+      "githubLink": "https://github.com/elkinny",
+      "name": "viktoryiabudzionnaya",
+      "students": [
+        "kottanakor",
+        "daryazel",
+        "alenakharytonchyk",
+        "drizzlman",
+        "yonguksaram"
+      ]
+    },
+    "den-bozhyk": {
+      "githubLink": "https://github.com/den-bozhyk",
+      "name": "denisbozhyk",
+      "students": [
+        "mailikey",
+        "vladesco",
+        "drdiman",
+        "dzmitrymashuk",
+        "ipixby",
+        "nickprudnik",
+        "vitalitybo"
+      ]
+    },
+    "kbirulia": {
+      "githubLink": "https://github.com/kbirulia",
+      "name": "katsiarynabirulia",
+      "students": [
+        "vergonini",
+        "katiar",
+        "anaumovich",
+        "kirillkolesnik123"
+      ]
+    },
+    "bezakdenis": {
+      "githubLink": "https://github.com/bezakdenis",
+      "name": "denisbezak",
+      "students": [
+        "aleks210219",
+        "krlktv",
+        "dsv-sergey",
+        "nadezhda-kotova",
+        "alexalizurchik",
+        "pavellyolya"
+      ]
+    },
+    "toshabely": {
+      "githubLink": "https://github.com/toshabely",
+      "name": "antonbely",
+      "students": [
+        "arkhipenka",
+        "abespolov",
+        "zzhiharevich",
+        "dimaspivas",
+        "maxkonopelko"
+      ]
+    },
+    "belousova-natallia": {
+      "githubLink": "https://github.com/belousova-natallia",
+      "name": "natalliabelavusava",
+      "students": [
+        "garnich",
+        "altobeyk",
+        "stigmatory15",
+        "kmetkokate"
+      ]
+    },
+    "tomasspring": {
+      "githubLink": "https://github.com/tomasspring",
+      "name": "verabarysava",
+      "students": [
+        "annakolesnikova",
+        "eliendil",
+        "a11mo",
+        "thecobolt"
+      ]
+    },
+    "ximet": {
+      "githubLink": "https://github.com/ximet",
+      "name": "dmitribardt",
+      "students": [
+        "dianatsevan",
+        "christopher-0118",
+        "happy-mary",
+        "onaker",
+        "igorbyl",
+        "maksyermak",
+        "riba0017"
+      ]
+    },
+    "tanya-bakhmatovich": {
+      "githubLink": "https://github.com/tanya-bakhmatovich",
+      "name": "tatsianabakhmatovich",
+      "students": [
+        "fogfug1",
+        "yauhenilyin",
+        "dmitrigorchanin",
+        "soundmafi"
+      ]
+    },
+    "sintet": {
+      "githubLink": "https://github.com/sintet",
+      "name": "dzmitrybahachuk",
+      "students": [
+        "aspowerr",
+        "shchelkunchik",
+        "thatcherrr",
+        "torioyoshiko",
+        "julialar4enko",
+        "yasell",
+        "aleksandrmedvedev9000"
+      ]
+    },
+    "polinabobrovnik": {
+      "githubLink": "https://github.com/polinabobrovnik",
+      "name": "palinababrounik",
+      "students": [
+        "wowprojeck",
+        "andvikvin",
+        "alinkalu",
+        "marry705",
+        "fursaleksey",
+        "hursevichsergey"
+      ]
+    },
+    "sergeyshatter": {
+      "githubLink": "https://github.com/sergeyshatter",
+      "name": "siarheiausianik",
+      "students": [
+        "cuppake",
+        "pirsfrommi6",
+        "luffi2539",
+        "kirilltk"
+      ]
+    },
+    "tr3v3r": {
+      "githubLink": "https://github.com/tr3v3r",
+      "name": "aliakseiastafyeu",
+      "students": [
+        "bezchekera",
+        "nadinaaa",
+        "volunyshka",
+        "grnkvch",
+        "driliad",
+        "yanamina"
+      ]
+    },
+    "vinfinit": {
+      "githubLink": "https://github.com/vinfinit",
+      "name": "uladzimirartsemenka",
+      "students": [
+        "egoncharov",
+        "elostryy",
+        "eauheni",
+        "mikhailnakanechny",
+        "maringoka"
+      ]
+    },
+    "amelk9n": {
+      "githubLink": "https://github.com/amelk9n",
+      "name": "aliaksandramialkovich",
+      "students": [
+        "vitalur",
+        "jrzlve",
+        "panikutysh",
+        "vlukyane"
+      ]
+    },
+    "alidzm": {
+      "githubLink": "https://github.com/alidzm",
+      "name": "dzmitryaliaksandrau",
+      "students": [
+        "devbarden",
+        "nicklevkovich",
+        "poiskull",
+        "mrio1",
+        "alexkashpor",
+        "dmsomov"
+      ]
+    },
+    "juliaalaeva": {
+      "githubLink": "https://github.com/juliaalaeva",
+      "name": "yuliiaalaieva",
+      "students": [
+        "mariannagarbuzova",
+        "pytniza",
+        "ronavea",
+        "ahrechushkin",
+        "huriosity"
+      ]
+    },
+    "viktoryiaverasava": {
+      "githubLink": "https://github.com/viktoryiaverasava",
+      "name": "viktoryiaverasava",
+      "students": [
+        "psychotheus",
+        "lowershotower",
+        "bn1knb",
+        "zerovers",
+        "25kopek"
+      ]
+    },
+    "stsepchanka": {
+      "githubLink": "https://github.com/stsepchanka",
+      "name": "tatsianastsepchanka",
+      "students": [
+        "max-violent",
+        "rick42morty",
+        "dloz",
+        "scifsyh",
+        "tgfrey"
+      ]
+    },
+    "mkinitcpio": {
+      "githubLink": "https://github.com/mkinitcpio",
+      "name": "aliaksandrkazhamiaka",
+      "students": [
+        "slayer110",
+        "quiquek007",
+        "mohax-13",
+        "ksenia-ok",
+        "artsiom-zhuk"
+      ]
+    },
+    "clainatomi-zero": {
+      "githubLink": "https://github.com/clainatomi-zero",
+      "name": "maksimkantsavy",
+      "students": [
+        "alexandrshlyaeu",
+        "nicalas93",
+        "vldmr1",
+        "shinoby85"
+      ]
+    },
+    "famchankou": {
+      "githubLink": "https://github.com/famchankou",
+      "name": "aliaksandrfamchankou",
+      "students": [
+        "vladimirdobrik",
+        "tvorchud",
+        "iharvypau",
+        "vitalijsk",
+        "fcsm-andrei"
+      ]
+    }
+  }
+}
