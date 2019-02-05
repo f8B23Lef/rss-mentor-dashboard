@@ -20,6 +20,7 @@ studentsSheetJson.forEach((element) => {
   const githubLink = formGithubLink(String(element[constants.PAIRS_B]));
   students[githubNick] = {
     githubLink,
+    tasks: [],
   };
 });
 
