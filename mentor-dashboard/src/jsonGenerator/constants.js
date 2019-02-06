@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
-  RESOURCES_PATH: './src/components/jsonGenerator/resources/',
-  JSON_PATH: './src/data/',
+  RESOURCES_PATH: './src/jsonGenerator/resources/',
+  JSON_PATH: './dist/',
   JSON_FILE: 'data.json',
   TASKS_FILE: 'Tasks.xlsx',
   TASKS_SHEET: 'Sheet1',

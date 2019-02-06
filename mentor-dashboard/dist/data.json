@@ -1,0 +1,7153 @@
+{
+  "tasks": {
+    "codejam\"cv\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+      "status": "checked"
+    },
+    "codejam\"corejs\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+      "status": "checked"
+    },
+    "codejam\"dom,domevents\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+      "status": "checked"
+    },
+    "markup#1": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+      "status": "checking"
+    },
+    "rsactivist": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+      "status": "in progress"
+    },
+    "youtube": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+      "status": "checking"
+    },
+    "codejam\"scoreboard\"": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+      "status": "checking"
+    },
+    "game": {
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+      "status": "in progress"
+    },
+    "coursework": {
+      "status": "todo"
+    },
+    "presentation": {
+      "status": "checked"
+    }
+  },
+  "students": {
+    "803142": {
+      "githubLink": "https://github.com/803142",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube"
+      ]
+    },
+    "grenbork": {
+      "githubLink": "https://github.com/grenbork",
+      "tasks": []
+    },
+    "bananovblu": {
+      "githubLink": "https://github.com/bananovblu",
+      "tasks": []
+    },
+    "bmvmarc": {
+      "githubLink": "https://github.com/bmvmarc",
+      "tasks": [
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "taukitianin": {
+      "githubLink": "https://github.com/taukitianin",
+      "tasks": []
+    },
+    "deepenguin": {
+      "githubLink": "https://github.com/deepenguin",
+      "tasks": []
+    },
+    "agentumbrella": {
+      "githubLink": "https://github.com/agentumbrella",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "justforwebcoding": {
+      "githubLink": "https://github.com/justforwebcoding",
+      "tasks": []
+    },
+    "anastasiaburlo": {
+      "githubLink": "https://github.com/anastasiaburlo",
+      "tasks": []
+    },
+    "devandscorp": {
+      "githubLink": "https://github.com/devandscorp",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "qucca": {
+      "githubLink": "https://github.com/qucca",
+      "tasks": []
+    },
+    "lexbogos": {
+      "githubLink": "https://github.com/lexbogos",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "zebabrat": {
+      "githubLink": "https://github.com/zebabrat",
+      "tasks": []
+    },
+    "devildummy": {
+      "githubLink": "https://github.com/devildummy",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dzmitry-karachun-1987": {
+      "githubLink": "https://github.com/dzmitry-karachun-1987",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "serg8": {
+      "githubLink": "https://github.com/serg8",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "nik-av": {
+      "githubLink": "https://github.com/nik-av",
+      "tasks": []
+    },
+    "kishkun": {
+      "githubLink": "https://github.com/kishkun",
+      "tasks": []
+    },
+    "tsygancova": {
+      "githubLink": "https://github.com/tsygancova",
+      "tasks": []
+    },
+    "dmitryduk3": {
+      "githubLink": "https://github.com/dmitryduk3",
+      "tasks": []
+    },
+    "nikola2390": {
+      "githubLink": "https://github.com/nikola2390",
+      "tasks": []
+    },
+    "sashajohnson": {
+      "githubLink": "https://github.com/sashajohnson",
+      "tasks": []
+    },
+    "yagorka1": {
+      "githubLink": "https://github.com/yagorka1",
+      "tasks": []
+    },
+    "prudnikov888": {
+      "githubLink": "https://github.com/prudnikov888",
+      "tasks": []
+    },
+    "sergeyskakun": {
+      "githubLink": "https://github.com/sergeyskakun",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "petersonby": {
+      "githubLink": "https://github.com/petersonby",
+      "tasks": []
+    },
+    "aliaksandrposakh": {
+      "githubLink": "https://github.com/aliaksandrposakh",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "codejam\"scoreboard\"",
+        "youtube"
+      ]
+    },
+    "formalinfigs": {
+      "githubLink": "https://github.com/formalinfigs",
+      "tasks": []
+    },
+    "sxe2255": {
+      "githubLink": "https://github.com/sxe2255",
+      "tasks": []
+    },
+    "vovair": {
+      "githubLink": "https://github.com/vovair",
+      "tasks": []
+    },
+    "ingvaroldd": {
+      "githubLink": "https://github.com/ingvaroldd",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "bragodin": {
+      "githubLink": "https://github.com/bragodin",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "fantom141": {
+      "githubLink": "https://github.com/fantom141",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "samo-war": {
+      "githubLink": "https://github.com/samo-war",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "vitalur": {
+      "githubLink": "https://github.com/vitalur",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "jrzlve": {
+      "githubLink": "https://github.com/jrzlve",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "panikutysh": {
+      "githubLink": "https://github.com/panikutysh",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "vlukyane": {
+      "githubLink": "https://github.com/vlukyane",
+      "tasks": []
+    },
+    "vladimirdobrik": {
+      "githubLink": "https://github.com/vladimirdobrik",
+      "tasks": []
+    },
+    "frol8612": {
+      "githubLink": "https://github.com/frol8612",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "tvorchud": {
+      "githubLink": "https://github.com/tvorchud",
+      "tasks": []
+    },
+    "iharvypau": {
+      "githubLink": "https://github.com/iharvypau",
+      "tasks": []
+    },
+    "vitalijsk": {
+      "githubLink": "https://github.com/vitalijsk",
+      "tasks": []
+    },
+    "burach0k": {
+      "githubLink": "https://github.com/burach0k",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "denyingthetruth": {
+      "githubLink": "https://github.com/denyingthetruth",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "invikto": {
+      "githubLink": "https://github.com/invikto",
+      "tasks": []
+    },
+    "khaliulinroman": {
+      "githubLink": "https://github.com/khaliulinroman",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "slayer110": {
+      "githubLink": "https://github.com/slayer110",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kvinto1986": {
+      "githubLink": "https://github.com/kvinto1986",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "quiquek007": {
+      "githubLink": "https://github.com/quiquek007",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "presentation",
+        "youtube",
+        "rsactivist",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "mohax-13": {
+      "githubLink": "https://github.com/mohax-13",
+      "tasks": [
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "ksenia-ok": {
+      "githubLink": "https://github.com/ksenia-ok",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "noviceblunderer": {
+      "githubLink": "https://github.com/noviceblunderer",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kristalys": {
+      "githubLink": "https://github.com/kristalys",
+      "tasks": []
+    },
+    "splin-shady": {
+      "githubLink": "https://github.com/splin-shady",
+      "tasks": []
+    },
+    "katrin-kot": {
+      "githubLink": "https://github.com/katrin-kot",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "gattygamaun": {
+      "githubLink": "https://github.com/gattygamaun",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mariyapolt": {
+      "githubLink": "https://github.com/mariyapolt",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "0riac": {
+      "githubLink": "https://github.com/0riac",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube"
+      ]
+    },
+    "terstuyahmaksim": {
+      "githubLink": "https://github.com/terstuyahmaksim",
+      "tasks": []
+    },
+    "nickitasolovei": {
+      "githubLink": "https://github.com/nickitasolovei",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "saint-artiom": {
+      "githubLink": "https://github.com/saint-artiom",
+      "tasks": []
+    },
+    "andrey-lobach": {
+      "githubLink": "https://github.com/andrey-lobach",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\""
+      ]
+    },
+    "pitergtx": {
+      "githubLink": "https://github.com/pitergtx",
+      "tasks": []
+    },
+    "alexandravlasenko": {
+      "githubLink": "https://github.com/alexandravlasenko",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "painincoming": {
+      "githubLink": "https://github.com/painincoming",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\""
+      ]
+    },
+    "apivovarchik": {
+      "githubLink": "https://github.com/apivovarchik",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "ruslandimitriuk": {
+      "githubLink": "https://github.com/ruslandimitriuk",
+      "tasks": []
+    },
+    "temachkin11": {
+      "githubLink": "https://github.com/temachkin11",
+      "tasks": []
+    },
+    "iamhappy2day": {
+      "githubLink": "https://github.com/iamhappy2day",
+      "tasks": []
+    },
+    "katiekruchko": {
+      "githubLink": "https://github.com/katiekruchko",
+      "tasks": []
+    },
+    "artser97": {
+      "githubLink": "https://github.com/artser97",
+      "tasks": []
+    },
+    "stasnegreev": {
+      "githubLink": "https://github.com/stasnegreev",
+      "tasks": []
+    },
+    "moluram": {
+      "githubLink": "https://github.com/moluram",
+      "tasks": []
+    },
+    "cheeska": {
+      "githubLink": "https://github.com/cheeska",
+      "tasks": []
+    },
+    "nesteklo": {
+      "githubLink": "https://github.com/nesteklo",
+      "tasks": []
+    },
+    "dasnein": {
+      "githubLink": "https://github.com/dasnein",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "xlopec23": {
+      "githubLink": "https://github.com/xlopec23",
+      "tasks": []
+    },
+    "odinrossy": {
+      "githubLink": "https://github.com/odinrossy",
+      "tasks": []
+    },
+    "vlad0mag0": {
+      "githubLink": "https://github.com/vlad0mag0",
+      "tasks": []
+    },
+    "kir-22": {
+      "githubLink": "https://github.com/kir-22",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "snaiperlod": {
+      "githubLink": "https://github.com/snaiperlod",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "llitrixkod": {
+      "githubLink": "https://github.com/llitrixkod",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "kvatoferma": {
+      "githubLink": "https://github.com/kvatoferma",
+      "tasks": []
+    },
+    "vladagaravaya": {
+      "githubLink": "https://github.com/vladagaravaya",
+      "tasks": []
+    },
+    "chernyshovaalexandra": {
+      "githubLink": "https://github.com/chernyshovaalexandra",
+      "tasks": []
+    },
+    "jacksonbr87": {
+      "githubLink": "https://github.com/jacksonbr87",
+      "tasks": []
+    },
+    "mrchester": {
+      "githubLink": "https://github.com/mrchester",
+      "tasks": []
+    },
+    "mxwoodie": {
+      "githubLink": "https://github.com/mxwoodie",
+      "tasks": []
+    },
+    "psevkin": {
+      "githubLink": "https://github.com/psevkin",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "alexeevadaria": {
+      "githubLink": "https://github.com/alexeevadaria",
+      "tasks": []
+    },
+    "spiritforest": {
+      "githubLink": "https://github.com/spiritforest",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "chekni": {
+      "githubLink": "https://github.com/chekni",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "shymaxer": {
+      "githubLink": "https://github.com/shymaxer",
+      "tasks": []
+    },
+    "leshich": {
+      "githubLink": "https://github.com/leshich",
+      "tasks": []
+    },
+    "tamefreak": {
+      "githubLink": "https://github.com/tamefreak",
+      "tasks": []
+    },
+    "shutya": {
+      "githubLink": "https://github.com/shutya",
+      "tasks": []
+    },
+    "dgekaa": {
+      "githubLink": "https://github.com/dgekaa",
+      "tasks": []
+    },
+    "leontyevatatyana": {
+      "githubLink": "https://github.com/leontyevatatyana",
+      "tasks": []
+    },
+    "19alexandr90": {
+      "githubLink": "https://github.com/19alexandr90",
+      "tasks": []
+    },
+    "uniorunr": {
+      "githubLink": "https://github.com/uniorunr",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "alexeydavydov": {
+      "githubLink": "https://github.com/alexeydavydov",
+      "tasks": []
+    },
+    "melllivoracapensis": {
+      "githubLink": "https://github.com/melllivoracapensis",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "soulshaker": {
+      "githubLink": "https://github.com/soulshaker",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "bezchekera": {
+      "githubLink": "https://github.com/bezchekera",
+      "tasks": []
+    },
+    "nadinaaa": {
+      "githubLink": "https://github.com/nadinaaa",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "codejam\"cv\""
+      ]
+    },
+    "volunyshka": {
+      "githubLink": "https://github.com/volunyshka",
+      "tasks": []
+    },
+    "grnkvch": {
+      "githubLink": "https://github.com/grnkvch",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "driliad": {
+      "githubLink": "https://github.com/driliad",
+      "tasks": []
+    },
+    "yanamina": {
+      "githubLink": "https://github.com/yanamina",
+      "tasks": []
+    },
+    "katepavlovich": {
+      "githubLink": "https://github.com/katepavlovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "youngbrick": {
+      "githubLink": "https://github.com/youngbrick",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "alekengineer": {
+      "githubLink": "https://github.com/alekengineer",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "kottt4": {
+      "githubLink": "https://github.com/kottt4",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "walkunderrain": {
+      "githubLink": "https://github.com/walkunderrain",
+      "tasks": []
+    },
+    "latiertiw": {
+      "githubLink": "https://github.com/latiertiw",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "sined1": {
+      "githubLink": "https://github.com/sined1",
+      "tasks": []
+    },
+    "vladzuev": {
+      "githubLink": "https://github.com/vladzuev",
+      "tasks": []
+    },
+    "christinaalimova": {
+      "githubLink": "https://github.com/christinaalimova",
+      "tasks": []
+    },
+    "vireah": {
+      "githubLink": "https://github.com/vireah",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "yarobei": {
+      "githubLink": "https://github.com/yarobei",
+      "tasks": []
+    },
+    "alexandrtichon": {
+      "githubLink": "https://github.com/alexandrtichon",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "youtube"
+      ]
+    },
+    "yanyan155": {
+      "githubLink": "https://github.com/yanyan155",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "pkutsilina": {
+      "githubLink": "https://github.com/pkutsilina",
+      "tasks": [
+        "codejam\"corejs\""
+      ]
+    },
+    "kozyritskiy": {
+      "githubLink": "https://github.com/kozyritskiy",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "artyom123": {
+      "githubLink": "https://github.com/artyom123",
+      "tasks": []
+    },
+    "evamaster": {
+      "githubLink": "https://github.com/evamaster",
+      "tasks": []
+    },
+    "elenakhamitsevich": {
+      "githubLink": "https://github.com/elenakhamitsevich",
+      "tasks": []
+    },
+    "nastyalo": {
+      "githubLink": "https://github.com/nastyalo",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "lveliarl": {
+      "githubLink": "https://github.com/lveliarl",
+      "tasks": []
+    },
+    "spinagrblzzz": {
+      "githubLink": "https://github.com/spinagrblzzz",
+      "tasks": []
+    },
+    "sergaunt": {
+      "githubLink": "https://github.com/sergaunt",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "brateckrolikstudent": {
+      "githubLink": "https://github.com/brateckrolikstudent",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "venomamd": {
+      "githubLink": "https://github.com/venomamd",
+      "tasks": []
+    },
+    "vetal11": {
+      "githubLink": "https://github.com/vetal11",
+      "tasks": []
+    },
+    "ishelest": {
+      "githubLink": "https://github.com/ishelest",
+      "tasks": []
+    },
+    "yakgjen": {
+      "githubLink": "https://github.com/yakgjen",
+      "tasks": []
+    },
+    "alexandrshlyaeu": {
+      "githubLink": "https://github.com/alexandrshlyaeu",
+      "tasks": []
+    },
+    "inanutshell86": {
+      "githubLink": "https://github.com/inanutshell86",
+      "tasks": []
+    },
+    "sffirm": {
+      "githubLink": "https://github.com/sffirm",
+      "tasks": []
+    },
+    "zetrox-x": {
+      "githubLink": "https://github.com/zetrox-x",
+      "tasks": []
+    },
+    "juliasnoww": {
+      "githubLink": "https://github.com/juliasnoww",
+      "tasks": []
+    },
+    "goner52": {
+      "githubLink": "https://github.com/goner52",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "poyuki": {
+      "githubLink": "https://github.com/poyuki",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube"
+      ]
+    },
+    "elmavis": {
+      "githubLink": "https://github.com/elmavis",
+      "tasks": []
+    },
+    "rafchillons": {
+      "githubLink": "https://github.com/rafchillons",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "kirylalexandrovich": {
+      "githubLink": "https://github.com/kirylalexandrovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "vlad9719": {
+      "githubLink": "https://github.com/vlad9719",
+      "tasks": []
+    },
+    "mg3442": {
+      "githubLink": "https://github.com/mg3442",
+      "tasks": []
+    },
+    "dimasquared": {
+      "githubLink": "https://github.com/dimasquared",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "smetaninpavel": {
+      "githubLink": "https://github.com/smetaninpavel",
+      "tasks": []
+    },
+    "ol4ash": {
+      "githubLink": "https://github.com/ol4ash",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kasper1999": {
+      "githubLink": "https://github.com/kasper1999",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "ivanmikhailenka1": {
+      "githubLink": "https://github.com/ivanmikhailenka1",
+      "tasks": []
+    },
+    "ener9ettt": {
+      "githubLink": "https://github.com/ener9ettt",
+      "tasks": []
+    },
+    "petromath77": {
+      "githubLink": "https://github.com/petromath77",
+      "tasks": []
+    },
+    "barsolet": {
+      "githubLink": "https://github.com/barsolet",
+      "tasks": []
+    },
+    "yanrishbe": {
+      "githubLink": "https://github.com/yanrishbe",
+      "tasks": []
+    },
+    "juliamv": {
+      "githubLink": "https://github.com/juliamv",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "icebergnevercries": {
+      "githubLink": "https://github.com/icebergnevercries",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "tamarashautsova": {
+      "githubLink": "https://github.com/tamarashautsova",
+      "tasks": []
+    },
+    "vladyaremeko": {
+      "githubLink": "https://github.com/vladyaremeko",
+      "tasks": []
+    },
+    "ton9q": {
+      "githubLink": "https://github.com/ton9q",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "nktvlkvch": {
+      "githubLink": "https://github.com/nktvlkvch",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "valentinlipai": {
+      "githubLink": "https://github.com/valentinlipai",
+      "tasks": []
+    },
+    "mazhoranta": {
+      "githubLink": "https://github.com/mazhoranta",
+      "tasks": []
+    },
+    "smajlichak": {
+      "githubLink": "https://github.com/smajlichak",
+      "tasks": []
+    },
+    "zm1try": {
+      "githubLink": "https://github.com/zm1try",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "jstrr": {
+      "githubLink": "https://github.com/jstrr",
+      "tasks": []
+    },
+    "kirill82": {
+      "githubLink": "https://github.com/kirill82",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "blackcat1397": {
+      "githubLink": "https://github.com/blackcat1397",
+      "tasks": []
+    },
+    "olegkizz": {
+      "githubLink": "https://github.com/olegkizz",
+      "tasks": []
+    },
+    "lazouskikiryl": {
+      "githubLink": "https://github.com/lazouskikiryl",
+      "tasks": [
+        "codejam\"cv\"",
+        "markup#1"
+      ]
+    },
+    "dimabog22": {
+      "githubLink": "https://github.com/dimabog22",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "bigshaqmnh": {
+      "githubLink": "https://github.com/bigshaqmnh",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "antonnaumchik": {
+      "githubLink": "https://github.com/antonnaumchik",
+      "tasks": []
+    },
+    "torchik-slava": {
+      "githubLink": "https://github.com/torchik-slava",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "antihero": {
+      "githubLink": "https://github.com/antihero",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "rsactivist",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "karpiyeniamv": {
+      "githubLink": "https://github.com/karpiyeniamv",
+      "tasks": []
+    },
+    "kirillzavorotni": {
+      "githubLink": "https://github.com/kirillzavorotni",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "makar1227": {
+      "githubLink": "https://github.com/makar1227",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mudreuski": {
+      "githubLink": "https://github.com/mudreuski",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "artkon": {
+      "githubLink": "https://github.com/artkon",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "yaroslav-mig": {
+      "githubLink": "https://github.com/yaroslav-mig",
+      "tasks": [
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "novikovantony": {
+      "githubLink": "https://github.com/novikovantony",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "mayblackwood": {
+      "githubLink": "https://github.com/mayblackwood",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "anastminsk": {
+      "githubLink": "https://github.com/anastminsk",
+      "tasks": []
+    },
+    "28halavach": {
+      "githubLink": "https://github.com/28halavach",
+      "tasks": []
+    },
+    "40grivenprog": {
+      "githubLink": "https://github.com/40grivenprog",
+      "tasks": []
+    },
+    "igordive": {
+      "githubLink": "https://github.com/igordive",
+      "tasks": []
+    },
+    "nataliamotuz": {
+      "githubLink": "https://github.com/nataliamotuz",
+      "tasks": []
+    },
+    "arkhipenka": {
+      "githubLink": "https://github.com/arkhipenka",
+      "tasks": [
+        "markup#1",
+        "youtube"
+      ]
+    },
+    "abespolov": {
+      "githubLink": "https://github.com/abespolov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "zzhiharevich": {
+      "githubLink": "https://github.com/zzhiharevich",
+      "tasks": []
+    },
+    "dimaspivas": {
+      "githubLink": "https://github.com/dimaspivas",
+      "tasks": [
+        "codejam\"corejs\""
+      ]
+    },
+    "maxkonopelko": {
+      "githubLink": "https://github.com/maxkonopelko",
+      "tasks": []
+    },
+    "mentos2805": {
+      "githubLink": "https://github.com/mentos2805",
+      "tasks": []
+    },
+    "sergeybandar": {
+      "githubLink": "https://github.com/sergeybandar",
+      "tasks": []
+    },
+    "alexanderkononok": {
+      "githubLink": "https://github.com/alexanderkononok",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mrmars20": {
+      "githubLink": "https://github.com/mrmars20",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "metalhammer4": {
+      "githubLink": "https://github.com/metalhammer4",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "rudlevsky": {
+      "githubLink": "https://github.com/rudlevsky",
+      "tasks": []
+    },
+    "ostik266": {
+      "githubLink": "https://github.com/ostik266",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "katekosushkina": {
+      "githubLink": "https://github.com/katekosushkina",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "viki-klipp": {
+      "githubLink": "https://github.com/viki-klipp",
+      "tasks": []
+    },
+    "anyalenko": {
+      "githubLink": "https://github.com/anyalenko",
+      "tasks": []
+    },
+    "northingvar": {
+      "githubLink": "https://github.com/northingvar",
+      "tasks": []
+    },
+    "mrdreaml": {
+      "githubLink": "https://github.com/mrdreaml",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "tsypolina": {
+      "githubLink": "https://github.com/tsypolina",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "evgeniy121": {
+      "githubLink": "https://github.com/evgeniy121",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "jadgptw": {
+      "githubLink": "https://github.com/jadgptw",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "sobolevyuri": {
+      "githubLink": "https://github.com/sobolevyuri",
+      "tasks": []
+    },
+    "credov": {
+      "githubLink": "https://github.com/credov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "clericus": {
+      "githubLink": "https://github.com/clericus",
+      "tasks": []
+    },
+    "dbaceko": {
+      "githubLink": "https://github.com/dbaceko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "frontsideman": {
+      "githubLink": "https://github.com/frontsideman",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "nastya-ropot": {
+      "githubLink": "https://github.com/nastya-ropot",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "mozgoen": {
+      "githubLink": "https://github.com/mozgoen",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "hellsingi": {
+      "githubLink": "https://github.com/hellsingi",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "yeilya": {
+      "githubLink": "https://github.com/yeilya",
+      "tasks": []
+    },
+    "polotenchik": {
+      "githubLink": "https://github.com/polotenchik",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "tshkursk": {
+      "githubLink": "https://github.com/tshkursk",
+      "tasks": []
+    },
+    "olgaluk": {
+      "githubLink": "https://github.com/olgaluk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "groamed": {
+      "githubLink": "https://github.com/groamed",
+      "tasks": []
+    },
+    "grapeperson": {
+      "githubLink": "https://github.com/grapeperson",
+      "tasks": []
+    },
+    "rbarakhvostov": {
+      "githubLink": "https://github.com/rbarakhvostov",
+      "tasks": []
+    },
+    "silichstudent": {
+      "githubLink": "https://github.com/silichstudent",
+      "tasks": []
+    },
+    "vvikota": {
+      "githubLink": "https://github.com/vvikota",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "markup#1",
+        "youtube"
+      ]
+    },
+    "leonard1k": {
+      "githubLink": "https://github.com/leonard1k",
+      "tasks": []
+    },
+    "mariakisel": {
+      "githubLink": "https://github.com/mariakisel",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "qxfisher": {
+      "githubLink": "https://github.com/qxfisher",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "bulbazubr": {
+      "githubLink": "https://github.com/bulbazubr",
+      "tasks": []
+    },
+    "sergeiobolevich": {
+      "githubLink": "https://github.com/sergeiobolevich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "dimashcherbakov": {
+      "githubLink": "https://github.com/dimashcherbakov",
+      "tasks": []
+    },
+    "feulia": {
+      "githubLink": "https://github.com/feulia",
+      "tasks": []
+    },
+    "magi-a": {
+      "githubLink": "https://github.com/magi-a",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "andrewyanushkevich": {
+      "githubLink": "https://github.com/andrewyanushkevich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "glebhleb": {
+      "githubLink": "https://github.com/glebhleb",
+      "tasks": []
+    },
+    "segrey1989": {
+      "githubLink": "https://github.com/segrey1989",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "kotukjubotuk": {
+      "githubLink": "https://github.com/kotukjubotuk",
+      "tasks": []
+    },
+    "nikkola07": {
+      "githubLink": "https://github.com/nikkola07",
+      "tasks": []
+    },
+    "alexandershaternik": {
+      "githubLink": "https://github.com/alexandershaternik",
+      "tasks": []
+    },
+    "okband": {
+      "githubLink": "https://github.com/okband",
+      "tasks": []
+    },
+    "sunrisekovalevski": {
+      "githubLink": "https://github.com/sunrisekovalevski",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "spacebrains": {
+      "githubLink": "https://github.com/spacebrains",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "pincherinka": {
+      "githubLink": "https://github.com/pincherinka",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "victoriathebrave": {
+      "githubLink": "https://github.com/victoriathebrave",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "ivanmatsur": {
+      "githubLink": "https://github.com/ivanmatsur",
+      "tasks": []
+    },
+    "usermeme": {
+      "githubLink": "https://github.com/usermeme",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "virusss": {
+      "githubLink": "https://github.com/virusss",
+      "tasks": []
+    },
+    "nikaz123": {
+      "githubLink": "https://github.com/nikaz123",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "a-lika": {
+      "githubLink": "https://github.com/a-lika",
+      "tasks": []
+    },
+    "uniqkue": {
+      "githubLink": "https://github.com/uniqkue",
+      "tasks": []
+    },
+    "sqwezzy": {
+      "githubLink": "https://github.com/sqwezzy",
+      "tasks": []
+    },
+    "nikaneider": {
+      "githubLink": "https://github.com/nikaneider",
+      "tasks": []
+    },
+    "rebellix": {
+      "githubLink": "https://github.com/rebellix",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "litwin90": {
+      "githubLink": "https://github.com/litwin90",
+      "tasks": []
+    },
+    "dzmitrybabak": {
+      "githubLink": "https://github.com/dzmitrybabak",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "systemghost": {
+      "githubLink": "https://github.com/systemghost",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "eugenetime": {
+      "githubLink": "https://github.com/eugenetime",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "alexnaidovich": {
+      "githubLink": "https://github.com/alexnaidovich",
+      "tasks": []
+    },
+    "ivanchikovvalentin": {
+      "githubLink": "https://github.com/ivanchikovvalentin",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "ewelai": {
+      "githubLink": "https://github.com/ewelai",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "denhock": {
+      "githubLink": "https://github.com/denhock",
+      "tasks": []
+    },
+    "kirillgalimov": {
+      "githubLink": "https://github.com/kirillgalimov",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "igor-provotorov": {
+      "githubLink": "https://github.com/igor-provotorov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "kamatozzzik": {
+      "githubLink": "https://github.com/kamatozzzik",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "heaveek": {
+      "githubLink": "https://github.com/heaveek",
+      "tasks": [
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "olegsabodash": {
+      "githubLink": "https://github.com/olegsabodash",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "andriva": {
+      "githubLink": "https://github.com/andriva",
+      "tasks": []
+    },
+    "meearlyam": {
+      "githubLink": "https://github.com/meearlyam",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "veronikavasilchikova": {
+      "githubLink": "https://github.com/veronikavasilchikova",
+      "tasks": []
+    },
+    "aleks210219": {
+      "githubLink": "https://github.com/aleks210219",
+      "tasks": []
+    },
+    "krlktv": {
+      "githubLink": "https://github.com/krlktv",
+      "tasks": []
+    },
+    "dsv-sergey": {
+      "githubLink": "https://github.com/dsv-sergey",
+      "tasks": [
+        "codejam\"corejs\""
+      ]
+    },
+    "nadezhda-kotova": {
+      "githubLink": "https://github.com/nadezhda-kotova",
+      "tasks": []
+    },
+    "alexalizurchik": {
+      "githubLink": "https://github.com/alexalizurchik",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "pavellyolya": {
+      "githubLink": "https://github.com/pavellyolya",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mailikey": {
+      "githubLink": "https://github.com/mailikey",
+      "tasks": []
+    },
+    "vladesco": {
+      "githubLink": "https://github.com/vladesco",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "drdiman": {
+      "githubLink": "https://github.com/drdiman",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dzmitrymashuk": {
+      "githubLink": "https://github.com/dzmitrymashuk",
+      "tasks": []
+    },
+    "ipixby": {
+      "githubLink": "https://github.com/ipixby",
+      "tasks": []
+    },
+    "nickprudnik": {
+      "githubLink": "https://github.com/nickprudnik",
+      "tasks": []
+    },
+    "vitalitybo": {
+      "githubLink": "https://github.com/vitalitybo",
+      "tasks": []
+    },
+    "kirillfilipp": {
+      "githubLink": "https://github.com/kirillfilipp",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "gemsgame": {
+      "githubLink": "https://github.com/gemsgame",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "axissixa57": {
+      "githubLink": "https://github.com/axissixa57",
+      "tasks": []
+    },
+    "maxstarovoitov": {
+      "githubLink": "https://github.com/maxstarovoitov",
+      "tasks": []
+    },
+    "nemkev": {
+      "githubLink": "https://github.com/nemkev",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "dianatsevan": {
+      "githubLink": "https://github.com/dianatsevan",
+      "tasks": []
+    },
+    "christopher-0118": {
+      "githubLink": "https://github.com/christopher-0118",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "happy-mary": {
+      "githubLink": "https://github.com/happy-mary",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "onaker": {
+      "githubLink": "https://github.com/onaker",
+      "tasks": []
+    },
+    "igorbyl": {
+      "githubLink": "https://github.com/igorbyl",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "maksyermak": {
+      "githubLink": "https://github.com/maksyermak",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "riba0017": {
+      "githubLink": "https://github.com/riba0017",
+      "tasks": []
+    },
+    "maksimaliakhnovich": {
+      "githubLink": "https://github.com/maksimaliakhnovich",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "superorange": {
+      "githubLink": "https://github.com/superorange",
+      "tasks": []
+    },
+    "artsiom-zhuk": {
+      "githubLink": "https://github.com/artsiom-zhuk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "yauheni23": {
+      "githubLink": "https://github.com/yauheni23",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "yevganytyurin": {
+      "githubLink": "https://github.com/yevganytyurin",
+      "tasks": []
+    },
+    "pofs": {
+      "githubLink": "https://github.com/pofs",
+      "tasks": []
+    },
+    "alexeykuril0": {
+      "githubLink": "https://github.com/alexeykuril0",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "kragov": {
+      "githubLink": "https://github.com/kragov",
+      "tasks": []
+    },
+    "gruzinskiiartem": {
+      "githubLink": "https://github.com/gruzinskiiartem",
+      "tasks": []
+    },
+    "pivchenkosv": {
+      "githubLink": "https://github.com/pivchenkosv",
+      "tasks": []
+    },
+    "andreisavelyev": {
+      "githubLink": "https://github.com/andreisavelyev",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "kira2023": {
+      "githubLink": "https://github.com/kira2023",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "vvsvintsitsky": {
+      "githubLink": "https://github.com/vvsvintsitsky",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "molestador": {
+      "githubLink": "https://github.com/molestador",
+      "tasks": []
+    },
+    "kiryllapouski": {
+      "githubLink": "https://github.com/kiryllapouski",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "eugene3112": {
+      "githubLink": "https://github.com/eugene3112",
+      "tasks": []
+    },
+    "heat98": {
+      "githubLink": "https://github.com/heat98",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation"
+      ]
+    },
+    "tanyamatesha": {
+      "githubLink": "https://github.com/tanyamatesha",
+      "tasks": []
+    },
+    "egorgorbik": {
+      "githubLink": "https://github.com/egorgorbik",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "vicrodzko": {
+      "githubLink": "https://github.com/vicrodzko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "ilyatrat": {
+      "githubLink": "https://github.com/ilyatrat",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation"
+      ]
+    },
+    "unbelievablysmart": {
+      "githubLink": "https://github.com/unbelievablysmart",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1"
+      ]
+    },
+    "viktoryia-hrechykha": {
+      "githubLink": "https://github.com/viktoryia-hrechykha",
+      "tasks": []
+    },
+    "pavalescoba": {
+      "githubLink": "https://github.com/pavalescoba",
+      "tasks": [
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "kashapov": {
+      "githubLink": "https://github.com/kashapov",
+      "tasks": []
+    },
+    "michaeldaineka": {
+      "githubLink": "https://github.com/michaeldaineka",
+      "tasks": []
+    },
+    "lesechka": {
+      "githubLink": "https://github.com/lesechka",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "vasiliyrepin": {
+      "githubLink": "https://github.com/vasiliyrepin",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation",
+        "markup#1",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "mike80by": {
+      "githubLink": "https://github.com/mike80by",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "sergeyshestak": {
+      "githubLink": "https://github.com/sergeyshestak",
+      "tasks": []
+    },
+    "victorbelikov": {
+      "githubLink": "https://github.com/victorbelikov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "auseika": {
+      "githubLink": "https://github.com/auseika",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "youtube",
+        "rsactivist",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "iharpadbiarezski": {
+      "githubLink": "https://github.com/iharpadbiarezski",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "kirillstarlight": {
+      "githubLink": "https://github.com/kirillstarlight",
+      "tasks": []
+    },
+    "waldemar999": {
+      "githubLink": "https://github.com/waldemar999",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kushnerevich": {
+      "githubLink": "https://github.com/kushnerevich",
+      "tasks": []
+    },
+    "igarok91": {
+      "githubLink": "https://github.com/igarok91",
+      "tasks": []
+    },
+    "aliakseibabko": {
+      "githubLink": "https://github.com/aliakseibabko",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "markup#1"
+      ]
+    },
+    "gleb7raul": {
+      "githubLink": "https://github.com/gleb7raul",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "zhekaprb": {
+      "githubLink": "https://github.com/zhekaprb",
+      "tasks": []
+    },
+    "nightman20104": {
+      "githubLink": "https://github.com/nightman20104",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "irin-ka": {
+      "githubLink": "https://github.com/irin-ka",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "codejam\"scoreboard\"",
+        "youtube"
+      ]
+    },
+    "daniil-loban": {
+      "githubLink": "https://github.com/daniil-loban",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "rsactivist",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "misharsweb": {
+      "githubLink": "https://github.com/misharsweb",
+      "tasks": []
+    },
+    "devbarden": {
+      "githubLink": "https://github.com/devbarden",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "nicklevkovich": {
+      "githubLink": "https://github.com/nicklevkovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "poiskull": {
+      "githubLink": "https://github.com/poiskull",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "mrio1": {
+      "githubLink": "https://github.com/mrio1",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "alexkashpor": {
+      "githubLink": "https://github.com/alexkashpor",
+      "tasks": []
+    },
+    "dmsomov": {
+      "githubLink": "https://github.com/dmsomov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "aspowerr": {
+      "githubLink": "https://github.com/aspowerr",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "shchelkunchik": {
+      "githubLink": "https://github.com/shchelkunchik",
+      "tasks": []
+    },
+    "thatcherrr": {
+      "githubLink": "https://github.com/thatcherrr",
+      "tasks": []
+    },
+    "torioyoshiko": {
+      "githubLink": "https://github.com/torioyoshiko",
+      "tasks": []
+    },
+    "julialar4enko": {
+      "githubLink": "https://github.com/julialar4enko",
+      "tasks": []
+    },
+    "yasell": {
+      "githubLink": "https://github.com/yasell",
+      "tasks": []
+    },
+    "aleksandrmedvedev9000": {
+      "githubLink": "https://github.com/aleksandrmedvedev9000",
+      "tasks": []
+    },
+    "modrix": {
+      "githubLink": "https://github.com/modrix",
+      "tasks": []
+    },
+    "scarletcamomile": {
+      "githubLink": "https://github.com/scarletcamomile",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "tani4ik": {
+      "githubLink": "https://github.com/tani4ik",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "bespodobno": {
+      "githubLink": "https://github.com/bespodobno",
+      "tasks": []
+    },
+    "anastasia1627": {
+      "githubLink": "https://github.com/anastasia1627",
+      "tasks": []
+    },
+    "basch1727": {
+      "githubLink": "https://github.com/basch1727",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "lizabredberry": {
+      "githubLink": "https://github.com/lizabredberry",
+      "tasks": []
+    },
+    "zartaich": {
+      "githubLink": "https://github.com/zartaich",
+      "tasks": []
+    },
+    "estel1591": {
+      "githubLink": "https://github.com/estel1591",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "alekseymishuk": {
+      "githubLink": "https://github.com/alekseymishuk",
+      "tasks": []
+    },
+    "sergeybaranovichi": {
+      "githubLink": "https://github.com/sergeybaranovichi",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "karina198": {
+      "githubLink": "https://github.com/karina198",
+      "tasks": []
+    },
+    "arturkudlo": {
+      "githubLink": "https://github.com/arturkudlo",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "dimasofff": {
+      "githubLink": "https://github.com/dimasofff",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "6alex6kash6": {
+      "githubLink": "https://github.com/6alex6kash6",
+      "tasks": []
+    },
+    "stas4it": {
+      "githubLink": "https://github.com/stas4it",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "vladislavmakarevich": {
+      "githubLink": "https://github.com/vladislavmakarevich",
+      "tasks": []
+    },
+    "juliankov": {
+      "githubLink": "https://github.com/juliankov",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation",
+        "markup#1",
+        "codejam\"cv\""
+      ]
+    },
+    "niksrakevich": {
+      "githubLink": "https://github.com/niksrakevich",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "markup#1",
+        "codejam\"cv\""
+      ]
+    },
+    "leshka98": {
+      "githubLink": "https://github.com/leshka98",
+      "tasks": []
+    },
+    "siarheikresik": {
+      "githubLink": "https://github.com/siarheikresik",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "dianakay": {
+      "githubLink": "https://github.com/dianakay",
+      "tasks": []
+    },
+    "tvj888": {
+      "githubLink": "https://github.com/tvj888",
+      "tasks": []
+    },
+    "alexkov90": {
+      "githubLink": "https://github.com/alexkov90",
+      "tasks": []
+    },
+    "mpot7": {
+      "githubLink": "https://github.com/mpot7",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "charmant": {
+      "githubLink": "https://github.com/charmant",
+      "tasks": []
+    },
+    "andreikrivets": {
+      "githubLink": "https://github.com/andreikrivets",
+      "tasks": []
+    },
+    "lavazzakate": {
+      "githubLink": "https://github.com/lavazzakate",
+      "tasks": []
+    },
+    "2kevink": {
+      "githubLink": "https://github.com/2kevink",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "codejam\"corejs\"",
+        "codejam\"scoreboard\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "vladislavrebko": {
+      "githubLink": "https://github.com/vladislavrebko",
+      "tasks": []
+    },
+    "amoyt": {
+      "githubLink": "https://github.com/amoyt",
+      "tasks": [
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "sches": {
+      "githubLink": "https://github.com/sches",
+      "tasks": []
+    },
+    "simaxa7": {
+      "githubLink": "https://github.com/simaxa7",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "rsactivist",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "polinamoiseyenko": {
+      "githubLink": "https://github.com/polinamoiseyenko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "sashakaralchuk": {
+      "githubLink": "https://github.com/sashakaralchuk",
+      "tasks": []
+    },
+    "kyleshovbb": {
+      "githubLink": "https://github.com/kyleshovbb",
+      "tasks": []
+    },
+    "yabeda79": {
+      "githubLink": "https://github.com/yabeda79",
+      "tasks": []
+    },
+    "sergmi": {
+      "githubLink": "https://github.com/sergmi",
+      "tasks": []
+    },
+    "disa0808": {
+      "githubLink": "https://github.com/disa0808",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "pulya10c": {
+      "githubLink": "https://github.com/pulya10c",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "andreiyasinski": {
+      "githubLink": "https://github.com/andreiyasinski",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "duza": {
+      "githubLink": "https://github.com/duza",
+      "tasks": []
+    },
+    "anton23kirienko": {
+      "githubLink": "https://github.com/anton23kirienko",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "gandigap": {
+      "githubLink": "https://github.com/gandigap",
+      "tasks": []
+    },
+    "aborisenok": {
+      "githubLink": "https://github.com/aborisenok",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "valiantsinlopan": {
+      "githubLink": "https://github.com/valiantsinlopan",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "egormiwa1": {
+      "githubLink": "https://github.com/egormiwa1",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "foxygirl44": {
+      "githubLink": "https://github.com/foxygirl44",
+      "tasks": []
+    },
+    "stationtostation": {
+      "githubLink": "https://github.com/stationtostation",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "tatsianacs": {
+      "githubLink": "https://github.com/tatsianacs",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "rsactivist",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "kharuk": {
+      "githubLink": "https://github.com/kharuk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "wald3": {
+      "githubLink": "https://github.com/wald3",
+      "tasks": []
+    },
+    "yuliyahlukhatarenka": {
+      "githubLink": "https://github.com/yuliyahlukhatarenka",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "lapa17": {
+      "githubLink": "https://github.com/lapa17",
+      "tasks": []
+    },
+    "dmitrylutskovich": {
+      "githubLink": "https://github.com/dmitrylutskovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "vladst90": {
+      "githubLink": "https://github.com/vladst90",
+      "tasks": []
+    },
+    "atryomparfenenkov": {
+      "githubLink": "https://github.com/atryomparfenenkov",
+      "tasks": []
+    },
+    "horoshaya": {
+      "githubLink": "https://github.com/horoshaya",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "rsactivist",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "martinkevichyana": {
+      "githubLink": "https://github.com/martinkevichyana",
+      "tasks": []
+    },
+    "montik-pc": {
+      "githubLink": "https://github.com/montik-pc",
+      "tasks": []
+    },
+    "jeka98": {
+      "githubLink": "https://github.com/jeka98",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "renardby": {
+      "githubLink": "https://github.com/renardby",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "codejam\"scoreboard\"",
+        "rsactivist"
+      ]
+    },
+    "sergeyguchok": {
+      "githubLink": "https://github.com/sergeyguchok",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "aytsan": {
+      "githubLink": "https://github.com/aytsan",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "metre-ray": {
+      "githubLink": "https://github.com/metre-ray",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "napro23": {
+      "githubLink": "https://github.com/napro23",
+      "tasks": []
+    },
+    "artur-alexandrov": {
+      "githubLink": "https://github.com/artur-alexandrov",
+      "tasks": []
+    },
+    "overkektus": {
+      "githubLink": "https://github.com/overkektus",
+      "tasks": []
+    },
+    "zhekix": {
+      "githubLink": "https://github.com/zhekix",
+      "tasks": []
+    },
+    "meller96": {
+      "githubLink": "https://github.com/meller96",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "ogurez": {
+      "githubLink": "https://github.com/ogurez",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "mrlapka": {
+      "githubLink": "https://github.com/mrlapka",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "olexxxey": {
+      "githubLink": "https://github.com/olexxxey",
+      "tasks": []
+    },
+    "xelson": {
+      "githubLink": "https://github.com/xelson",
+      "tasks": []
+    },
+    "amoebiusss": {
+      "githubLink": "https://github.com/amoebiusss",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\"",
+        "rsactivist"
+      ]
+    },
+    "megustafather": {
+      "githubLink": "https://github.com/megustafather",
+      "tasks": []
+    },
+    "tebeskashi": {
+      "githubLink": "https://github.com/tebeskashi",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "pinkrefugee": {
+      "githubLink": "https://github.com/pinkrefugee",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "youtube"
+      ]
+    },
+    "daqueze21": {
+      "githubLink": "https://github.com/daqueze21",
+      "tasks": []
+    },
+    "beetle23": {
+      "githubLink": "https://github.com/beetle23",
+      "tasks": []
+    },
+    "lynyx": {
+      "githubLink": "https://github.com/lynyx",
+      "tasks": []
+    },
+    "tomsssm": {
+      "githubLink": "https://github.com/tomsssm",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "colambus13": {
+      "githubLink": "https://github.com/colambus13",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "vergonini": {
+      "githubLink": "https://github.com/vergonini",
+      "tasks": []
+    },
+    "katiar": {
+      "githubLink": "https://github.com/katiar",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "anaumovich": {
+      "githubLink": "https://github.com/anaumovich",
+      "tasks": []
+    },
+    "kirillkolesnik123": {
+      "githubLink": "https://github.com/kirillkolesnik123",
+      "tasks": []
+    },
+    "kozelkoff": {
+      "githubLink": "https://github.com/kozelkoff",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "vladislavshyian": {
+      "githubLink": "https://github.com/vladislavshyian",
+      "tasks": []
+    },
+    "gleb-kukobnikov": {
+      "githubLink": "https://github.com/gleb-kukobnikov",
+      "tasks": []
+    },
+    "sokol147": {
+      "githubLink": "https://github.com/sokol147",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "dantewitcher": {
+      "githubLink": "https://github.com/dantewitcher",
+      "tasks": []
+    },
+    "natiedei": {
+      "githubLink": "https://github.com/natiedei",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "aliaksandrarybak": {
+      "githubLink": "https://github.com/aliaksandrarybak",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "kaleniksasha": {
+      "githubLink": "https://github.com/kaleniksasha",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "ue4prog": {
+      "githubLink": "https://github.com/ue4prog",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "sk1ngr0s": {
+      "githubLink": "https://github.com/sk1ngr0s",
+      "tasks": []
+    },
+    "alexshumansky": {
+      "githubLink": "https://github.com/alexshumansky",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "rsactivist",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "margoshulpina": {
+      "githubLink": "https://github.com/margoshulpina",
+      "tasks": []
+    },
+    "helpthewalrus": {
+      "githubLink": "https://github.com/helpthewalrus",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "aliaksandrlosich": {
+      "githubLink": "https://github.com/aliaksandrlosich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dmsolov": {
+      "githubLink": "https://github.com/dmsolov",
+      "tasks": []
+    },
+    "bogdanka": {
+      "githubLink": "https://github.com/bogdanka",
+      "tasks": []
+    },
+    "srjkaa": {
+      "githubLink": "https://github.com/srjkaa",
+      "tasks": []
+    },
+    "godofnoobs": {
+      "githubLink": "https://github.com/godofnoobs",
+      "tasks": []
+    },
+    "uivgray": {
+      "githubLink": "https://github.com/uivgray",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "sergeyakzhik": {
+      "githubLink": "https://github.com/sergeyakzhik",
+      "tasks": []
+    },
+    "kulinar310": {
+      "githubLink": "https://github.com/kulinar310",
+      "tasks": [
+        "markup#1"
+      ]
+    },
+    "cropotan": {
+      "githubLink": "https://github.com/cropotan",
+      "tasks": [
+        "markup#1"
+      ]
+    },
+    "vitalydmitriev": {
+      "githubLink": "https://github.com/vitalydmitriev",
+      "tasks": []
+    },
+    "philipsh": {
+      "githubLink": "https://github.com/philipsh",
+      "tasks": [
+        "markup#1"
+      ]
+    },
+    "vero-nika": {
+      "githubLink": "https://github.com/vero-nika",
+      "tasks": []
+    },
+    "vladsemenik": {
+      "githubLink": "https://github.com/vladsemenik",
+      "tasks": [
+        "markup#1"
+      ]
+    },
+    "thesheepman": {
+      "githubLink": "https://github.com/thesheepman",
+      "tasks": []
+    },
+    "brokorenko": {
+      "githubLink": "https://github.com/brokorenko",
+      "tasks": [
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "vovakor1": {
+      "githubLink": "https://github.com/vovakor1",
+      "tasks": []
+    },
+    "hentmire": {
+      "githubLink": "https://github.com/hentmire",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "rubahaguy": {
+      "githubLink": "https://github.com/rubahaguy",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "egorbudnik": {
+      "githubLink": "https://github.com/egorbudnik",
+      "tasks": []
+    },
+    "dmlaziuk": {
+      "githubLink": "https://github.com/dmlaziuk",
+      "tasks": []
+    },
+    "vladqqqqoo": {
+      "githubLink": "https://github.com/vladqqqqoo",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "globalbobone": {
+      "githubLink": "https://github.com/globalbobone",
+      "tasks": []
+    },
+    "wushukms": {
+      "githubLink": "https://github.com/wushukms",
+      "tasks": []
+    },
+    "belkacraft": {
+      "githubLink": "https://github.com/belkacraft",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kasatka660": {
+      "githubLink": "https://github.com/kasatka660",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "warryr": {
+      "githubLink": "https://github.com/warryr",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "alexandrapozniak": {
+      "githubLink": "https://github.com/alexandrapozniak",
+      "tasks": []
+    },
+    "yuliabakhar": {
+      "githubLink": "https://github.com/yuliabakhar",
+      "tasks": []
+    },
+    "ltcolumbo": {
+      "githubLink": "https://github.com/ltcolumbo",
+      "tasks": []
+    },
+    "veterkam": {
+      "githubLink": "https://github.com/veterkam",
+      "tasks": []
+    },
+    "yurychajkou": {
+      "githubLink": "https://github.com/yurychajkou",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "catrieona": {
+      "githubLink": "https://github.com/catrieona",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "ankorbay": {
+      "githubLink": "https://github.com/ankorbay",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\""
+      ]
+    },
+    "loori-r": {
+      "githubLink": "https://github.com/loori-r",
+      "tasks": []
+    },
+    "nicalas93": {
+      "githubLink": "https://github.com/nicalas93",
+      "tasks": []
+    },
+    "vldmr1": {
+      "githubLink": "https://github.com/vldmr1",
+      "tasks": []
+    },
+    "shinoby85": {
+      "githubLink": "https://github.com/shinoby85",
+      "tasks": []
+    },
+    "crypto-kittensseller": {
+      "githubLink": "https://github.com/crypto-kittensseller",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "presentation"
+      ]
+    },
+    "dyadinmax": {
+      "githubLink": "https://github.com/dyadinmax",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "alexeynovomlinets": {
+      "githubLink": "https://github.com/alexeynovomlinets",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation"
+      ]
+    },
+    "antonysawyer": {
+      "githubLink": "https://github.com/antonysawyer",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "presentation"
+      ]
+    },
+    "sburnt": {
+      "githubLink": "https://github.com/sburnt",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "tserekhivan": {
+      "githubLink": "https://github.com/tserekhivan",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "presidentsboyfriend": {
+      "githubLink": "https://github.com/presidentsboyfriend",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1"
+      ]
+    },
+    "eugenekhristo": {
+      "githubLink": "https://github.com/eugenekhristo",
+      "tasks": []
+    },
+    "artichoks": {
+      "githubLink": "https://github.com/artichoks",
+      "tasks": []
+    },
+    "anastasiyanovikovag": {
+      "githubLink": "https://github.com/anastasiyanovikovag",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "margaretmint": {
+      "githubLink": "https://github.com/margaretmint",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "anastasiyamazura": {
+      "githubLink": "https://github.com/anastasiyamazura",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dezman66": {
+      "githubLink": "https://github.com/dezman66",
+      "tasks": []
+    },
+    "exedystyle": {
+      "githubLink": "https://github.com/exedystyle",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "gaddyya": {
+      "githubLink": "https://github.com/gaddyya",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "tanya98": {
+      "githubLink": "https://github.com/tanya98",
+      "tasks": []
+    },
+    "mixniuk": {
+      "githubLink": "https://github.com/mixniuk",
+      "tasks": []
+    },
+    "xseniia": {
+      "githubLink": "https://github.com/xseniia",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "nataligleb": {
+      "githubLink": "https://github.com/nataligleb",
+      "tasks": []
+    },
+    "valeriyager": {
+      "githubLink": "https://github.com/valeriyager",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "f8b23lef": {
+      "githubLink": "https://github.com/f8b23lef",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "yrapank": {
+      "githubLink": "https://github.com/yrapank",
+      "tasks": [
+        "codejam\"corejs\""
+      ]
+    },
+    "jenia-shibkova": {
+      "githubLink": "https://github.com/jenia-shibkova",
+      "tasks": []
+    },
+    "magerrrr": {
+      "githubLink": "https://github.com/magerrrr",
+      "tasks": []
+    },
+    "danila211": {
+      "githubLink": "https://github.com/danila211",
+      "tasks": []
+    },
+    "juliazakharik": {
+      "githubLink": "https://github.com/juliazakharik",
+      "tasks": []
+    },
+    "elusiveway": {
+      "githubLink": "https://github.com/elusiveway",
+      "tasks": []
+    },
+    "cirillius": {
+      "githubLink": "https://github.com/cirillius",
+      "tasks": []
+    },
+    "eugenepochenkov": {
+      "githubLink": "https://github.com/eugenepochenkov",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "lx-931203": {
+      "githubLink": "https://github.com/lx-931203",
+      "tasks": []
+    },
+    "astravukh": {
+      "githubLink": "https://github.com/astravukh",
+      "tasks": []
+    },
+    "zetorby": {
+      "githubLink": "https://github.com/zetorby",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "sad4itananda": {
+      "githubLink": "https://github.com/sad4itananda",
+      "tasks": [
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kalitamih": {
+      "githubLink": "https://github.com/kalitamih",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "evgenprushk": {
+      "githubLink": "https://github.com/evgenprushk",
+      "tasks": []
+    },
+    "mrstalon": {
+      "githubLink": "https://github.com/mrstalon",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "rsactivist",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "avaprin": {
+      "githubLink": "https://github.com/avaprin",
+      "tasks": []
+    },
+    "haspadarz-padmensku": {
+      "githubLink": "https://github.com/haspadarz-padmensku",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "svoboda-rabstvo": {
+      "githubLink": "https://github.com/svoboda-rabstvo",
+      "tasks": []
+    },
+    "eughene-cherepov": {
+      "githubLink": "https://github.com/eughene-cherepov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation"
+      ]
+    },
+    "moraviin": {
+      "githubLink": "https://github.com/moraviin",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation"
+      ]
+    },
+    "petriken": {
+      "githubLink": "https://github.com/petriken",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation"
+      ]
+    },
+    "luzko": {
+      "githubLink": "https://github.com/luzko",
+      "tasks": []
+    },
+    "finnibyh": {
+      "githubLink": "https://github.com/finnibyh",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "presentation"
+      ]
+    },
+    "aglayasv": {
+      "githubLink": "https://github.com/aglayasv",
+      "tasks": []
+    },
+    "tonykosmos": {
+      "githubLink": "https://github.com/tonykosmos",
+      "tasks": []
+    },
+    "vanyatsar": {
+      "githubLink": "https://github.com/vanyatsar",
+      "tasks": []
+    },
+    "lordshtein": {
+      "githubLink": "https://github.com/lordshtein",
+      "tasks": []
+    },
+    "ekoniuh": {
+      "githubLink": "https://github.com/ekoniuh",
+      "tasks": []
+    },
+    "evpodrezenko": {
+      "githubLink": "https://github.com/evpodrezenko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "cruecer": {
+      "githubLink": "https://github.com/cruecer",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "annchapon": {
+      "githubLink": "https://github.com/annchapon",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "felalag": {
+      "githubLink": "https://github.com/felalag",
+      "tasks": []
+    },
+    "xixex": {
+      "githubLink": "https://github.com/xixex",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "youtube",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "bumble-bee83": {
+      "githubLink": "https://github.com/bumble-bee83",
+      "tasks": []
+    },
+    "mikhama": {
+      "githubLink": "https://github.com/mikhama",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube",
+        "codejam\"dom,domevents\"",
+        "rsactivist",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "angryivan": {
+      "githubLink": "https://github.com/angryivan",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "alexandr-savkov": {
+      "githubLink": "https://github.com/alexandr-savkov",
+      "tasks": []
+    },
+    "dimalinnik": {
+      "githubLink": "https://github.com/dimalinnik",
+      "tasks": []
+    },
+    "garnich": {
+      "githubLink": "https://github.com/garnich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "altobeyk": {
+      "githubLink": "https://github.com/altobeyk",
+      "tasks": []
+    },
+    "stigmatory15": {
+      "githubLink": "https://github.com/stigmatory15",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kmetkokate": {
+      "githubLink": "https://github.com/kmetkokate",
+      "tasks": []
+    },
+    "wladimirmihalev": {
+      "githubLink": "https://github.com/wladimirmihalev",
+      "tasks": []
+    },
+    "antoprokopovich": {
+      "githubLink": "https://github.com/antoprokopovich",
+      "tasks": []
+    },
+    "iharpashkevich": {
+      "githubLink": "https://github.com/iharpashkevich",
+      "tasks": []
+    },
+    "375291601334": {
+      "githubLink": "https://github.com/375291601334",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "shanhinpavel": {
+      "githubLink": "https://github.com/shanhinpavel",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "igor82bv": {
+      "githubLink": "https://github.com/igor82bv",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "klimenkomaksim": {
+      "githubLink": "https://github.com/klimenkomaksim",
+      "tasks": []
+    },
+    "uladzimir-yeudakimovich": {
+      "githubLink": "https://github.com/uladzimir-yeudakimovich",
+      "tasks": []
+    },
+    "wowprojeck": {
+      "githubLink": "https://github.com/wowprojeck",
+      "tasks": []
+    },
+    "andvikvin": {
+      "githubLink": "https://github.com/andvikvin",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "alinkalu": {
+      "githubLink": "https://github.com/alinkalu",
+      "tasks": []
+    },
+    "marry705": {
+      "githubLink": "https://github.com/marry705",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "fursaleksey": {
+      "githubLink": "https://github.com/fursaleksey",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "hursevichsergey": {
+      "githubLink": "https://github.com/hursevichsergey",
+      "tasks": []
+    },
+    "oaliona": {
+      "githubLink": "https://github.com/oaliona",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "feodorius": {
+      "githubLink": "https://github.com/feodorius",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "ihar777": {
+      "githubLink": "https://github.com/ihar777",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "dzianiskavalionak": {
+      "githubLink": "https://github.com/dzianiskavalionak",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "alexsmyk1992": {
+      "githubLink": "https://github.com/alexsmyk1992",
+      "tasks": []
+    },
+    "vbkoshak": {
+      "githubLink": "https://github.com/vbkoshak",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "maxbrainygame": {
+      "githubLink": "https://github.com/maxbrainygame",
+      "tasks": []
+    },
+    "oliver337": {
+      "githubLink": "https://github.com/oliver337",
+      "tasks": []
+    },
+    "kotiknalune42": {
+      "githubLink": "https://github.com/kotiknalune42",
+      "tasks": []
+    },
+    "akselatom": {
+      "githubLink": "https://github.com/akselatom",
+      "tasks": []
+    },
+    "maryiasiamenava": {
+      "githubLink": "https://github.com/maryiasiamenava",
+      "tasks": []
+    },
+    "kotcher1": {
+      "githubLink": "https://github.com/kotcher1",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kirilltovpinets": {
+      "githubLink": "https://github.com/kirilltovpinets",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "kasiama": {
+      "githubLink": "https://github.com/kasiama",
+      "tasks": []
+    },
+    "magiccurlyhair": {
+      "githubLink": "https://github.com/magiccurlyhair",
+      "tasks": []
+    },
+    "iryna-markovich": {
+      "githubLink": "https://github.com/iryna-markovich",
+      "tasks": []
+    },
+    "ivankirsd": {
+      "githubLink": "https://github.com/ivankirsd",
+      "tasks": []
+    },
+    "argaitt": {
+      "githubLink": "https://github.com/argaitt",
+      "tasks": []
+    },
+    "danteboom": {
+      "githubLink": "https://github.com/danteboom",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "passhub": {
+      "githubLink": "https://github.com/passhub",
+      "tasks": []
+    },
+    "andddrews": {
+      "githubLink": "https://github.com/andddrews",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "bref987": {
+      "githubLink": "https://github.com/bref987",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "sergey496": {
+      "githubLink": "https://github.com/sergey496",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "rsactivist",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "anna-sh": {
+      "githubLink": "https://github.com/anna-sh",
+      "tasks": []
+    },
+    "ilyaryabchinski": {
+      "githubLink": "https://github.com/ilyaryabchinski",
+      "tasks": []
+    },
+    "snowwe": {
+      "githubLink": "https://github.com/snowwe",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "fcsm-andrei": {
+      "githubLink": "https://github.com/fcsm-andrei",
+      "tasks": []
+    },
+    "dongor7": {
+      "githubLink": "https://github.com/dongor7",
+      "tasks": []
+    },
+    "zettrix": {
+      "githubLink": "https://github.com/zettrix",
+      "tasks": []
+    },
+    "innazl": {
+      "githubLink": "https://github.com/innazl",
+      "tasks": []
+    },
+    "mrdemonrush": {
+      "githubLink": "https://github.com/mrdemonrush",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "h0qw010xz": {
+      "githubLink": "https://github.com/h0qw010xz",
+      "tasks": []
+    },
+    "nikitaklepanosov": {
+      "githubLink": "https://github.com/nikitaklepanosov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "provedenceva": {
+      "githubLink": "https://github.com/provedenceva",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "daryz": {
+      "githubLink": "https://github.com/daryz",
+      "tasks": []
+    },
+    "pavelsab": {
+      "githubLink": "https://github.com/pavelsab",
+      "tasks": []
+    },
+    "ihartsykaka": {
+      "githubLink": "https://github.com/ihartsykaka",
+      "tasks": []
+    },
+    "vldshch": {
+      "githubLink": "https://github.com/vldshch",
+      "tasks": []
+    },
+    "naijelo": {
+      "githubLink": "https://github.com/naijelo",
+      "tasks": []
+    },
+    "tridenet": {
+      "githubLink": "https://github.com/tridenet",
+      "tasks": []
+    },
+    "darinalitvin": {
+      "githubLink": "https://github.com/darinalitvin",
+      "tasks": []
+    },
+    "zhechka": {
+      "githubLink": "https://github.com/zhechka",
+      "tasks": []
+    },
+    "andrei-oksentyk": {
+      "githubLink": "https://github.com/andrei-oksentyk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "wertybsd": {
+      "githubLink": "https://github.com/wertybsd",
+      "tasks": []
+    },
+    "halaveika": {
+      "githubLink": "https://github.com/halaveika",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "liodama": {
+      "githubLink": "https://github.com/liodama",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation",
+        "rsactivist"
+      ]
+    },
+    "alexey-1991": {
+      "githubLink": "https://github.com/alexey-1991",
+      "tasks": []
+    },
+    "fyr-fyrrr": {
+      "githubLink": "https://github.com/fyr-fyrrr",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1"
+      ]
+    },
+    "redgektor": {
+      "githubLink": "https://github.com/redgektor",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "alexdejko": {
+      "githubLink": "https://github.com/alexdejko",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "alenashkr": {
+      "githubLink": "https://github.com/alenashkr",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "uniapi": {
+      "githubLink": "https://github.com/uniapi",
+      "tasks": []
+    },
+    "cuppake": {
+      "githubLink": "https://github.com/cuppake",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "pirsfrommi6": {
+      "githubLink": "https://github.com/pirsfrommi6",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "rsactivist",
+        "markup#1"
+      ]
+    },
+    "luffi2539": {
+      "githubLink": "https://github.com/luffi2539",
+      "tasks": [
+        "rsactivist",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "kirilltk": {
+      "githubLink": "https://github.com/kirilltk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "gegorov": {
+      "githubLink": "https://github.com/gegorov",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "rsactivist"
+      ]
+    },
+    "ilyakabanov": {
+      "githubLink": "https://github.com/ilyakabanov",
+      "tasks": []
+    },
+    "yurec0gurec": {
+      "githubLink": "https://github.com/yurec0gurec",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "gubnich": {
+      "githubLink": "https://github.com/gubnich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "jamadamur": {
+      "githubLink": "https://github.com/jamadamur",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "tsvetlanak": {
+      "githubLink": "https://github.com/tsvetlanak",
+      "tasks": []
+    },
+    "alehdzmitrenka": {
+      "githubLink": "https://github.com/alehdzmitrenka",
+      "tasks": []
+    },
+    "dzhudzhi": {
+      "githubLink": "https://github.com/dzhudzhi",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "fogfug1": {
+      "githubLink": "https://github.com/fogfug1",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "yauhenilyin": {
+      "githubLink": "https://github.com/yauhenilyin",
+      "tasks": []
+    },
+    "dmitrigorchanin": {
+      "githubLink": "https://github.com/dmitrigorchanin",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "soundmafi": {
+      "githubLink": "https://github.com/soundmafi",
+      "tasks": []
+    },
+    "makouskiyan": {
+      "githubLink": "https://github.com/makouskiyan",
+      "tasks": []
+    },
+    "shest28": {
+      "githubLink": "https://github.com/shest28",
+      "tasks": []
+    },
+    "max-violent": {
+      "githubLink": "https://github.com/max-violent",
+      "tasks": []
+    },
+    "rick42morty": {
+      "githubLink": "https://github.com/rick42morty",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dloz": {
+      "githubLink": "https://github.com/dloz",
+      "tasks": []
+    },
+    "scifsyh": {
+      "githubLink": "https://github.com/scifsyh",
+      "tasks": []
+    },
+    "tgfrey": {
+      "githubLink": "https://github.com/tgfrey",
+      "tasks": []
+    },
+    "aalexsoloveiko": {
+      "githubLink": "https://github.com/aalexsoloveiko",
+      "tasks": []
+    },
+    "sergeibel": {
+      "githubLink": "https://github.com/sergeibel",
+      "tasks": []
+    },
+    "do100han": {
+      "githubLink": "https://github.com/do100han",
+      "tasks": []
+    },
+    "zhecha": {
+      "githubLink": "https://github.com/zhecha",
+      "tasks": [
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "odegay": {
+      "githubLink": "https://github.com/odegay",
+      "tasks": []
+    },
+    "mill9r": {
+      "githubLink": "https://github.com/mill9r",
+      "tasks": []
+    },
+    "egoncharov": {
+      "githubLink": "https://github.com/egoncharov",
+      "tasks": []
+    },
+    "elostryy": {
+      "githubLink": "https://github.com/elostryy",
+      "tasks": []
+    },
+    "eauheni": {
+      "githubLink": "https://github.com/eauheni",
+      "tasks": []
+    },
+    "mikhailnakanechny": {
+      "githubLink": "https://github.com/mikhailnakanechny",
+      "tasks": [
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "maringoka": {
+      "githubLink": "https://github.com/maringoka",
+      "tasks": []
+    },
+    "aleksei-bulgak-study": {
+      "githubLink": "https://github.com/aleksei-bulgak-study",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "rsactivist",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "margharita": {
+      "githubLink": "https://github.com/margharita",
+      "tasks": []
+    },
+    "lazovskyigor": {
+      "githubLink": "https://github.com/lazovskyigor",
+      "tasks": []
+    },
+    "dyatelvudu": {
+      "githubLink": "https://github.com/dyatelvudu",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "codejam\"scoreboard\"",
+        "youtube"
+      ]
+    },
+    "ivandubrouski": {
+      "githubLink": "https://github.com/ivandubrouski",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\""
+      ]
+    },
+    "mrforsyte": {
+      "githubLink": "https://github.com/mrforsyte",
+      "tasks": []
+    },
+    "krisstets": {
+      "githubLink": "https://github.com/krisstets",
+      "tasks": []
+    },
+    "yuriy17": {
+      "githubLink": "https://github.com/yuriy17",
+      "tasks": []
+    },
+    "olgakuksa": {
+      "githubLink": "https://github.com/olgakuksa",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "eliznovo": {
+      "githubLink": "https://github.com/eliznovo",
+      "tasks": []
+    },
+    "vitalij21": {
+      "githubLink": "https://github.com/vitalij21",
+      "tasks": []
+    },
+    "annakolesnikova": {
+      "githubLink": "https://github.com/annakolesnikova",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "eliendil": {
+      "githubLink": "https://github.com/eliendil",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "a11mo": {
+      "githubLink": "https://github.com/a11mo",
+      "tasks": []
+    },
+    "thecobolt": {
+      "githubLink": "https://github.com/thecobolt",
+      "tasks": []
+    },
+    "alexandrasitnikova": {
+      "githubLink": "https://github.com/alexandrasitnikova",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "vitalibrych333": {
+      "githubLink": "https://github.com/vitalibrych333",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "pavelkiru": {
+      "githubLink": "https://github.com/pavelkiru",
+      "tasks": []
+    },
+    "shestakoff1441": {
+      "githubLink": "https://github.com/shestakoff1441",
+      "tasks": []
+    },
+    "katezhukel": {
+      "githubLink": "https://github.com/katezhukel",
+      "tasks": []
+    },
+    "bardashevich-matvei": {
+      "githubLink": "https://github.com/bardashevich-matvei",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "korbann": {
+      "githubLink": "https://github.com/korbann",
+      "tasks": []
+    },
+    "yevgeniypy": {
+      "githubLink": "https://github.com/yevgeniypy",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation"
+      ]
+    },
+    "tatyana-andreichyk": {
+      "githubLink": "https://github.com/tatyana-andreichyk",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "supersmf": {
+      "githubLink": "https://github.com/supersmf",
+      "tasks": []
+    },
+    "toxandreev": {
+      "githubLink": "https://github.com/toxandreev",
+      "tasks": []
+    },
+    "evgeniyaverbiczkaya": {
+      "githubLink": "https://github.com/evgeniyaverbiczkaya",
+      "tasks": []
+    },
+    "martikoscoder": {
+      "githubLink": "https://github.com/martikoscoder",
+      "tasks": []
+    },
+    "mayinmarch": {
+      "githubLink": "https://github.com/mayinmarch",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "christina-ilyushonok": {
+      "githubLink": "https://github.com/christina-ilyushonok",
+      "tasks": [
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"corejs\""
+      ]
+    },
+    "kottanakor": {
+      "githubLink": "https://github.com/kottanakor",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "daryazel": {
+      "githubLink": "https://github.com/daryazel",
+      "tasks": []
+    },
+    "alenakharytonchyk": {
+      "githubLink": "https://github.com/alenakharytonchyk",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"cv\"",
+        "presentation",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "drizzlman": {
+      "githubLink": "https://github.com/drizzlman",
+      "tasks": []
+    },
+    "yonguksaram": {
+      "githubLink": "https://github.com/yonguksaram",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "palessie": {
+      "githubLink": "https://github.com/palessie",
+      "tasks": []
+    },
+    "ustilushka": {
+      "githubLink": "https://github.com/ustilushka",
+      "tasks": []
+    },
+    "zzvipz": {
+      "githubLink": "https://github.com/zzvipz",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "dmitrylenko": {
+      "githubLink": "https://github.com/dmitrylenko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "underdoglzd": {
+      "githubLink": "https://github.com/underdoglzd",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "psychotheus": {
+      "githubLink": "https://github.com/psychotheus",
+      "tasks": []
+    },
+    "lowershotower": {
+      "githubLink": "https://github.com/lowershotower",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "bn1knb": {
+      "githubLink": "https://github.com/bn1knb",
+      "tasks": []
+    },
+    "zerovers": {
+      "githubLink": "https://github.com/zerovers",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "rsactivist",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "25kopek": {
+      "githubLink": "https://github.com/25kopek",
+      "tasks": []
+    },
+    "robertiqk": {
+      "githubLink": "https://github.com/robertiqk",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "pozharitskiy": {
+      "githubLink": "https://github.com/pozharitskiy",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "aliakseik19": {
+      "githubLink": "https://github.com/aliakseik19",
+      "tasks": []
+    },
+    "tarsupon": {
+      "githubLink": "https://github.com/tarsupon",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "roman-nareiko": {
+      "githubLink": "https://github.com/roman-nareiko",
+      "tasks": []
+    },
+    "evilamany": {
+      "githubLink": "https://github.com/evilamany",
+      "tasks": []
+    },
+    "xvorob": {
+      "githubLink": "https://github.com/xvorob",
+      "tasks": []
+    },
+    "pelya98": {
+      "githubLink": "https://github.com/pelya98",
+      "tasks": []
+    },
+    "vladsanko": {
+      "githubLink": "https://github.com/vladsanko",
+      "tasks": []
+    },
+    "serzhanhelena": {
+      "githubLink": "https://github.com/serzhanhelena",
+      "tasks": []
+    },
+    "georgyminsk": {
+      "githubLink": "https://github.com/georgyminsk",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "greg1996": {
+      "githubLink": "https://github.com/greg1996",
+      "tasks": [
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "goldenkit": {
+      "githubLink": "https://github.com/goldenkit",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "shet1990": {
+      "githubLink": "https://github.com/shet1990",
+      "tasks": []
+    },
+    "maksagit": {
+      "githubLink": "https://github.com/maksagit",
+      "tasks": []
+    },
+    "melk0sha": {
+      "githubLink": "https://github.com/melk0sha",
+      "tasks": []
+    },
+    "tanyasamal": {
+      "githubLink": "https://github.com/tanyasamal",
+      "tasks": [
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "karsash": {
+      "githubLink": "https://github.com/karsash",
+      "tasks": []
+    },
+    "dimadk24": {
+      "githubLink": "https://github.com/dimadk24",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "eveshad": {
+      "githubLink": "https://github.com/eveshad",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mbulldozer": {
+      "githubLink": "https://github.com/mbulldozer",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "starkary": {
+      "githubLink": "https://github.com/starkary",
+      "tasks": []
+    },
+    "olgalazarevich": {
+      "githubLink": "https://github.com/olgalazarevich",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "holeil": {
+      "githubLink": "https://github.com/holeil",
+      "tasks": []
+    },
+    "bsiropchik": {
+      "githubLink": "https://github.com/bsiropchik",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "scratchor": {
+      "githubLink": "https://github.com/scratchor",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "montes5": {
+      "githubLink": "https://github.com/montes5",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "mrspunki": {
+      "githubLink": "https://github.com/mrspunki",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "maksstef": {
+      "githubLink": "https://github.com/maksstef",
+      "tasks": []
+    },
+    "ilyay95": {
+      "githubLink": "https://github.com/ilyay95",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "allexblaze": {
+      "githubLink": "https://github.com/allexblaze",
+      "tasks": []
+    },
+    "dekim12": {
+      "githubLink": "https://github.com/dekim12",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "rsactivist",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "dimamavrin": {
+      "githubLink": "https://github.com/dimamavrin",
+      "tasks": []
+    },
+    "vitalmizevich": {
+      "githubLink": "https://github.com/vitalmizevich",
+      "tasks": []
+    },
+    "mikhailmaniuk": {
+      "githubLink": "https://github.com/mikhailmaniuk",
+      "tasks": []
+    },
+    "shakhnovapolina": {
+      "githubLink": "https://github.com/shakhnovapolina",
+      "tasks": []
+    },
+    "yana-bashtyk": {
+      "githubLink": "https://github.com/yana-bashtyk",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "olganaranovich": {
+      "githubLink": "https://github.com/olganaranovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "ivchenkopavel": {
+      "githubLink": "https://github.com/ivchenkopavel",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "ruboscope": {
+      "githubLink": "https://github.com/ruboscope",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "alesya-polovets": {
+      "githubLink": "https://github.com/alesya-polovets",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "geek10010": {
+      "githubLink": "https://github.com/geek10010",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "antonykor": {
+      "githubLink": "https://github.com/antonykor",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "saniok017": {
+      "githubLink": "https://github.com/saniok017",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "dzmitryalfer": {
+      "githubLink": "https://github.com/dzmitryalfer",
+      "tasks": []
+    },
+    "antonprotas": {
+      "githubLink": "https://github.com/antonprotas",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\""
+      ]
+    },
+    "mickbetch": {
+      "githubLink": "https://github.com/mickbetch",
+      "tasks": []
+    },
+    "oconely": {
+      "githubLink": "https://github.com/oconely",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "natalianekrashevich": {
+      "githubLink": "https://github.com/natalianekrashevich",
+      "tasks": []
+    },
+    "iryna-mazura": {
+      "githubLink": "https://github.com/iryna-mazura",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "rsactivist",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "kamenkoalexandr": {
+      "githubLink": "https://github.com/kamenkoalexandr",
+      "tasks": []
+    },
+    "garin87": {
+      "githubLink": "https://github.com/garin87",
+      "tasks": []
+    },
+    "evgenijkorob": {
+      "githubLink": "https://github.com/evgenijkorob",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "markup#1"
+      ]
+    },
+    "anxair": {
+      "githubLink": "https://github.com/anxair",
+      "tasks": []
+    },
+    "siarohin": {
+      "githubLink": "https://github.com/siarohin",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "svyatlo": {
+      "githubLink": "https://github.com/svyatlo",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "shurpelevas": {
+      "githubLink": "https://github.com/shurpelevas",
+      "tasks": []
+    },
+    "yanachchchka": {
+      "githubLink": "https://github.com/yanachchchka",
+      "tasks": []
+    },
+    "yalovikea": {
+      "githubLink": "https://github.com/yalovikea",
+      "tasks": []
+    },
+    "volhashy": {
+      "githubLink": "https://github.com/volhashy",
+      "tasks": []
+    },
+    "crunkagator": {
+      "githubLink": "https://github.com/crunkagator",
+      "tasks": [
+        "codejam\"cv\""
+      ]
+    },
+    "alenabde": {
+      "githubLink": "https://github.com/alenabde",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\""
+      ]
+    },
+    "maksimyakush": {
+      "githubLink": "https://github.com/maksimyakush",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "boobaley": {
+      "githubLink": "https://github.com/boobaley",
+      "tasks": []
+    },
+    "anna-pronovich": {
+      "githubLink": "https://github.com/anna-pronovich",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "codejam\"corejs\""
+      ]
+    },
+    "artemiusv": {
+      "githubLink": "https://github.com/artemiusv",
+      "tasks": []
+    },
+    "nataliakazakevich": {
+      "githubLink": "https://github.com/nataliakazakevich",
+      "tasks": []
+    },
+    "kseniyasokolovskaya": {
+      "githubLink": "https://github.com/kseniyasokolovskaya",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "codejam\"corejs\""
+      ]
+    },
+    "zmichgen": {
+      "githubLink": "https://github.com/zmichgen",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "markup#1",
+        "presentation",
+        "codejam\"corejs\""
+      ]
+    },
+    "hecateenitharmon": {
+      "githubLink": "https://github.com/hecateenitharmon",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "mdgh": {
+      "githubLink": "https://github.com/mdgh",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube"
+      ]
+    },
+    "mggeroff": {
+      "githubLink": "https://github.com/mggeroff",
+      "tasks": []
+    },
+    "soulos410": {
+      "githubLink": "https://github.com/soulos410",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1"
+      ]
+    },
+    "boshka0": {
+      "githubLink": "https://github.com/boshka0",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "mariannagarbuzova": {
+      "githubLink": "https://github.com/mariannagarbuzova",
+      "tasks": []
+    },
+    "pytniza": {
+      "githubLink": "https://github.com/pytniza",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube"
+      ]
+    },
+    "ronavea": {
+      "githubLink": "https://github.com/ronavea",
+      "tasks": [
+        "markup#1",
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "ahrechushkin": {
+      "githubLink": "https://github.com/ahrechushkin",
+      "tasks": []
+    },
+    "huriosity": {
+      "githubLink": "https://github.com/huriosity",
+      "tasks": []
+    },
+    "artyommakarov": {
+      "githubLink": "https://github.com/artyommakarov",
+      "tasks": []
+    },
+    "levsha87": {
+      "githubLink": "https://github.com/levsha87",
+      "tasks": []
+    },
+    "hottab9595": {
+      "githubLink": "https://github.com/hottab9595",
+      "tasks": []
+    },
+    "achyrych": {
+      "githubLink": "https://github.com/achyrych",
+      "tasks": []
+    },
+    "arkadz": {
+      "githubLink": "https://github.com/arkadz",
+      "tasks": []
+    },
+    "maniuska": {
+      "githubLink": "https://github.com/maniuska",
+      "tasks": []
+    },
+    "sachoks": {
+      "githubLink": "https://github.com/sachoks",
+      "tasks": []
+    },
+    "prometei299": {
+      "githubLink": "https://github.com/prometei299",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "presentation"
+      ]
+    },
+    "sergeypunko": {
+      "githubLink": "https://github.com/sergeypunko",
+      "tasks": []
+    },
+    "zurzur": {
+      "githubLink": "https://github.com/zurzur",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\""
+      ]
+    },
+    "edaineko": {
+      "githubLink": "https://github.com/edaineko",
+      "tasks": []
+    },
+    "seidou99": {
+      "githubLink": "https://github.com/seidou99",
+      "tasks": []
+    },
+    "nataliasirotko": {
+      "githubLink": "https://github.com/nataliasirotko",
+      "tasks": [
+        "codejam\"cv\"",
+        "codejam\"corejs\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "presentation"
+      ]
+    },
+    "remziq": {
+      "githubLink": "https://github.com/remziq",
+      "tasks": [
+        "markup#1",
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "codejam\"dom,domevents\"",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    },
+    "temons": {
+      "githubLink": "https://github.com/temons",
+      "tasks": [
+        "codejam\"corejs\""
+      ]
+    },
+    "sozonikoleg": {
+      "githubLink": "https://github.com/sozonikoleg",
+      "tasks": [
+        "codejam\"corejs\"",
+        "codejam\"cv\"",
+        "markup#1",
+        "codejam\"dom,domevents\"",
+        "youtube",
+        "codejam\"scoreboard\"",
+        "presentation"
+      ]
+    }
+  },
+  "mentors": {
+    "maximuk": {
+      "githubLink": "https://github.com/maximuk",
+      "name": "sergeymaksimuk",
+      "students": [
+        "andrei-oksentyk",
+        "wertybsd",
+        "halaveika",
+        "liodama",
+        "alexey-1991",
+        "fyr-fyrrr",
+        "redgektor",
+        "alexdejko",
+        "alenashkr",
+        "uniapi",
+        "remziq",
+        "temons",
+        "sozonikoleg"
+      ]
+    },
+    "alex-zayats": {
+      "githubLink": "https://github.com/alex-zayats",
+      "name": "aliaksandrzayats",
+      "students": [
+        "uniorunr",
+        "alexeydavydov",
+        "melllivoracapensis",
+        "soulshaker"
+      ]
+    },
+    "aliaksandrzahorski": {
+      "githubLink": "https://github.com/aliaksandrzahorski",
+      "name": "akiaksandrzahorski",
+      "students": [
+        "grenbork",
+        "bananovblu",
+        "bmvmarc",
+        "taukitianin",
+        "deepenguin"
+      ]
+    },
+    "pristavka": {
+      "githubLink": "https://github.com/pristavka",
+      "name": "siarheiprystauka",
+      "students": [
+        "jamadamur",
+        "tsvetlanak",
+        "alehdzmitrenka",
+        "dzhudzhi",
+        "nataliasirotko"
+      ]
+    },
+    "dpryshchep": {
+      "githubLink": "https://github.com/dpryshchep",
+      "name": "dzianispryshchep",
+      "students": [
+        "kira2023",
+        "vvsvintsitsky",
+        "molestador",
+        "kiryllapouski"
+      ]
+    },
+    "quantum-noise": {
+      "githubLink": "https://github.com/quantum-noise",
+      "name": "aliaksandrklimau",
+      "students": [
+        "0riac",
+        "terstuyahmaksim",
+        803142,
+        "nickitasolovei",
+        "saint-artiom",
+        "803142"
+      ]
+    },
+    "ahaurylin": {
+      "githubLink": "https://github.com/ahaurylin",
+      "name": "artsiomhaurylin",
+      "students": [
+        "olgaluk",
+        "groamed",
+        "grapeperson",
+        "rbarakhvostov"
+      ]
+    },
+    "elgrebenchuk": {
+      "githubLink": "https://github.com/elgrebenchuk",
+      "name": "elenagrebenchuk",
+      "students": [
+        "andreiyasinski",
+        "duza",
+        "anton23kirienko",
+        "gandigap"
+      ]
+    },
+    "yganda": {
+      "githubLink": "https://github.com/yganda",
+      "name": "andreifurs",
+      "students": [
+        "ishelest",
+        "yakgjen",
+        "inanutshell86",
+        "sffirm",
+        "zetrox-x",
+        "juliasnoww",
+        "loori-r"
+      ]
+    },
+    "denisbun": {
+      "githubLink": "https://github.com/denisbun",
+      "name": "dzianisbunchanka",
+      "students": [
+        "kvinto1986",
+        "maksimaliakhnovich",
+        "superorange",
+        "yauheni23"
+      ]
+    },
+    "remapasov": {
+      "githubLink": "https://github.com/remapasov",
+      "name": "remapasov",
+      "students": [
+        "frol8612",
+        "snowwe",
+        "dongor7",
+        "zettrix",
+        "innazl"
+      ]
+    },
+    "tatsianakhinevich-epam": {
+      "githubLink": "https://github.com/tatsianakhinevich-epam",
+      "name": "tatsianakhinevich",
+      "students": [
+        "makouskiyan",
+        "shest28"
+      ]
+    },
+    "andrei-zhuk": {
+      "githubLink": "https://github.com/andrei-zhuk",
+      "name": "andreizhuk",
+      "students": [
+        "torchik-slava",
+        "antihero",
+        "karpiyeniamv",
+        "kirillzavorotni",
+        "makar1227",
+        "mudreuski",
+        "artkon"
+      ]
+    },
+    "nikitzu": {
+      "githubLink": "https://github.com/nikitzu",
+      "name": "mikitazhuikou",
+      "students": [
+        "felalag",
+        "xixex",
+        "bumble-bee83",
+        "mikhama",
+        "angryivan",
+        "alexandr-savkov",
+        "dimalinnik"
+      ]
+    },
+    "alex-mnsk": {
+      "githubLink": "https://github.com/alex-mnsk",
+      "name": "aliakseizayats",
+      "students": [
+        "kozyritskiy",
+        "artyom123",
+        "evamaster",
+        "elenakhamitsevich",
+        "nastyalo",
+        "lveliarl",
+        "spinagrblzzz"
+      ]
+    },
+    "pavelzaletski": {
+      "githubLink": "https://github.com/pavelzaletski",
+      "name": "pavelzaletski",
+      "students": [
+        "andddrews",
+        "bref987",
+        "sergey496",
+        "anna-sh",
+        "ilyaryabchinski"
+      ]
+    },
+    "yana95": {
+      "githubLink": "https://github.com/yana95",
+      "name": "yanazaitsava",
+      "students": [
+        "mikhailmaniuk",
+        "shakhnovapolina",
+        "yana-bashtyk",
+        "olganaranovich"
+      ]
+    },
+    "tibmt": {
+      "githubLink": "https://github.com/tibmt",
+      "name": "pavelyukhnevich",
+      "students": [
+        "kasiama",
+        "magiccurlyhair",
+        "iryna-markovich",
+        "ivankirsd",
+        "argaitt",
+        "danteboom",
+        "passhub",
+        "abespolov"
+      ]
+    },
+    "a-yatskevich": {
+      "githubLink": "https://github.com/a-yatskevich",
+      "name": "antonyatskevich",
+      "students": [
+        "mrdreaml",
+        "tsypolina",
+        "evgeniy121",
+        "jadgptw"
+      ]
+    },
+    "viktoriyavorozhun": {
+      "githubLink": "https://github.com/viktoriyavorozhun",
+      "name": "viktoriyavorozhun",
+      "students": [
+        "toxandreev",
+        "evgeniyaverbiczkaya",
+        "martikoscoder",
+        "mayinmarch",
+        "christina-ilyushonok",
+        "anna-pronovich"
+      ]
+    },
+    "nikolaiverbitskii": {
+      "githubLink": "https://github.com/nikolaiverbitskii",
+      "name": "nikolaiverbitskii",
+      "students": [
+        "shanhinpavel",
+        "igor82bv",
+        "klimenkomaksim",
+        "uladzimir-yeudakimovich"
+      ]
+    },
+    "sijlver": {
+      "githubLink": "https://github.com/sijlver",
+      "name": "igortsialiuk",
+      "students": [
+        "metre-ray",
+        "napro23",
+        "artur-alexandrov",
+        "overkektus",
+        "zhekix"
+      ]
+    },
+    "ntrukhanovets": {
+      "githubLink": "https://github.com/ntrukhanovets",
+      "name": "mikitatrukhanavets",
+      "students": [
+        "vanyatsar",
+        "lordshtein",
+        "ekoniuh",
+        "evpodrezenko",
+        "cruecer",
+        "annchapon"
+      ]
+    },
+    "kvtofan": {
+      "githubLink": "https://github.com/kvtofan",
+      "name": "kiryltofan",
+      "students": [
+        "thesheepman",
+        "brokorenko",
+        "vovakor1",
+        "hentmire",
+        "rubahaguy",
+        "egorbudnik"
+      ]
+    },
+    "etatarinovich18": {
+      "githubLink": "https://github.com/etatarinovich18",
+      "name": "katsiarynatatarynovich",
+      "students": [
+        "kaleniksasha",
+        "ue4prog",
+        "sk1ngr0s",
+        "alexshumansky",
+        "margoshulpina"
+      ]
+    },
+    "einfachvlad": {
+      "githubLink": "https://github.com/einfachvlad",
+      "name": "uladzislautarasenka",
+      "students": [
+        "aleksei-bulgak-study",
+        "margharita",
+        "lazovskyigor",
+        "dyatelvudu"
+      ]
+    },
+    "aliaksandrt": {
+      "githubLink": "https://github.com/aliaksandrt",
+      "name": "aliaksandrtachko",
+      "students": [
+        "leshich",
+        "tamefreak",
+        "shutya",
+        "dgekaa",
+        "leontyevatatyana",
+        "19alexandr90"
+      ]
+    },
+    "sushchenja": {
+      "githubLink": "https://github.com/sushchenja",
+      "name": "dzianissushchenya",
+      "students": [
+        "nightman20104",
+        "irin-ka",
+        "daniil-loban",
+        "misharsweb",
+        "aspowerr"
+      ]
+    },
+    "sulemanof": {
+      "githubLink": "https://github.com/sulemanof",
+      "name": "daniilsuleiman",
+      "students": [
+        "heaveek",
+        "olegsabodash",
+        "andriva",
+        "meearlyam",
+        "veronikavasilchikova"
+      ]
+    },
+    "nsubbot": {
+      "githubLink": "https://github.com/nsubbot",
+      "name": "mikitasubbot",
+      "students": [
+        "eughene-cherepov",
+        "moraviin",
+        "petriken",
+        "luzko",
+        "finnibyh",
+        "aglayasv",
+        "tonykosmos"
+      ]
+    },
+    "stpnvntn": {
+      "githubLink": "https://github.com/stpnvntn",
+      "name": "antonstsiapanau",
+      "students": [
+        "metalhammer4",
+        "rudlevsky",
+        "ostik266",
+        "katekosushkina",
+        "viki-klipp",
+        "anyalenko",
+        "northingvar"
+      ]
+    },
+    "shuspes": {
+      "githubLink": "https://github.com/shuspes",
+      "name": "alexanderspesivtsev",
+      "students": [
+        "prudnikov888",
+        "sergeyskakun",
+        "petersonby",
+        "aliaksandrposakh",
+        "formalinfigs"
+      ]
+    },
+    "mikalai-sokarau": {
+      "githubLink": "https://github.com/mikalai-sokarau",
+      "name": "mikalaisokarau",
+      "students": [
+        "f8b23lef",
+        "yrapank",
+        "jenia-shibkova",
+        "magerrrr",
+        "danila211",
+        "juliazakharik"
+      ]
+    },
+    "kseniyasmorshchek": {
+      "githubLink": "https://github.com/kseniyasmorshchek",
+      "name": "kseniyasmorshchek",
+      "students": [
+        "ltcolumbo",
+        "veterkam",
+        "yurychajkou",
+        "catrieona",
+        "ankorbay",
+        "alenakharytonchyk",
+        "lesechka"
+      ]
+    },
+    "arhigod": {
+      "githubLink": "https://github.com/arhigod",
+      "name": "arsenishynkarenka",
+      "students": [
+        "nastya-ropot",
+        "mozgoen",
+        "hellsingi",
+        "yeilya",
+        "polotenchik",
+        "tshkursk"
+      ]
+    },
+    "atzkdeff": {
+      "githubLink": "https://github.com/atzkdeff",
+      "name": "andreishyliahin",
+      "students": [
+        "olegkizz",
+        "lazouskikiryl",
+        "dimabog22",
+        "bigshaqmnh",
+        "antonnaumchik"
+      ]
+    },
+    "shutya": {
+      "githubLink": "https://github.com/shutya",
+      "name": "dzianisshutsikau",
+      "students": [
+        "kirillstarlight",
+        "waldemar999",
+        "kushnerevich",
+        "igarok91",
+        "aliakseibabko",
+        "gleb7raul",
+        "zhekaprb",
+        "aliakseibabko"
+      ]
+    },
+    "klim711": {
+      "githubLink": "https://github.com/klim711",
+      "name": "klimshuplenkou",
+      "students": [
+        "dmlaziuk",
+        "vladqqqqoo",
+        "globalbobone",
+        "wushukms"
+      ]
+    },
+    "elenashokhanepam": {
+      "githubLink": "https://github.com/elenashokhanepam",
+      "name": "elenashokhan",
+      "students": [
+        "aborisenok",
+        "valiantsinlopan",
+        "egormiwa1",
+        "foxygirl44"
+      ]
+    },
+    "manuminsk": {
+      "githubLink": "https://github.com/manuminsk",
+      "name": "andreishelenhouski",
+      "students": [
+        "smajlichak",
+        "zm1try",
+        "jstrr",
+        "kirill82",
+        "blackcat1397",
+        "victoriathebrave",
+        "greg1996",
+        "alesya-polovets",
+        "goldenkit",
+        "cuppake",
+        "georgyminsk",
+        "kasatka660",
+        "warryr"
+      ]
+    },
+    "davojta": {
+      "githubLink": "https://github.com/davojta",
+      "name": "dzianissheka",
+      "students": [
+        "pavalescoba",
+        "kashapov",
+        "michaeldaineka",
+        "lesechka",
+        "vasiliyrepin",
+        "mike80by",
+        "sergeyshestak",
+        "victorbelikov",
+        "auseika",
+        "iharpadbiarezski",
+        "aleksei-bulgak-study",
+        "sergey496",
+        "horoshaya",
+        "gegorov",
+        "tatsianacs",
+        "antihero",
+        "daniil-loban",
+        "mikhama",
+        "zerovers",
+        "mrstalon",
+        "luffi2539",
+        "dekim12",
+        "quiquek007",
+        "alexshumansky",
+        "simaxa7",
+        "liodama"
+      ]
+    },
+    "naooki": {
+      "githubLink": "https://github.com/naooki",
+      "name": "yahorsheinikau",
+      "students": [
+        "eveshad",
+        "mbulldozer",
+        "starkary",
+        "olgalazarevich",
+        "holeil"
+      ]
+    },
+    "forkollaider": {
+      "githubLink": "https://github.com/forkollaider",
+      "name": "tsikhanshcharbakou",
+      "students": [
+        "aalexsoloveiko",
+        "sergeibel",
+        "do100han",
+        "zhecha",
+        "odegay",
+        "mill9r"
+      ]
+    },
+    "hirurgo": {
+      "githubLink": "https://github.com/hirurgo",
+      "name": "mikalaishchakatsikhin",
+      "students": [
+        "tanya98",
+        "mixniuk",
+        "xseniia",
+        "nataligleb",
+        "valeriyager",
+        "victorbelikov"
+      ]
+    },
+    "asharapa": {
+      "githubLink": "https://github.com/asharapa",
+      "name": "antonsharapa",
+      "students": [
+        "mentos2805",
+        "sergeybandar",
+        "alexanderkononok",
+        "mrmars20"
+      ]
+    },
+    "cyrilshalyapin": {
+      "githubLink": "https://github.com/cyrilshalyapin",
+      "name": "kirylshaliapin",
+      "students": [
+        "sergeyakzhik",
+        "kulinar310",
+        "cropotan",
+        "vitalydmitriev",
+        "philipsh",
+        "vero-nika",
+        "vladsemenik"
+      ]
+    },
+    "ilyalisitsin": {
+      "githubLink": "https://github.com/ilyalisitsin",
+      "name": "illiasauchuk",
+      "students": [
+        "meller96",
+        "ogurez",
+        "mrlapka",
+        "olexxxey",
+        "xelson",
+        "amoebiusss",
+        "megustafather"
+      ]
+    },
+    "katya-sanko": {
+      "githubLink": "https://github.com/katya-sanko",
+      "name": "ekaterinasanko",
+      "students": [
+        "kyleshovbb",
+        "yabeda79",
+        "sergmi",
+        "disa0808",
+        "pulya10c"
+      ]
+    },
+    "yulia9": {
+      "githubLink": "https://github.com/yulia9",
+      "name": "yuliyasamuilik",
+      "students": [
+        "prometei299",
+        "sergeypunko",
+        "zurzur",
+        "edaineko",
+        "seidou99"
+      ]
+    },
+    "sambl4": {
+      "githubLink": "https://github.com/sambl4",
+      "name": "dzmitrysamuilik",
+      "students": [
+        "sches",
+        "simaxa7",
+        "polinamoiseyenko",
+        "sashakaralchuk"
+      ]
+    },
+    "erutkovsky": {
+      "githubLink": "https://github.com/erutkovsky",
+      "name": "yauhenirutkouski",
+      "students": [
+        "hecateenitharmon",
+        "mdgh",
+        "mggeroff",
+        "soulos410",
+        "boshka0"
+      ]
+    },
+    "rudikaleksandr": {
+      "githubLink": "https://github.com/rudikaleksandr",
+      "name": "aliaksandrrudzin",
+      "students": [
+        "mrchester",
+        "mxwoodie",
+        "psevkin",
+        "alexeevadaria",
+        "spiritforest",
+        "chekni",
+        "shymaxer"
+      ]
+    },
+    "nikitarudy": {
+      "githubLink": "https://github.com/nikitarudy",
+      "name": "mikitarudy",
+      "students": [
+        "sad4itananda",
+        "kalitamih",
+        "evgenprushk",
+        "mrstalon",
+        "avaprin",
+        "haspadarz-padmensku",
+        "svoboda-rabstvo"
+      ]
+    },
+    "rianby64": {
+      "githubLink": "https://github.com/rianby64",
+      "name": "andresrios",
+      "students": [
+        "yaroslav-mig",
+        "novikovantony",
+        "mayblackwood",
+        "anastminsk",
+        "28halavach",
+        "40grivenprog",
+        "igordive",
+        "nataliamotuz"
+      ]
+    },
+    "dzianisreznik": {
+      "githubLink": "https://github.com/dzianisreznik",
+      "name": "dzianisreznik",
+      "students": [
+        "eugene3112",
+        "heat98",
+        "tanyamatesha",
+        "egorgorbik",
+        "vicrodzko",
+        "ilyatrat",
+        "unbelievablysmart",
+        "viktoryia-hrechykha"
+      ]
+    },
+    "xelsoid": {
+      "githubLink": "https://github.com/xelsoid",
+      "name": "artsiomreutovich",
+      "students": [
+        "ivanmatsur",
+        "usermeme",
+        "virusss",
+        "nikaz123",
+        "kharuk",
+        "tatsianacs",
+        "stationtostation"
+      ]
+    },
+    "razumovich": {
+      "githubLink": "https://github.com/razumovich",
+      "name": "aliaksandrrazumovich",
+      "students": [
+        "kvatoferma",
+        "vladagaravaya",
+        "chernyshovaalexandra",
+        "jacksonbr87"
+      ]
+    },
+    "dmitryromaniuk": {
+      "githubLink": "https://github.com/dmitryromaniuk",
+      "name": "dzmitryramaniuk",
+      "students": [
+        "andreikrivets",
+        "lavazzakate",
+        "2kevink",
+        "vladislavrebko",
+        "amoyt"
+      ]
+    },
+    "yralko": {
+      "githubLink": "https://github.com/yralko",
+      "name": "yauheniralko",
+      "students": [
+        "anna-pronovich",
+        "artemiusv",
+        "nataliakazakevich",
+        "kseniyasokolovskaya",
+        "zmichgen",
+        "mayinmarch",
+        "christina-ilyushonok"
+      ]
+    },
+    "anastasiaprivalova": {
+      "githubLink": "https://github.com/anastasiaprivalova",
+      "name": "anastasiyapryvalava",
+      "students": [
+        "sergaunt",
+        "brateckrolikstudent",
+        "venomamd",
+        "vetal11"
+      ]
+    },
+    "diprudnikov": {
+      "githubLink": "https://github.com/diprudnikov",
+      "name": "dzmitryprudnikau",
+      "students": [
+        "leshka98",
+        "siarheikresik",
+        "dianakay",
+        "tvj888",
+        "alexkov90",
+        "mpot7",
+        "charmant"
+      ]
+    },
+    "anik188": {
+      "githubLink": "https://github.com/anik188",
+      "name": "hannapratasevich",
+      "students": [
+        "horoshaya",
+        "martinkevichyana",
+        "montik-pc",
+        "jeka98",
+        "renardby",
+        "sergeyguchok",
+        "aytsan",
+        "aliaksandrlosich",
+        "uivgray",
+        "helpthewalrus"
+      ]
+    },
+    "lithiumfallen": {
+      "githubLink": "https://github.com/lithiumfallen",
+      "name": "artsiompiakhota",
+      "students": [
+        "sunrisekovalevski",
+        "spacebrains",
+        "pincherinka",
+        "victoriathebrave"
+      ]
+    },
+    "pasyukevich": {
+      "githubLink": "https://github.com/pasyukevich",
+      "name": "yauhenipasiukevich",
+      "students": [
+        "yanachchchka",
+        "yalovikea",
+        "volhashy",
+        "crunkagator",
+        "alenabde",
+        "maksimyakush",
+        "boobaley",
+        "zhecha"
+      ]
+    },
+    "kirillpanov": {
+      "githubLink": "https://github.com/kirillpanov",
+      "name": "kirylpanou",
+      "students": [
+        "helpthewalrus",
+        "aliaksandrlosich",
+        "dmsolov",
+        "bogdanka",
+        "srjkaa",
+        "godofnoobs",
+        "uivgray",
+        "jeka98",
+        "horoshaya",
+        "sergeyguchok",
+        "renardby",
+        "aytsan"
+      ]
+    },
+    "dzmitrypanamarenka": {
+      "githubLink": "https://github.com/dzmitrypanamarenka",
+      "name": "dzmitrypanamarenka",
+      "students": [
+        "stas4it",
+        "vladislavmakarevich",
+        "juliankov",
+        "niksrakevich"
+      ]
+    },
+    "apalchys": {
+      "githubLink": "https://github.com/apalchys",
+      "name": "andreipalchys",
+      "students": [
+        "vladyaremeko",
+        "ton9q",
+        "nktvlkvch",
+        "valentinlipai",
+        "mazhoranta",
+        "unbelievablysmart"
+      ]
+    },
+    "olgapoddubko": {
+      "githubLink": "https://github.com/olgapoddubko",
+      "name": "volhapaddubka",
+      "students": [
+        "shet1990",
+        "maksagit",
+        "melk0sha",
+        "tanyasamal",
+        "karsash",
+        "dimadk24"
+      ]
+    },
+    "alexno": {
+      "githubLink": "https://github.com/alexno",
+      "name": "aliaksandrnovik",
+      "students": [
+        "xlopec23",
+        "odinrossy",
+        "vlad0mag0",
+        "kir-22",
+        "snaiperlod",
+        "llitrixkod"
+      ]
+    },
+    "yananeronskaya": {
+      "githubLink": "https://github.com/yananeronskaya",
+      "name": "yananiaronskaya",
+      "students": [
+        "ilyay95",
+        "allexblaze",
+        "dekim12",
+        "dimamavrin",
+        "vitalmizevich"
+      ]
+    },
+    "natashanekazakova": {
+      "githubLink": "https://github.com/natashanekazakova",
+      "name": "natalyanekazakova",
+      "students": [
+        "wladimirmihalev",
+        "antoprokopovich",
+        "iharpashkevich",
+        375291601334,
+        "375291601334"
+      ]
+    },
+    "mikhaillu": {
+      "githubLink": "https://github.com/mikhaillu",
+      "name": "mikhailnaharayeu",
+      "students": [
+        "elusiveway",
+        "cirillius",
+        "eugenepochenkov",
+        "lx-931203",
+        "astravukh",
+        "zetorby"
+      ]
+    },
+    "maryia-n-n": {
+      "githubLink": "https://github.com/maryia-n-n",
+      "name": "maryianabzdorava",
+      "students": [
+        "crypto-kittensseller",
+        "dyadinmax",
+        "alexeynovomlinets",
+        "antonysawyer"
+      ]
+    },
+    "mustafazadear": {
+      "githubLink": "https://github.com/mustafazadear",
+      "name": "arifmustafazade",
+      "students": [
+        "sobolevyuri",
+        "credov",
+        "clericus",
+        "dbaceko",
+        "frontsideman"
+      ]
+    },
+    "barysmarukhin": {
+      "githubLink": "https://github.com/barysmarukhin",
+      "name": "barysmarukhin",
+      "students": [
+        "denhock",
+        "kirillgalimov",
+        "igor-provotorov",
+        "kamatozzzik"
+      ]
+    },
+    "themarkmarrone": {
+      "githubLink": "https://github.com/themarkmarrone",
+      "name": "andreimarkovich",
+      "students": [
+        "ener9ettt",
+        "petromath77",
+        "barsolet",
+        "yanrishbe",
+        "juliamv",
+        "icebergnevercries",
+        "tamarashautsova"
+      ]
+    },
+    "olgamardvilko": {
+      "githubLink": "https://github.com/olgamardvilko",
+      "name": "volhamardvilka",
+      "students": [
+        "vladsanko",
+        "serzhanhelena",
+        "georgyminsk",
+        "greg1996",
+        "goldenkit",
+        "victoriathebrave",
+        "cuppake",
+        "alesya-polovets",
+        "kirill82",
+        "zm1try",
+        "kasatka660",
+        "warryr"
+      ]
+    },
+    "aliaksandrmamonenka": {
+      "githubLink": "https://github.com/aliaksandrmamonenka",
+      "name": "aliaksandrmamonenka",
+      "students": [
+        "moluram",
+        "cheeska",
+        "nesteklo",
+        "dasnein"
+      ]
+    },
+    "muskos": {
+      "githubLink": "https://github.com/muskos",
+      "name": "aliakseimakas",
+      "students": [
+        "vireah",
+        "yarobei",
+        "alexandrtichon",
+        "yanyan155",
+        "pkutsilina"
+      ]
+    },
+    "lykovartem": {
+      "githubLink": "https://github.com/lykovartem",
+      "name": "artsiomlykau",
+      "students": [
+        "glebhleb",
+        "segrey1989",
+        "kotukjubotuk",
+        "nikkola07",
+        "alexandershaternik",
+        "okband"
+      ]
+    },
+    "lipskiy-aleh": {
+      "githubLink": "https://github.com/lipskiy-aleh",
+      "name": "alehlipski",
+      "students": [
+        "agentumbrella",
+        "justforwebcoding",
+        "anastasiaburlo",
+        "devandscorp",
+        "qucca",
+        "lexbogos",
+        "zebabrat",
+        "aliaksandrarybak"
+      ]
+    },
+    "liaukou": {
+      "githubLink": "https://github.com/liaukou",
+      "name": "andreiliaukou",
+      "students": [
+        "dimasquared",
+        "smetaninpavel",
+        "ol4ash",
+        "kasper1999",
+        "ivanmikhailenka1"
+      ]
+    },
+    "lenkouandrei": {
+      "githubLink": "https://github.com/lenkouandrei",
+      "name": "andreilenkou",
+      "students": [
+        "goner52",
+        "poyuki",
+        "elmavis",
+        "rafchillons",
+        "kirylalexandrovich",
+        "vlad9719",
+        "mg3442"
+      ]
+    },
+    "lavitr": {
+      "githubLink": "https://github.com/lavitr",
+      "name": "ronlavit",
+      "students": [
+        "mrdemonrush",
+        "h0qw010xz",
+        "nikitaklepanosov",
+        "provedenceva",
+        "daryz"
+      ]
+    },
+    "artemlatyshev": {
+      "githubLink": "https://github.com/artemlatyshev",
+      "name": "artsiomlatyshau",
+      "students": [
+        "sergeiobolevich",
+        "dimashcherbakov",
+        "feulia",
+        "magi-a",
+        "andrewyanushkevich"
+      ]
+    },
+    "viachaslau-latushkin": {
+      "githubLink": "https://github.com/viachaslau-latushkin",
+      "name": "viachaslaulatushkin",
+      "students": [
+        "alexandrasitnikova",
+        "vitalibrych333",
+        "pavelkiru",
+        "shestakoff1441",
+        "katezhukel"
+      ]
+    },
+    "aliaksandrkuzniatsou": {
+      "githubLink": "https://github.com/aliaksandrkuzniatsou",
+      "name": "aliaksandrkuzniatsou",
+      "students": [
+        "apivovarchik",
+        "ruslandimitriuk",
+        "temachkin11",
+        "iamhappy2day",
+        "katiekruchko",
+        "artser97",
+        "stasnegreev",
+        "christopher-0118",
+        "igorbyl",
+        "maksyermak"
+      ]
+    },
+    "pavelkuzniatsou": {
+      "githubLink": "https://github.com/pavelkuzniatsou",
+      "name": "pavelkuzniatsou",
+      "students": [
+        "maxbrainygame",
+        "oliver337",
+        "kotiknalune42",
+        "akselatom",
+        "maryiasiamenava",
+        "kotcher1",
+        "kirilltovpinets"
+      ]
+    },
+    "agentkb": {
+      "githubLink": "https://github.com/agentkb",
+      "name": "bahdankutas",
+      "students": [
+        "litwin90",
+        "dzmitrybabak",
+        "systemghost",
+        "eugenetime",
+        "alexnaidovich",
+        "ivanchikovvalentin",
+        "ewelai"
+      ]
+    },
+    "woozzone": {
+      "githubLink": "https://github.com/woozzone",
+      "name": "viktarkurbatski",
+      "students": [
+        "bardashevich-matvei",
+        "korbann",
+        "yevgeniypy",
+        "tatyana-andreichyk",
+        "supersmf"
+      ]
+    },
+    "kukolcaalexandra": {
+      "githubLink": "https://github.com/kukolcaalexandra",
+      "name": "alexandrakukolca",
+      "students": [
+        "sxe2255",
+        "vovair",
+        "ingvaroldd",
+        "bragodin",
+        "fantom141",
+        "samo-war"
+      ]
+    },
+    "xeontem": {
+      "githubLink": "https://github.com/xeontem",
+      "name": "artsiomkukharev",
+      "students": [
+        "silichstudent",
+        "vvikota",
+        "leonard1k",
+        "mariakisel",
+        "qxfisher",
+        "bulbazubr",
+        "belkacraft"
+      ]
+    },
+    "linus2228": {
+      "githubLink": "https://github.com/linus2228",
+      "name": "dzmitrykudla",
+      "students": [
+        "sergeybaranovichi",
+        "karina198",
+        "arturkudlo",
+        "dimasofff",
+        "6alex6kash6"
+      ]
+    },
+    "shank111": {
+      "githubLink": "https://github.com/shank111",
+      "name": "deniskravchenko",
+      "students": [
+        "kirillfilipp",
+        "gemsgame",
+        "axissixa57",
+        "maxstarovoitov",
+        "nemkev",
+        "nemkev"
+      ]
+    },
+    "aliakseikrauchanka": {
+      "githubLink": "https://github.com/aliakseikrauchanka",
+      "name": "aliakseikrauchanka",
+      "students": [
+        "latiertiw",
+        "sined1",
+        "vladzuev",
+        "christinaalimova"
+      ]
+    },
+    "error404as": {
+      "githubLink": "https://github.com/error404as",
+      "name": "vitalikrasnou",
+      "students": [
+        "robertiqk",
+        "pozharitskiy",
+        "aliakseik19",
+        "tarsupon"
+      ]
+    },
+    "aliaksandrkrasnou": {
+      "githubLink": "https://github.com/aliaksandrkrasnou",
+      "name": "aliaksandrkrasnou",
+      "students": [
+        "andrey-lobach",
+        "pitergtx",
+        "alexandravlasenko",
+        "painincoming"
+      ]
+    },
+    "vladislavkovaliov": {
+      "githubLink": "https://github.com/vladislavkovaliov",
+      "name": "vladislavkovaliov",
+      "students": [
+        "roman-nareiko",
+        "evilamany",
+        "xvorob",
+        "pelya98"
+      ]
+    },
+    "korotkin": {
+      "githubLink": "https://github.com/korotkin",
+      "name": "sergehkorotkin",
+      "students": [
+        "pavelsab",
+        "ihartsykaka",
+        "vldshch",
+        "naijelo",
+        "tridenet",
+        "darinalitvin",
+        "zhechka"
+      ]
+    },
+    "papialoushka": {
+      "githubLink": "https://github.com/papialoushka",
+      "name": "alenakorachkina",
+      "students": [
+        "dmitryduk3",
+        "nikola2390",
+        "sashajohnson",
+        "yagorka1"
+      ]
+    },
+    "candentira": {
+      "githubLink": "https://github.com/candentira",
+      "name": "viktoryiaklimenka",
+      "students": [
+        "palessie",
+        "ustilushka",
+        "zzvipz",
+        "dmitrylenko",
+        "underdoglzd"
+      ]
+    },
+    "sleepwalky": {
+      "githubLink": "https://github.com/sleepwalky",
+      "name": "aliaksandrkleshchukevich",
+      "students": [
+        "noviceblunderer",
+        "kristalys",
+        "splin-shady",
+        "katrin-kot",
+        "gattygamaun",
+        "mariyapolt"
+      ]
+    },
+    "fallenby1": {
+      "githubLink": "https://github.com/fallenby1",
+      "name": "aliakseikhlebnikau",
+      "students": [
+        "katepavlovich",
+        "youngbrick",
+        "alekengineer",
+        "kottt4",
+        "walkunderrain"
+      ]
+    },
+    "arturminsksum": {
+      "githubLink": "https://github.com/arturminsksum",
+      "name": "arturkazlouski",
+      "students": [
+        "a-lika",
+        "uniqkue",
+        "sqwezzy",
+        "nikaneider",
+        "rebellix"
+      ]
+    },
+    "shparkivozhyk": {
+      "githubLink": "https://github.com/shparkivozhyk",
+      "name": "marynakavetskaya",
+      "students": [
+        "sburnt",
+        "tserekhivan",
+        "presidentsboyfriend",
+        "eugenekhristo"
+      ]
+    },
+    "nikkov17": {
+      "githubLink": "https://github.com/nikkov17",
+      "name": "mikalaikavaliou",
+      "students": [
+        "artichoks",
+        "anastasiyanovikovag",
+        "margaretmint",
+        "anastasiyamazura",
+        "dezman66",
+        "exedystyle",
+        "gaddyya"
+      ]
+    },
+    "yanaselin": {
+      "githubLink": "https://github.com/yanaselin",
+      "name": "yanakarotkina",
+      "students": [
+        "bsiropchik",
+        "scratchor",
+        "montes5",
+        "mrspunki",
+        "maksstef"
+      ]
+    },
+    "katekaranets": {
+      "githubLink": "https://github.com/katekaranets",
+      "name": "katsiarynakaranets",
+      "students": [
+        "kozelkoff",
+        "vladislavshyian",
+        "gleb-kukobnikov",
+        "sokol147",
+        "dantewitcher",
+        "natiedei",
+        "aliaksandrarybak",
+        "lexbogos",
+        "agentumbrella",
+        "devandscorp"
+      ]
+    },
+    "ivashkovaliza": {
+      "githubLink": "https://github.com/ivashkovaliza",
+      "name": "elizavetaivashkova",
+      "students": [
+        "stationtostation",
+        "tatsianacs",
+        "kharuk",
+        "wald3",
+        "usermeme",
+        "nikaz123"
+      ]
+    },
+    "helenegritsuk": {
+      "githubLink": "https://github.com/helenegritsuk",
+      "name": "alenahrytsuk",
+      "students": [
+        "devildummy",
+        "dzmitry-karachun-1987",
+        "serg8",
+        "nik-av",
+        "kishkun",
+        "tsygancova"
+      ]
+    },
+    "falizyer": {
+      "githubLink": "https://github.com/falizyer",
+      "name": "dzmitryhrachou",
+      "students": [
+        "bespodobno",
+        "anastasia1627",
+        "basch1727",
+        "lizabredberry",
+        "zartaich",
+        "estel1591",
+        "alekseymishuk"
+      ]
+    },
+    "annagrebenyuk": {
+      "githubLink": "https://github.com/annagrebenyuk",
+      "name": "hannahrabianiuk",
+      "students": [
+        "yuliyahlukhatarenka",
+        "lapa17",
+        "dmitrylutskovich",
+        "vladst90",
+        "atryomparfenenkov"
+      ]
+    },
+    "evgladkiy": {
+      "githubLink": "https://github.com/evgladkiy",
+      "name": "yauhenihladki",
+      "students": [
+        "evgenijkorob",
+        "anxair",
+        "siarohin",
+        "svyatlo",
+        "shurpelevas"
+      ]
+    },
+    "evgeniigrh": {
+      "githubLink": "https://github.com/evgeniigrh",
+      "name": "yauheniharokh",
+      "students": [
+        "antonprotas",
+        "mickbetch",
+        "oconely",
+        "natalianekrashevich",
+        "iryna-mazura",
+        "kamenkoalexandr",
+        "garin87"
+      ]
+    },
+    "amsterget": {
+      "githubLink": "https://github.com/amsterget",
+      "name": "ilyahancharyk",
+      "students": [
+        "tebeskashi",
+        "pinkrefugee",
+        "daqueze21",
+        "beetle23",
+        "lynyx",
+        "tomsssm",
+        "colambus13"
+      ]
+    },
+    "yuliahope": {
+      "githubLink": "https://github.com/yuliahope",
+      "name": "yuliyahaluza",
+      "students": [
+        "artyommakarov",
+        "levsha87",
+        "hottab9595",
+        "achyrych",
+        "arkadz",
+        "maniuska",
+        "sachoks"
+      ]
+    },
+    "predokmif": {
+      "githubLink": "https://github.com/predokmif",
+      "name": "konstantingrigorchuk",
+      "students": [
+        "belkacraft",
+        "kasatka660",
+        "warryr",
+        "alexandrapozniak",
+        "yuliabakhar"
+      ]
+    },
+    "valeragorobets": {
+      "githubLink": "https://github.com/valeragorobets",
+      "name": "valerigorobets",
+      "students": [
+        "ivandubrouski",
+        "mrforsyte",
+        "krisstets",
+        "yuriy17",
+        "olgakuksa",
+        "eliznovo",
+        "vitalij21"
+      ]
+    },
+    "pavelglebov": {
+      "githubLink": "https://github.com/pavelglebov",
+      "name": "pavelglebov",
+      "students": [
+        "oaliona",
+        "feodorius",
+        "ihar777",
+        "dzianiskavalionak",
+        "alexsmyk1992",
+        "vbkoshak"
+      ]
+    },
+    "aliaksandrfiodarau": {
+      "githubLink": "https://github.com/aliaksandrfiodarau",
+      "name": "aliaksandrfiodarau",
+      "students": [
+        "burach0k",
+        "denyingthetruth",
+        "invikto",
+        "khaliulinroman"
+      ]
+    },
+    "denisdashkevich": {
+      "githubLink": "https://github.com/denisdashkevich",
+      "name": "dzianisdashkevich",
+      "students": [
+        "yevganytyurin",
+        "pofs",
+        "alexeykuril0",
+        "kragov",
+        "gruzinskiiartem",
+        "pivchenkosv",
+        "andreisavelyev"
+      ]
+    },
+    "sergey-churilin": {
+      "githubLink": "https://github.com/sergey-churilin",
+      "name": "siarheichurylin",
+      "students": [
+        "gegorov",
+        "ilyakabanov",
+        "yurec0gurec",
+        "gubnich"
+      ]
+    },
+    "dzmitry-chuchva": {
+      "githubLink": "https://github.com/dzmitry-chuchva",
+      "name": "dzmitrychuchva",
+      "students": [
+        "modrix",
+        "scarletcamomile",
+        "tani4ik"
+      ]
+    },
+    "eugenech": {
+      "githubLink": "https://github.com/eugenech",
+      "name": "yauhenchaika",
+      "students": [
+        "ivchenkopavel",
+        "ruboscope",
+        "alesya-polovets",
+        "geek10010",
+        "antonykor",
+        "saniok017",
+        "dzmitryalfer"
+      ]
+    },
+    "elkinny": {
+      "githubLink": "https://github.com/elkinny",
+      "name": "viktoryiabudzionnaya",
+      "students": [
+        "kottanakor",
+        "daryazel",
+        "alenakharytonchyk",
+        "drizzlman",
+        "yonguksaram",
+        "ankorbay",
+        "yurychajkou",
+        "catrieona",
+        "lesechka"
+      ]
+    },
+    "den-bozhyk": {
+      "githubLink": "https://github.com/den-bozhyk",
+      "name": "denisbozhyk",
+      "students": [
+        "mailikey",
+        "vladesco",
+        "drdiman",
+        "dzmitrymashuk",
+        "ipixby",
+        "nickprudnik",
+        "vitalitybo"
+      ]
+    },
+    "kbirulia": {
+      "githubLink": "https://github.com/kbirulia",
+      "name": "katsiarynabirulia",
+      "students": [
+        "vergonini",
+        "katiar",
+        "anaumovich",
+        "kirillkolesnik123"
+      ]
+    },
+    "bezakdenis": {
+      "githubLink": "https://github.com/bezakdenis",
+      "name": "denisbezak",
+      "students": [
+        "aleks210219",
+        "krlktv",
+        "dsv-sergey",
+        "nadezhda-kotova",
+        "alexalizurchik",
+        "pavellyolya"
+      ]
+    },
+    "toshabely": {
+      "githubLink": "https://github.com/toshabely",
+      "name": "antonbely",
+      "students": [
+        "arkhipenka",
+        "abespolov",
+        "zzhiharevich",
+        "dimaspivas",
+        "maxkonopelko"
+      ]
+    },
+    "belousova-natallia": {
+      "githubLink": "https://github.com/belousova-natallia",
+      "name": "natalliabelavusava",
+      "students": [
+        "garnich",
+        "altobeyk",
+        "stigmatory15",
+        "kmetkokate"
+      ]
+    },
+    "tomasspring": {
+      "githubLink": "https://github.com/tomasspring",
+      "name": "verabarysava",
+      "students": [
+        "annakolesnikova",
+        "eliendil",
+        "a11mo",
+        "thecobolt"
+      ]
+    },
+    "ximet": {
+      "githubLink": "https://github.com/ximet",
+      "name": "dmitribardt",
+      "students": [
+        "dianatsevan",
+        "christopher-0118",
+        "happy-mary",
+        "onaker",
+        "igorbyl",
+        "maksyermak",
+        "riba0017",
+        "apivovarchik"
+      ]
+    },
+    "tanya-bakhmatovich": {
+      "githubLink": "https://github.com/tanya-bakhmatovich",
+      "name": "tatsianabakhmatovich",
+      "students": [
+        "fogfug1",
+        "yauhenilyin",
+        "dmitrigorchanin",
+        "soundmafi"
+      ]
+    },
+    "sintet": {
+      "githubLink": "https://github.com/sintet",
+      "name": "dzmitrybahachuk",
+      "students": [
+        "aspowerr",
+        "shchelkunchik",
+        "thatcherrr",
+        "torioyoshiko",
+        "julialar4enko",
+        "yasell",
+        "aleksandrmedvedev9000"
+      ]
+    },
+    "polinabobrovnik": {
+      "githubLink": "https://github.com/polinabobrovnik",
+      "name": "palinababrounik",
+      "students": [
+        "wowprojeck",
+        "andvikvin",
+        "alinkalu",
+        "marry705",
+        "fursaleksey",
+        "hursevichsergey"
+      ]
+    },
+    "sergeyshatter": {
+      "githubLink": "https://github.com/sergeyshatter",
+      "name": "siarheiausianik",
+      "students": [
+        "cuppake",
+        "pirsfrommi6",
+        "luffi2539",
+        "kirilltk"
+      ]
+    },
+    "tr3v3r": {
+      "githubLink": "https://github.com/tr3v3r",
+      "name": "aliakseiastafyeu",
+      "students": [
+        "bezchekera",
+        "nadinaaa",
+        "volunyshka",
+        "grnkvch",
+        "driliad",
+        "yanamina"
+      ]
+    },
+    "vinfinit": {
+      "githubLink": "https://github.com/vinfinit",
+      "name": "uladzimirartsemenka",
+      "students": [
+        "egoncharov",
+        "elostryy",
+        "eauheni",
+        "mikhailnakanechny",
+        "maringoka"
+      ]
+    },
+    "amelk9n": {
+      "githubLink": "https://github.com/amelk9n",
+      "name": "aliaksandramialkovich",
+      "students": [
+        "vitalur",
+        "jrzlve",
+        "panikutysh",
+        "vlukyane"
+      ]
+    },
+    "alidzm": {
+      "githubLink": "https://github.com/alidzm",
+      "name": "dzmitryaliaksandrau",
+      "students": [
+        "devbarden",
+        "nicklevkovich",
+        "poiskull",
+        "mrio1",
+        "alexkashpor",
+        "dmsomov"
+      ]
+    },
+    "juliaalaeva": {
+      "githubLink": "https://github.com/juliaalaeva",
+      "name": "yuliiaalaieva",
+      "students": [
+        "mariannagarbuzova",
+        "pytniza",
+        "ronavea",
+        "ahrechushkin",
+        "huriosity"
+      ]
+    },
+    "viktoryiaverasava": {
+      "githubLink": "https://github.com/viktoryiaverasava",
+      "name": "viktoryiaverasava",
+      "students": [
+        "psychotheus",
+        "lowershotower",
+        "bn1knb",
+        "zerovers",
+        "25kopek"
+      ]
+    },
+    "stsepchanka": {
+      "githubLink": "https://github.com/stsepchanka",
+      "name": "tatsianastsepchanka",
+      "students": [
+        "max-violent",
+        "rick42morty",
+        "dloz",
+        "scifsyh",
+        "tgfrey",
+        "lowershotower"
+      ]
+    },
+    "mkinitcpio": {
+      "githubLink": "https://github.com/mkinitcpio",
+      "name": "aliaksandrkazhamiaka",
+      "students": [
+        "slayer110",
+        "quiquek007",
+        "mohax-13",
+        "ksenia-ok",
+        "artsiom-zhuk",
+        "artsiom-zhuk"
+      ]
+    },
+    "clainatomi-zero": {
+      "githubLink": "https://github.com/clainatomi-zero",
+      "name": "maksimkantsavy",
+      "students": [
+        "alexandrshlyaeu",
+        "nicalas93",
+        "vldmr1",
+        "shinoby85"
+      ]
+    },
+    "famchankou": {
+      "githubLink": "https://github.com/famchankou",
+      "name": "aliaksandrfamchankou",
+      "students": [
+        "vladimirdobrik",
+        "tvorchud",
+        "iharvypau",
+        "vitalijsk",
+        "fcsm-andrei",
+        "quiquek007",
+        "mohax-13"
+      ]
+    },
+    "naaruson": {
+      "githubLink": "https://github.com/naaruson",
+      "students": [
+        "luffi2539"
+      ]
+    },
+    "bloodofden": {
+      "githubLink": "https://github.com/bloodofden",
+      "students": [
+        "pavellyolya"
+      ]
+    },
+    "dzmitry-varabei": {
+      "githubLink": "https://github.com/dzmitry-varabei",
+      "students": [
+        "auseika"
+      ]
+    },
+    "turovets": {
+      "githubLink": "https://github.com/turovets",
+      "students": [
+        "mikhailnakanechny"
+      ]
+    }
+  }
+}
