@@ -1,0 +1,49 @@
+table {
+  margin: 30px auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
+
+th {
+  background-color: #f2f8f9;
+}
+
+td:first-child {
+  background-color: #f2f8f9;
+}
+
+.link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #3238ef;
+}
+
+.checked {
+  background-color: #3da028;
+}
+
+.checking {
+  background-color: #ff8673;
+}
+
+.inprogress {
+  background-color: #ffdf40;
+}
+
+.todo {
+  background-color: #b4b2b2;
+}
+
+.nomark {
+  background-color: #ff2300;
+}
