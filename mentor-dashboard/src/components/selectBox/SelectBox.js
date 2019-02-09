@@ -30,13 +30,29 @@ class SelectBox extends Component {
       .catch((error) => {
         console.log('error: ', error);
       });
+
+    const lastSelectedMentor = localStorage.getItem('lastSelectedMentor');
+    console.log('localStorage:', lastSelectedMentor, typeof (lastSelectedMentor));
+    if (lastSelectedMentor) {
+      console.log('a');
+      this.setState({
+        selectedOption: {
+          value: lastSelectedMentor,
+          label: lastSelectedMentor,
+        },
+      });
+    }
   }
 
   handleChange = (selectedOption) => {
     this.setState({ selectedOption });
     console.log('Option selected:', selectedOption);
 
-    // localStorage.setItem('lastSelectedMentor', selectedOption.value);
+    if (selectedOption) {
+      localStorage.setItem('lastSelectedMentor', selectedOption.value);
+    } else {
+      localStorage.setItem('lastSelectedMentor', '');
+    }
   }
 
   render() {
