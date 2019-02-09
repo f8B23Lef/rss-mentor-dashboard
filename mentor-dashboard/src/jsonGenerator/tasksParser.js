@@ -3,7 +3,7 @@ const constants = require('./constants');
 
 const formTaskName = taskName => taskName.trim().toLowerCase().replace(/[\s|-]*/g, '');
 
-const formTaskStatus = taskStatus => taskStatus.trim().toLowerCase();
+const formTaskStatus = taskStatus => taskStatus.trim().toLowerCase().replace(/[\s]*/g, '');
 
 module.exports = () => {
   const tasks = {};
