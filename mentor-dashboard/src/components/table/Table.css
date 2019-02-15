@@ -1,9 +1,13 @@
+.table__wrapper {
+  margin: 30px;
+}
+
 table {
-  margin: 30px auto;
+  margin: 0px auto;
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid rgba(104, 104, 104, 0.5);
   border-collapse: collapse;
 }
 
@@ -46,4 +50,8 @@ td:first-child {
 
 .nomark {
   background-color: #ff2300;
+}
+
+.message {
+  text-align: center;
 }

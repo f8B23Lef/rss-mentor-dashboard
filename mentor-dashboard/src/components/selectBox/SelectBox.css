@@ -1,4 +1,8 @@
+.select__wrapper {
+  margin: 30px;
+}
+
 .selectBox {
   width: 500px;
-  margin: 0 auto;
+  margin: 0px auto;
 }
