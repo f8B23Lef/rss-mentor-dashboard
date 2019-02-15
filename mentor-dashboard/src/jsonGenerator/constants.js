@@ -2,6 +2,7 @@ module.exports = Object.freeze({
   RESOURCES_PATH: './src/jsonGenerator/resources/',
   JSON_PATH: './dist/',
   JSON_FILE: 'data.json',
+  PUBLISH_PATH: 'https://github.com/f8B23Lef/mentor-dashboard.git',
   TASKS_FILE: 'Tasks.xlsx',
   TASKS_SHEET: 'Sheet1',
   TASKS_A: 'task',

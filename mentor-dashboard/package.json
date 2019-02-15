@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "generate-json": "node ./src/jsonGenerator/jsonGenerator.js",
+    "publish": "node ./src/jsonGenerator/publishToGhPages.js",
     "start": "webpack-dev-server --open",
     "build": "webpack --mode production",
     "lint": "eslint ./src/**/*.js",
@@ -38,6 +39,7 @@
     "@babel/polyfill": "^7.2.5",
     "babel-eslint": "^10.0.1",
     "firebase": "^5.8.2",
+    "gh-pages": "^2.0.1",
     "lodash": "^4.17.11",
     "mkdirp": "^0.5.1",
     "prop-types": "^15.6.2",
