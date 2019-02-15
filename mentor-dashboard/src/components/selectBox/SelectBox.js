@@ -11,13 +11,11 @@ class SelectBox extends Component {
 
     this.state = {
       selectedOption: null,
-      // selectedOption: 'maximuk',
       options: [],
     };
   }
 
-  componentDidMount() {
-    console.log('componentDidMount');
+  componentDidMount = () => {
     fetch('./data.json')
       .then(response => response.json())
       .then((data) => {
@@ -27,14 +25,10 @@ class SelectBox extends Component {
         })), 'value');
         this.setState({ options });
       })
-      .catch((error) => {
-        console.log('error: ', error);
-      });
+      .catch(error => error);
 
     const lastSelectedMentor = localStorage.getItem('lastSelectedMentor');
-    console.log('localStorage:', lastSelectedMentor, typeof (lastSelectedMentor));
     if (lastSelectedMentor) {
-      console.log('a');
       this.setState({
         selectedOption: {
           value: lastSelectedMentor,
@@ -44,9 +38,29 @@ class SelectBox extends Component {
     }
   }
 
+  static getDerivedStateFromProps = (nextProps, prevState) => {
+    if (prevState.user !== nextProps.user) {
+      if (nextProps.user) {
+        localStorage.setItem('lastSelectedMentor', nextProps.user);
+      }
+
+      const lastSelectedMentor = localStorage.getItem('lastSelectedMentor');
+      if (lastSelectedMentor) {
+        return {
+          user: nextProps.user,
+          selectedOption: {
+            value: lastSelectedMentor,
+            label: lastSelectedMentor,
+          },
+        };
+      }
+    }
+
+    return null;
+  }
+
   handleChange = (selectedOption) => {
     this.setState({ selectedOption });
-    console.log('Option selected:', selectedOption);
 
     if (selectedOption) {
       localStorage.setItem('lastSelectedMentor', selectedOption.value);
@@ -57,33 +71,23 @@ class SelectBox extends Component {
 
   render() {
     const { selectedOption, options } = this.state;
-    console.log('selectedOption:', selectedOption, options.length);
-
-    let table = null;
-    if (selectedOption) {
-      console.log('true = ', selectedOption.value);
-      table = <Table mentorGithubNick={selectedOption.value} />;
-    }
-
-    const filterConfig = {
-      matchFrom: 'start',
-    };
 
     return (
-      <div>
-        <Select
-          autoFocus
-          // defaultInputValue="maximuk"
-          className="selectBox"
-          placeholder="Input mentor github nick"
-          isClearable
-          value={selectedOption}
-          onChange={this.handleChange}
-          options={options}
-          filterOption={createFilter(filterConfig)}
-        />
-        {table}
-      </div>
+      <>
+        <section className="select__wrapper">
+          <Select
+            autoFocus
+            className="selectBox"
+            placeholder="Input mentor github nick"
+            isClearable
+            value={selectedOption}
+            onChange={this.handleChange}
+            options={options}
+            filterOption={createFilter({ matchFrom: 'start' })}
+          />
+        </section>
+        {selectedOption && <Table mentorGithubNick={selectedOption.value} />}
+      </>
     );
   }
 }

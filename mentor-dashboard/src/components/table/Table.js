@@ -3,12 +3,6 @@ import PropTypes from 'prop-types';
 
 import './Table.css';
 
-// async getData() {
-//   const res = await fetch('./data.json');
-//   const data = await es.json();
-//   return this.setState({ data });
-// }
-
 class Table extends Component {
   constructor(props) {
     super(props);
@@ -21,31 +15,27 @@ class Table extends Component {
 
 
   static getDerivedStateFromProps(nextProps, prevState) {
-    console.log('getDerivedStateFromProps: ', nextProps, prevState);
     if (prevState.mentorGithubNick !== nextProps.mentorGithubNick) {
       return {
         mentorGithubNick: nextProps.mentorGithubNick,
       };
     }
-    // Return null to indicate no change to state.
+
     return null;
   }
 
   componentDidMount() {
-    console.log('componentDidMount');
     fetch('./data.json')
       .then(response => response.json())
       .then((data) => {
-        console.log('data: ', data);
         this.setState({ data });
       })
-      .catch((error) => {
-        console.log('error: ', error);
-      });
+      .catch(error => error);
   }
 
   formTableHeaders = () => {
     const { data, mentorGithubNick } = this.state;
+
     return (
       <tr>
         <th />
@@ -56,10 +46,10 @@ class Table extends Component {
     );
   };
 
-  calculteTaskStatus = (defaultStatus, done) => {
+  calculteTaskStatus = (defaultStatus, isDone) => {
     let taskStatus = '';
 
-    if (done) {
+    if (isDone) {
       taskStatus = 'checked';
     } else {
       switch (defaultStatus) {
@@ -89,11 +79,13 @@ class Table extends Component {
 
   formTableContent = (() => {
     const { data, mentorGithubNick } = this.state;
+
     return (Object.keys(data.tasks).map(task => (
       <tr key={task}>
         <th><a className="link" target="_blank" rel="noopener noreferrer" href={data.tasks[task].link}>{task}</a></th>
         {data.mentors[mentorGithubNick].students.map(studentGuhubNick => (
-          <td className={this.calculteTaskStatus(data.tasks[task].status, data.students[studentGuhubNick].tasks.includes(task))} key={studentGuhubNick}>{this.calculteTaskStatus(data.tasks[task].status, data.students[studentGuhubNick].tasks.includes(task))}</td>
+          // eslint-disable-next-line max-len
+          <td className={this.calculteTaskStatus(data.tasks[task].status, data.students[studentGuhubNick].tasks.includes(task))} key={studentGuhubNick} />
         ))}
       </tr>
     )));
@@ -101,25 +93,34 @@ class Table extends Component {
 
   render() {
     const { data, mentorGithubNick } = this.state;
-    console.log('data> ', data, 'mentorGithubNick> ', mentorGithubNick);
 
-    if (data) {
+    if (data && Object.keys(data.mentors).includes(mentorGithubNick)) {
       return (
-        <table>
-          <tbody>
-            {this.formTableHeaders()}
-            {this.formTableContent()}
-          </tbody>
-        </table>
+        <section className="table__wrapper">
+          <table>
+            <tbody>
+              {this.formTableHeaders()}
+              {this.formTableContent()}
+            </tbody>
+          </table>
+        </section>
       );
     }
 
-    return (<p />);
+    if (data && !Object.keys(data.mentors).includes(mentorGithubNick)) {
+      return (<p className="message">You do not have students</p>);
+    }
+
+    return (<></>);
   }
 }
 
 Table.propTypes = {
-  mentorGithubNick: PropTypes.string.isRequired,
+  mentorGithubNick: PropTypes.string,
+};
+
+Table.defaultProps = {
+  mentorGithubNick: null,
 };
 
 export default Table;
