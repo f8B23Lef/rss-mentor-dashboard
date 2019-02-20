@@ -56,9 +56,6 @@
     "xlsx": "^0.14.1"
   },
   "jest": {
-    "setupFilesAfterEnv": [
-      "<rootDir>/_tests_/setupTests.js"
-    ],
     "transform": {
       "^.+\\.jsx?$": "babel-jest"
     },
