@@ -5,14 +5,18 @@ const formGithubNick = nick => nick.trim().toLowerCase();
 
 const formGithubLink = nick => 'https://github.com/'.concat(formGithubNick(nick));
 
-module.exports = () => {
-  const students = {};
-
+const buildStudentsJson = () => {
   const studentsWorkbook = XLSX.readFile(`${constants.RESOURCES_PATH}${constants.MENTOR_STUDENTS_FILE}`);
   const studentsSheet = studentsWorkbook.Sheets[constants.PAIRS_SHEET];
-  const studentsSheetJson = XLSX.utils.sheet_to_json(studentsSheet);
+  const studentsJson = XLSX.utils.sheet_to_json(studentsSheet);
 
-  studentsSheetJson.forEach((element) => {
+  return studentsJson;
+};
+
+const parseStudentsJson = (studentsJson) => {
+  const students = {};
+
+  studentsJson.forEach((element) => {
     const githubNick = formGithubNick(String(element[constants.PAIRS_B]));
     const githubLink = formGithubLink(String(element[constants.PAIRS_B]));
     students[githubNick] = {
@@ -22,4 +26,12 @@ module.exports = () => {
   });
 
   return students;
+};
+
+const buildStudentsData = () => parseStudentsJson(buildStudentsJson());
+
+module.exports = {
+  buildStudentsData,
+  // export for tests
+  parseStudentsJson,
 };
