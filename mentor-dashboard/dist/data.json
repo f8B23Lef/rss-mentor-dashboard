@@ -1933,8 +1933,8 @@
     "nemkev": {
       "githubLink": "https://github.com/nemkev",
       "tasks": [
-        "codejam\"cv\"",
         "codejam\"corejs\"",
+        "codejam\"cv\"",
         "markup#1",
         "codejam\"dom,domevents\"",
         "codejam\"scoreboard\"",
@@ -2268,8 +2268,8 @@
       "tasks": [
         "codejam\"corejs\"",
         "codejam\"dom,domevents\"",
-        "presentation",
-        "markup#1"
+        "markup#1",
+        "presentation"
       ]
     },
     "gleb7raul": {
@@ -2846,11 +2846,11 @@
       "tasks": [
         "codejam\"cv\"",
         "codejam\"corejs\"",
+        "rsactivist",
         "markup#1",
         "codejam\"dom,domevents\"",
         "presentation",
-        "codejam\"scoreboard\"",
-        "rsactivist"
+        "codejam\"scoreboard\""
       ]
     },
     "sergeyguchok": {
@@ -2945,10 +2945,10 @@
         "codejam\"cv\"",
         "markup#1",
         "codejam\"dom,domevents\"",
+        "rsactivist",
         "youtube",
         "presentation",
-        "codejam\"scoreboard\"",
-        "rsactivist"
+        "codejam\"scoreboard\""
       ]
     },
     "megustafather": {
@@ -4208,11 +4208,11 @@
     "luffi2539": {
       "githubLink": "https://github.com/luffi2539",
       "tasks": [
-        "rsactivist",
         "codejam\"corejs\"",
         "codejam\"cv\"",
         "markup#1",
-        "codejam\"dom,domevents\""
+        "codejam\"dom,domevents\"",
+        "rsactivist"
       ]
     },
     "kirilltk": {
@@ -5806,8 +5806,7 @@
         "igarok91",
         "aliakseibabko",
         "gleb7raul",
-        "zhekaprb",
-        "aliakseibabko"
+        "zhekaprb"
       ]
     },
     "klim711": {
@@ -6520,7 +6519,6 @@
         "gemsgame",
         "axissixa57",
         "maxstarovoitov",
-        "nemkev",
         "nemkev"
       ]
     },
@@ -7098,7 +7096,6 @@
         "quiquek007",
         "mohax-13",
         "ksenia-ok",
-        "artsiom-zhuk",
         "artsiom-zhuk"
       ]
     },
@@ -7128,24 +7125,33 @@
     "naaruson": {
       "githubLink": "https://github.com/naaruson",
       "students": [
+        "kirilltk",
+        "pirsfrommi6",
         "luffi2539"
       ]
     },
     "bloodofden": {
       "githubLink": "https://github.com/bloodofden",
       "students": [
-        "pavellyolya"
+        "pavellyolya",
+        "dsv-sergey",
+        "alexalizurchik"
       ]
     },
     "dzmitry-varabei": {
       "githubLink": "https://github.com/dzmitry-varabei",
       "students": [
+        "daniil-loban",
+        "amoebiusss",
+        "renardby",
+        "pirsfrommi6",
         "auseika"
       ]
     },
     "turovets": {
       "githubLink": "https://github.com/turovets",
       "students": [
+        "arkhipenka",
         "mikhailnakanechny"
       ]
     }
