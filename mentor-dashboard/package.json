@@ -6,6 +6,8 @@
   "scripts": {
     "generate-json": "node ./src/jsonGenerator/jsonGenerator.js",
     "publish": "node ./src/jsonGenerator/publishToGhPages.js",
+    "test": "jest",
+    "coverage": "jest --coverage",
     "start": "webpack-dev-server --open",
     "build": "webpack --mode production",
     "lint": "eslint ./src/**/*.js",
@@ -23,13 +25,18 @@
     "@babel/plugin-transform-async-to-generator": "^7.2.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.1.0",
     "babel-loader": "^8.0.4",
     "css-loader": "^1.0.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.9.1",
     "eslint": "^5.12.1",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "^7.12.4",
+    "jest": "^24.1.0",
+    "react-test-renderer": "^16.8.2",
     "style-loader": "^0.23.0",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.1",
@@ -47,5 +54,16 @@
     "react-dom": "^16.5.2",
     "react-select": "^2.3.0",
     "xlsx": "^0.14.1"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "<rootDir>/_tests_/setupTests.js"
+    ],
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    },
+    "moduleNameMapper": {
+      "\\.(css|less)$": "<rootDir>/__mocks__/styleMock.js"
+    }
   }
 }
